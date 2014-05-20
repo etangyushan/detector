@@ -1,3 +1,0 @@
-aa.doc
-bb.doc
-c.doc
