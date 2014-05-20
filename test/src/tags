@@ -1,0 +1,64 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
+!_TAG_PROGRAM_VERSION	5.8	//
+ACSMX_H	acsmx.h	26;"	d
+ACSM_FAIL_STATE	acsmx.h	38;"	d
+ACSM_PATTERN	acsmx.h	/^} ACSM_PATTERN;$/;"	t	typeref:struct:_acsm_pattern
+ACSM_STATETABLE	acsmx.h	/^}ACSM_STATETABLE; $/;"	t	typeref:struct:__anon1
+ACSM_STRUCT	acsmx.h	/^}ACSM_STRUCT;$/;"	t	typeref:struct:__anon2
+AC_FREE	acsmx.c	/^static void AC_FREE (void *p) $/;"	f	file:
+AC_MALLOC	acsmx.c	/^static void *AC_MALLOC (int n) $/;"	f	file:
+ALPHABET_SIZE	acsmx.h	35;"	d
+AddMatchListEntry	acsmx.c	/^static void AddMatchListEntry (ACSM_STRUCT * acsm, int state, ACSM_PATTERN * px) $/;"	f	file:
+AddPatternStates	acsmx.c	/^static void AddPatternStates (ACSM_STRUCT * acsm, ACSM_PATTERN * p) $/;"	f	file:
+Build_DFA	acsmx.c	/^static void Build_DFA (ACSM_STRUCT * acsm) $/;"	f	file:
+CC	Makefile	/^CC=gcc$/;"	m
+ConvertCaseEx	acsmx.c	/^static void ConvertCaseEx (unsigned char *d, unsigned char *s, int m) $/;"	f	file:
+FailState	acsmx.h	/^	int      FailState;   $/;"	m	struct:__anon1
+MAXLEN	acsmx.h	36;"	d
+MEMASSERT	acsmx.c	65;"	d	file:
+MatchList	acsmx.h	/^	ACSM_PATTERN *MatchList;   $/;"	m	struct:__anon1
+NextState	acsmx.h	/^	int      NextState[ ALPHABET_SIZE ];  $/;"	m	struct:__anon1
+PrintMatch	acsmx.c	/^void PrintMatch (ACSM_PATTERN * pattern,ACSM_PATTERN * mlist, int nline,int index) $/;"	f
+PrintSummary	acsmx.c	/^void PrintSummary (ACSM_PATTERN * pattern)$/;"	f
+QNODE	acsmx.c	/^}QNODE;$/;"	t	typeref:struct:_qnode	file:
+QUEUE	acsmx.c	/^}QUEUE;$/;"	t	typeref:struct:_queue	file:
+TARGET	Makefile	/^TARGET=all$/;"	m
+Tc	acsmx.c	/^static unsigned char Tc[64*1024];$/;"	v	file:
+_acsm_pattern	acsmx.h	/^typedef struct _acsm_pattern {      $/;"	s
+_qnode	acsmx.c	/^typedef struct _qnode$/;"	s	file:
+_queue	acsmx.c	/^typedef struct _queue$/;"	s	file:
+acsmAddPattern	acsmx.c	/^int acsmAddPattern (ACSM_STRUCT * p, unsigned char *pat, int n, int nocase) $/;"	f
+acsmCompile	acsmx.c	/^int acsmCompile (ACSM_STRUCT * acsm) $/;"	f
+acsmFree	acsmx.c	/^void acsmFree (ACSM_STRUCT * acsm) $/;"	f
+acsmMaxStates	acsmx.h	/^	int acsmMaxStates;  $/;"	m	struct:__anon2
+acsmNew	acsmx.c	/^ACSM_STRUCT * acsmNew () $/;"	f
+acsmNumStates	acsmx.h	/^	int acsmNumStates;  $/;"	m	struct:__anon2
+acsmPatterns	acsmx.h	/^	ACSM_PATTERN    * acsmPatterns;$/;"	m	struct:__anon2
+acsmSearch	acsmx.c	/^int acsmSearch (ACSM_STRUCT * acsm, unsigned char *Tx, int n,void (*PrintMatch) (ACSM_PATTERN * pattern,ACSM_PATTERN * mlist, int nline,int index)) $/;"	f
+acsmStateTable	acsmx.h	/^	ACSM_STATETABLE * acsmStateTable;$/;"	m	struct:__anon2
+casepatrn	acsmx.h	/^	unsigned char         *casepatrn;$/;"	m	struct:_acsm_pattern
+count	acsmx.c	/^	int count;$/;"	m	struct:_queue	file:
+head	acsmx.c	/^	QNODE * head, *tail;$/;"	m	struct:_queue	file:
+id	acsmx.h	/^	void   * id;$/;"	m	struct:_acsm_pattern
+init_xlatcase	acsmx.c	/^static void init_xlatcase () $/;"	f	file:
+main	entry.c	/^int main (int argc, char **argv) $/;"	f
+n	acsmx.h	/^	int      n;$/;"	m	struct:_acsm_pattern
+next	acsmx.c	/^	struct _qnode *next;$/;"	m	struct:_qnode	typeref:struct:_qnode::_qnode	file:
+next	acsmx.h	/^	struct  _acsm_pattern *next;$/;"	m	struct:_acsm_pattern	typeref:struct:_acsm_pattern::_acsm_pattern
+nline	acsmx.c	/^extern int nline=1;$/;"	v
+nmatch	acsmx.h	/^	int		 nmatch;$/;"	m	struct:_acsm_pattern
+nocase	acsmx.h	/^	int      nocase;$/;"	m	struct:_acsm_pattern
+patrn	acsmx.h	/^	unsigned char         *patrn;$/;"	m	struct:_acsm_pattern
+queue_add	acsmx.c	/^static void queue_add (QUEUE * s, int state) $/;"	f	file:
+queue_count	acsmx.c	/^static int queue_count (QUEUE * s) $/;"	f	file:
+queue_free	acsmx.c	/^static void queue_free (QUEUE * s) $/;"	f	file:
+queue_init	acsmx.c	/^static void queue_init (QUEUE * s) $/;"	f	file:
+queue_remove	acsmx.c	/^static int queue_remove (QUEUE * s) $/;"	f	file:
+state	acsmx.c	/^	int state;$/;"	m	struct:_qnode	file:
+tail	acsmx.c	/^	QNODE * head, *tail;$/;"	m	struct:_queue	file:
+text	entry.c	/^unsigned char text[MAXLEN];$/;"	v
+xlatcase	acsmx.c	/^static unsigned char xlatcase[256];$/;"	v	file:

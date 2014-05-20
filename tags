@@ -1,0 +1,2504 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
+!_TAG_PROGRAM_VERSION	5.8	//
+ACLOCAL	jansson/api_jansson/Makefile	/^ACLOCAL = ${SHELL} \/root\/workdir\/worksoft\/jansson-2.6\/missing --run aclocal-1.11$/;"	m
+ACLOCAL	nfex/Makefile	/^ACLOCAL = ${SHELL} \/root\/workdir\/workfile\/quanju\/nfex\/missing --run aclocal-1.11$/;"	m
+ACLOCAL	nfex/src/Makefile	/^ACLOCAL = ${SHELL} \/root\/workdir\/workfile\/quanju\/nfex\/missing --run aclocal-1.11$/;"	m
+ACLOCAL	test/jansson/api_jansson/Makefile	/^ACLOCAL = ${SHELL} \/root\/workdir\/worksoft\/jansson-2.6\/missing --run aclocal-1.11$/;"	m
+ACLOCAL_M4	jansson/api_jansson/Makefile	/^ACLOCAL_M4 = $(top_srcdir)\/aclocal.m4$/;"	m
+ACLOCAL_M4	nfex/Makefile	/^ACLOCAL_M4 = $(top_srcdir)\/aclocal.m4$/;"	m
+ACLOCAL_M4	nfex/src/Makefile	/^ACLOCAL_M4 = $(top_srcdir)\/aclocal.m4$/;"	m
+ACLOCAL_M4	test/jansson/api_jansson/Makefile	/^ACLOCAL_M4 = $(top_srcdir)\/aclocal.m4$/;"	m
+ACSMX_H	acnew/acsmx.h	25;"	d
+ACSMX_H	acsmx.h	25;"	d
+ACSMX_H	test/src/acsmx.h	26;"	d
+ACSM_FAIL_STATE	acnew/acsmx.h	37;"	d
+ACSM_FAIL_STATE	acsmx.h	37;"	d
+ACSM_FAIL_STATE	test/src/acsmx.h	38;"	d
+ACSM_PATTERN	acnew/acsmx.h	/^} ACSM_PATTERN;$/;"	t	typeref:struct:_acsm_pattern
+ACSM_PATTERN	acsmx.h	/^} ACSM_PATTERN;$/;"	t	typeref:struct:_acsm_pattern
+ACSM_PATTERN	test/src/acsmx.h	/^} ACSM_PATTERN;$/;"	t	typeref:struct:_acsm_pattern
+ACSM_STATETABLE	acnew/acsmx.h	/^} ACSM_STATETABLE;$/;"	t	typeref:struct:__anon1
+ACSM_STATETABLE	acsmx.h	/^} ACSM_STATETABLE;$/;"	t	typeref:struct:__anon8
+ACSM_STATETABLE	test/src/acsmx.h	/^}ACSM_STATETABLE; $/;"	t	typeref:struct:__anon6
+ACSM_STRUCT	acnew/acsmx.h	/^} ACSM_STRUCT;$/;"	t	typeref:struct:__anon2
+ACSM_STRUCT	acsmx.h	/^} ACSM_STRUCT;$/;"	t	typeref:struct:__anon9
+ACSM_STRUCT	test/src/acsmx.h	/^}ACSM_STRUCT;$/;"	t	typeref:struct:__anon7
+AC_FREE	acnew/acsmx.c	/^AC_FREE (void *p)$/;"	f	file:
+AC_FREE	acsmx.c	/^AC_FREE (void *p)$/;"	f	file:
+AC_FREE	test/src/acsmx.c	/^static void AC_FREE (void *p) $/;"	f	file:
+AC_MALLOC	acnew/acsmx.c	/^AC_MALLOC (int n)$/;"	f	file:
+AC_MALLOC	acsmx.c	/^AC_MALLOC (int n)$/;"	f	file:
+AC_MALLOC	test/src/acsmx.c	/^static void *AC_MALLOC (int n) $/;"	f	file:
+AFTRANSFORM	mydir.h	14;"	d
+ALPHABET_SIZE	acnew/acsmx.h	34;"	d
+ALPHABET_SIZE	acsmx.h	34;"	d
+ALPHABET_SIZE	test/src/acsmx.h	35;"	d
+AMTAR	jansson/api_jansson/Makefile	/^AMTAR = $${TAR-tar}$/;"	m
+AMTAR	nfex/Makefile	/^AMTAR = ${SHELL} \/root\/workdir\/workfile\/quanju\/nfex\/missing --run tar$/;"	m
+AMTAR	nfex/src/Makefile	/^AMTAR = ${SHELL} \/root\/workdir\/workfile\/quanju\/nfex\/missing --run tar$/;"	m
+AMTAR	test/jansson/api_jansson/Makefile	/^AMTAR = $${TAR-tar}$/;"	m
+AM_CFLAGS	nfex/src/Makefile	/^AM_CFLAGS = -D_OFFSET_BITS=64 -D_LARGEFILE_SOURCE$/;"	m
+AM_CPPFLAGS	jansson/api_jansson/Makefile	/^AM_CPPFLAGS = -I$(top_builddir)\/src -I$(top_srcdir)\/src$/;"	m
+AM_CPPFLAGS	test/jansson/api_jansson/Makefile	/^AM_CPPFLAGS = -I$(top_builddir)\/src -I$(top_srcdir)\/src$/;"	m
+AM_RECURSIVE_TARGETS	nfex/Makefile	/^AM_RECURSIVE_TARGETS = $(RECURSIVE_TARGETS:-recursive=) \\$/;"	m
+AM_YFLAGS	nfex/src/Makefile	/^AM_YFLAGS = -d$/;"	m
+AR	jansson/api_jansson/Makefile	/^AR = ar$/;"	m
+AR	test/jansson/api_jansson/Makefile	/^AR = ar$/;"	m
+ATPATH	judgeftype.c	3;"	d	file:
+ATPATH	test/filejudge/judge6/judgeftype.c	4;"	d	file:
+ATPATH	test/filejudge/judgeftype.c	3;"	d	file:
+AUTOCONF	jansson/api_jansson/Makefile	/^AUTOCONF = ${SHELL} \/root\/workdir\/worksoft\/jansson-2.6\/missing --run autoconf$/;"	m
+AUTOCONF	nfex/Makefile	/^AUTOCONF = ${SHELL} \/root\/workdir\/workfile\/quanju\/nfex\/missing --run autoconf$/;"	m
+AUTOCONF	nfex/src/Makefile	/^AUTOCONF = ${SHELL} \/root\/workdir\/workfile\/quanju\/nfex\/missing --run autoconf$/;"	m
+AUTOCONF	test/jansson/api_jansson/Makefile	/^AUTOCONF = ${SHELL} \/root\/workdir\/worksoft\/jansson-2.6\/missing --run autoconf$/;"	m
+AUTOHEADER	jansson/api_jansson/Makefile	/^AUTOHEADER = ${SHELL} \/root\/workdir\/worksoft\/jansson-2.6\/missing --run autoheader$/;"	m
+AUTOHEADER	nfex/Makefile	/^AUTOHEADER = ${SHELL} \/root\/workdir\/workfile\/quanju\/nfex\/missing --run autoheader$/;"	m
+AUTOHEADER	nfex/src/Makefile	/^AUTOHEADER = ${SHELL} \/root\/workdir\/workfile\/quanju\/nfex\/missing --run autoheader$/;"	m
+AUTOHEADER	test/jansson/api_jansson/Makefile	/^AUTOHEADER = ${SHELL} \/root\/workdir\/worksoft\/jansson-2.6\/missing --run autoheader$/;"	m
+AUTOMAKE	jansson/api_jansson/Makefile	/^AUTOMAKE = ${SHELL} \/root\/workdir\/worksoft\/jansson-2.6\/missing --run automake-1.11$/;"	m
+AUTOMAKE	nfex/Makefile	/^AUTOMAKE = ${SHELL} \/root\/workdir\/workfile\/quanju\/nfex\/missing --run automake-1.11$/;"	m
+AUTOMAKE	nfex/src/Makefile	/^AUTOMAKE = ${SHELL} \/root\/workdir\/workfile\/quanju\/nfex\/missing --run automake-1.11$/;"	m
+AUTOMAKE	test/jansson/api_jansson/Makefile	/^AUTOMAKE = ${SHELL} \/root\/workdir\/worksoft\/jansson-2.6\/missing --run automake-1.11$/;"	m
+AWK	jansson/api_jansson/Makefile	/^AWK = gawk$/;"	m
+AWK	nfex/Makefile	/^AWK = gawk$/;"	m
+AWK	nfex/src/Makefile	/^AWK = gawk$/;"	m
+AWK	test/jansson/api_jansson/Makefile	/^AWK = gawk$/;"	m
+AddMatchListEntry	acnew/acsmx.c	/^AddMatchListEntry (ACSM_STRUCT * acsm, int state, ACSM_PATTERN * px)$/;"	f	file:
+AddMatchListEntry	acsmx.c	/^AddMatchListEntry (ACSM_STRUCT * acsm, int state, ACSM_PATTERN * px)$/;"	f	file:
+AddMatchListEntry	test/src/acsmx.c	/^static void AddMatchListEntry (ACSM_STRUCT * acsm, int state, ACSM_PATTERN * px) $/;"	f	file:
+AddPatternStates	acnew/acsmx.c	/^AddPatternStates (ACSM_STRUCT * acsm, ACSM_PATTERN * p)$/;"	f	file:
+AddPatternStates	acsmx.c	/^AddPatternStates (ACSM_STRUCT * acsm, ACSM_PATTERN * p)$/;"	f	file:
+AddPatternStates	test/src/acsmx.c	/^static void AddPatternStates (ACSM_STRUCT * acsm, ACSM_PATTERN * p) $/;"	f	file:
+BEGIN	nfex/src/confl.c	124;"	d	file:
+BETRANSFORM	mydir.h	11;"	d
+BETRANSFORM	nfex/src/extract.c	165;"	d	file:
+BETRANSFORM	nfex/src/init.c	12;"	d	file:
+BFPATH	judgeftype.c	4;"	d	file:
+BUFFER_SIZE	test/code/mypthread.c	18;"	d	file:
+BUFFER_SIZE	test/code/pth.c	4;"	d	file:
+BUF_SIZE	test/ftp/ftpdownload/ftp_cli.c	10;"	d	file:
+BUF_SIZE	test/ftp/ftpdownload/ftp_serv.c	12;"	d	file:
+Build_DFA	acnew/acsmx.c	/^Build_DFA (ACSM_STRUCT * acsm)$/;"	f	file:
+Build_DFA	acsmx.c	/^Build_DFA (ACSM_STRUCT * acsm)$/;"	f	file:
+Build_DFA	test/src/acsmx.c	/^static void Build_DFA (ACSM_STRUCT * acsm) $/;"	f	file:
+CC	acnew/Makefile	/^CC=gcc$/;"	m
+CC	jansson/api_jansson/Makefile	/^CC = gcc$/;"	m
+CC	nfex/Makefile	/^CC = gcc$/;"	m
+CC	nfex/src/Makefile	/^CC = gcc$/;"	m
+CC	test/jansson/api_jansson/Makefile	/^CC = gcc$/;"	m
+CC	test/src/Makefile	/^CC=gcc$/;"	m
+CCDEPMODE	jansson/api_jansson/Makefile	/^CCDEPMODE = depmode=gcc3$/;"	m
+CCDEPMODE	nfex/Makefile	/^CCDEPMODE = depmode=gcc3$/;"	m
+CCDEPMODE	nfex/src/Makefile	/^CCDEPMODE = depmode=gcc3$/;"	m
+CCDEPMODE	test/jansson/api_jansson/Makefile	/^CCDEPMODE = depmode=gcc3$/;"	m
+CCLD	jansson/api_jansson/Makefile	/^CCLD = $(CC)$/;"	m
+CCLD	nfex/src/Makefile	/^CCLD = $(CC)$/;"	m
+CCLD	test/jansson/api_jansson/Makefile	/^CCLD = $(CC)$/;"	m
+CFLAGS	jansson/api_jansson/Makefile	/^CFLAGS = -g -O2$/;"	m
+CFLAGS	nfex/Makefile	/^CFLAGS =  -ggdb$/;"	m
+CFLAGS	nfex/src/Makefile	/^CFLAGS =  -ggdb$/;"	m
+CFLAGS	test/jansson/api_jansson/Makefile	/^CFLAGS = -g -O2$/;"	m
+CLAMAV_ERROR	nfex/nfex_exe_pp/src/nfex_exe_pp.c	39;"	d	file:
+CLAMAV_UNKNOWN	nfex/nfex_exe_pp/src/nfex_exe_pp.c	38;"	d	file:
+CO	jansson/jan/makefile	/^CO=get_jans.o  str_type_jansson.o object_iter_jansson.o$/;"	m
+CO	jansson/jan2/makefile	/^CO=get_jans.o  str_type_jansson.o object_iter_jansson.o$/;"	m
+CO	jansson/jan3/makefile	/^CO=policyjans.o$/;"	m
+CO	jansson/jan4/makefile	/^CO=policyjans.o$/;"	m
+CO	jansson/jan5/makefile	/^CO=policyjans.o$/;"	m
+CO	jansson/jan6/makefile	/^CO=policyjans.o$/;"	m
+CO	makefile	/^CO=$(CO1) $(CO2) $(CO3) $(CO4)$/;"	m
+CO1	makefile	/^CO1=state_cpu.o state_memory.o state_net.o state_disk.o computerstate.o$/;"	m
+CO2	makefile	/^CO2=seekkey.o judgeftype.o my_syslog.o event.o tool.o $/;"	m
+CO3	makefile	/^CO3=filenamelog.o ssl_client.o $/;"	m
+CO4	makefile	/^CO4=acsmx.o matchjans.o policyjans.o$/;"	m
+COMPILE	jansson/api_jansson/Makefile	/^COMPILE = $(CC) $(DEFS) $(DEFAULT_INCLUDES) $(INCLUDES) $(AM_CPPFLAGS) \\$/;"	m
+COMPILE	nfex/src/Makefile	/^COMPILE = $(CC) $(DEFS) $(DEFAULT_INCLUDES) $(INCLUDES) $(AM_CPPFLAGS) \\$/;"	m
+COMPILE	test/jansson/api_jansson/Makefile	/^COMPILE = $(CC) $(DEFS) $(DEFAULT_INCLUDES) $(INCLUDES) $(AM_CPPFLAGS) \\$/;"	m
+COMPLETE	nfex/include/search.h	/^    COMPLETE$/;"	e	enum:srch_nodetype
+COMPUTERSTATE	mydir.h	27;"	d
+CONFIG_CLEAN_FILES	jansson/api_jansson/Makefile	/^CONFIG_CLEAN_FILES =$/;"	m
+CONFIG_CLEAN_FILES	nfex/Makefile	/^CONFIG_CLEAN_FILES = include\/version.h$/;"	m
+CONFIG_CLEAN_FILES	nfex/src/Makefile	/^CONFIG_CLEAN_FILES =$/;"	m
+CONFIG_CLEAN_FILES	test/jansson/api_jansson/Makefile	/^CONFIG_CLEAN_FILES =$/;"	m
+CONFIG_CLEAN_VPATH_FILES	jansson/api_jansson/Makefile	/^CONFIG_CLEAN_VPATH_FILES =$/;"	m
+CONFIG_CLEAN_VPATH_FILES	nfex/Makefile	/^CONFIG_CLEAN_VPATH_FILES =$/;"	m
+CONFIG_CLEAN_VPATH_FILES	nfex/src/Makefile	/^CONFIG_CLEAN_VPATH_FILES =$/;"	m
+CONFIG_CLEAN_VPATH_FILES	test/jansson/api_jansson/Makefile	/^CONFIG_CLEAN_VPATH_FILES =$/;"	m
+CONFIG_HEADER	jansson/api_jansson/Makefile	/^CONFIG_HEADER = $(top_builddir)\/config.h$/;"	m
+CONFIG_HEADER	nfex/Makefile	/^CONFIG_HEADER = $(top_builddir)\/include\/config.h$/;"	m
+CONFIG_HEADER	nfex/src/Makefile	/^CONFIG_HEADER = $(top_builddir)\/include\/config.h$/;"	m
+CONFIG_HEADER	test/jansson/api_jansson/Makefile	/^CONFIG_HEADER = $(top_builddir)\/config.h$/;"	m
+CONF_H	nfex/include/conf.h	33;"	d
+COUNTMAX	jansson/jan/get_jans.h	12;"	d
+COUNTMAX	jansson/jan2/get_jans.h	12;"	d
+COUNTMAX	jansson/jan3/policyjans.h	14;"	d
+COUNTMAX	jansson/jan4/policyjans.h	14;"	d
+COUNTMAX	jansson/jan5/policyjans.h	14;"	d
+COUNTMAX	jansson/jan6/policyjans.h	14;"	d
+COUNTMAX	jansson/testjan/extractvalue_jansson.c	7;"	d	file:
+COUNTMAX	policyjans.h	14;"	d
+CPP	jansson/api_jansson/Makefile	/^CPP = gcc -E$/;"	m
+CPP	nfex/Makefile	/^CPP = gcc -E$/;"	m
+CPP	nfex/src/Makefile	/^CPP = gcc -E$/;"	m
+CPP	test/jansson/api_jansson/Makefile	/^CPP = gcc -E$/;"	m
+CPPFLAGS	jansson/api_jansson/Makefile	/^CPPFLAGS = $/;"	m
+CPPFLAGS	nfex/Makefile	/^CPPFLAGS = $/;"	m
+CPPFLAGS	nfex/src/Makefile	/^CPPFLAGS = $/;"	m
+CPPFLAGS	test/jansson/api_jansson/Makefile	/^CPPFLAGS = $/;"	m
+CPU_OCCUPY	computerstate.h	/^} CPU_OCCUPY;$/;"	t	typeref:struct:PACKED
+CTAGS	jansson/api_jansson/Makefile	/^CTAGS = ctags$/;"	m
+CTAGS	nfex/Makefile	/^CTAGS = ctags$/;"	m
+CTAGS	nfex/src/Makefile	/^CTAGS = ctags$/;"	m
+CTAGS	test/jansson/api_jansson/Makefile	/^CTAGS = ctags$/;"	m
+CURLHTTPS_H_	test/curlssl/curlhttps.h	2;"	d
+CWD_SIZE	test/ftp/ftpdownload/ftp_cli.c	12;"	d	file:
+CWD_SIZE	test/ftp/ftpdownload/ftp_serv.c	14;"	d	file:
+CYGPATH_W	jansson/api_jansson/Makefile	/^CYGPATH_W = echo$/;"	m
+CYGPATH_W	nfex/Makefile	/^CYGPATH_W = echo$/;"	m
+CYGPATH_W	nfex/src/Makefile	/^CYGPATH_W = echo$/;"	m
+CYGPATH_W	test/jansson/api_jansson/Makefile	/^CYGPATH_W = echo$/;"	m
+ConvertCaseEx	acnew/acsmx.c	/^ConvertCaseEx (unsigned char *d, unsigned char *s, int m)$/;"	f	file:
+ConvertCaseEx	acsmx.c	/^ConvertCaseEx (unsigned char *d, unsigned char *s, int m)$/;"	f	file:
+ConvertCaseEx	test/src/acsmx.c	/^static void ConvertCaseEx (unsigned char *d, unsigned char *s, int m) $/;"	f	file:
+Coordinate	acnew/acsmx.h	/^struct Coordinate {$/;"	s
+Coordinate	acsmx.h	/^struct Coordinate {$/;"	s
+DATA	nfex/src/Makefile	/^DATA = $(sysconf_DATA)$/;"	m
+DEBUG	mydebug.h	16;"	d
+DEBUG	mydebug.h	18;"	d
+DEBUG	test/filejudge/judge/mydebug.h	16;"	d
+DEBUG	test/filejudge/judge/mydebug.h	18;"	d
+DEBUG	test/filejudge/judge2/mydebug.h	16;"	d
+DEBUG	test/filejudge/judge2/mydebug.h	18;"	d
+DEBUG	test/filejudge/judge3/mydebug.h	16;"	d
+DEBUG	test/filejudge/judge3/mydebug.h	18;"	d
+DEBUG	test/filejudge/judge4/mydebug.h	16;"	d
+DEBUG	test/filejudge/judge4/mydebug.h	18;"	d
+DEBUG	test/filejudge/judge5/mydebug.h	16;"	d
+DEBUG	test/filejudge/judge5/mydebug.h	18;"	d
+DEBUG	test/filejudge/judge6/mydebug.h	16;"	d
+DEBUG	test/filejudge/judge6/mydebug.h	18;"	d
+DEBUG	test/filejudge/testjudge/mydebug.h	16;"	d
+DEBUG	test/filejudge/testjudge/mydebug.h	18;"	d
+DEFAULT_INCLUDES	jansson/api_jansson/Makefile	/^DEFAULT_INCLUDES = -I. -I$(top_builddir)$/;"	m
+DEFAULT_INCLUDES	nfex/src/Makefile	/^DEFAULT_INCLUDES = -I. -I$(top_builddir)\/include$/;"	m
+DEFAULT_INCLUDES	test/jansson/api_jansson/Makefile	/^DEFAULT_INCLUDES = -I. -I$(top_builddir)$/;"	m
+DEFS	jansson/api_jansson/Makefile	/^DEFS = -DHAVE_CONFIG_H$/;"	m
+DEFS	nfex/Makefile	/^DEFS = -DHAVE_CONFIG_H$/;"	m
+DEFS	nfex/src/Makefile	/^DEFS = -DHAVE_CONFIG_H$/;"	m
+DEFS	test/jansson/api_jansson/Makefile	/^DEFS = -DHAVE_CONFIG_H$/;"	m
+DEPDIR	jansson/api_jansson/Makefile	/^DEPDIR = .deps$/;"	m
+DEPDIR	nfex/Makefile	/^DEPDIR = .deps$/;"	m
+DEPDIR	nfex/src/Makefile	/^DEPDIR = .deps$/;"	m
+DEPDIR	test/jansson/api_jansson/Makefile	/^DEPDIR = .deps$/;"	m
+DESIP	event.h	12;"	d
+DESIP	test/event/event.h	12;"	d
+DISTFILES	jansson/api_jansson/Makefile	/^DISTFILES = $(DIST_COMMON) $(DIST_SOURCES) $(TEXINFOS) $(EXTRA_DIST)$/;"	m
+DISTFILES	nfex/Makefile	/^DISTFILES = $(DIST_COMMON) $(DIST_SOURCES) $(TEXINFOS) $(EXTRA_DIST)$/;"	m
+DISTFILES	nfex/src/Makefile	/^DISTFILES = $(DIST_COMMON) $(DIST_SOURCES) $(TEXINFOS) $(EXTRA_DIST)$/;"	m
+DISTFILES	test/jansson/api_jansson/Makefile	/^DISTFILES = $(DIST_COMMON) $(DIST_SOURCES) $(TEXINFOS) $(EXTRA_DIST)$/;"	m
+DIST_ARCHIVES	nfex/Makefile	/^DIST_ARCHIVES = $(distdir).tar.gz$/;"	m
+DIST_COMMON	jansson/api_jansson/Makefile	/^DIST_COMMON = $(srcdir)\/Makefile.am $(srcdir)\/Makefile.in$/;"	m
+DIST_COMMON	nfex/Makefile	/^DIST_COMMON = $(am__configure_deps) $(srcdir)\/Makefile.am \\$/;"	m
+DIST_COMMON	nfex/src/Makefile	/^DIST_COMMON = $(srcdir)\/Makefile.am $(srcdir)\/Makefile.in confl.c \\$/;"	m
+DIST_COMMON	test/jansson/api_jansson/Makefile	/^DIST_COMMON = $(srcdir)\/Makefile.am $(srcdir)\/Makefile.in$/;"	m
+DIST_SOURCES	jansson/api_jansson/Makefile	/^DIST_SOURCES = $(test_array_SOURCES) $(test_copy_SOURCES) \\$/;"	m
+DIST_SOURCES	nfex/Makefile	/^DIST_SOURCES =$/;"	m
+DIST_SOURCES	nfex/src/Makefile	/^DIST_SOURCES = $(nfex_SOURCES)$/;"	m
+DIST_SOURCES	test/jansson/api_jansson/Makefile	/^DIST_SOURCES = $(test_array_SOURCES) $(test_copy_SOURCES) \\$/;"	m
+DIST_SUBDIRS	nfex/Makefile	/^DIST_SUBDIRS = $(SUBDIRS)$/;"	m
+DLLTOOL	jansson/api_jansson/Makefile	/^DLLTOOL = false$/;"	m
+DLLTOOL	test/jansson/api_jansson/Makefile	/^DLLTOOL = false$/;"	m
+DOMAIN	event.h	20;"	d
+DOMAIN	test/event/event.h	20;"	d
+DSYMUTIL	jansson/api_jansson/Makefile	/^DSYMUTIL = $/;"	m
+DSYMUTIL	test/jansson/api_jansson/Makefile	/^DSYMUTIL = $/;"	m
+DUMPBIN	jansson/api_jansson/Makefile	/^DUMPBIN = $/;"	m
+DUMPBIN	test/jansson/api_jansson/Makefile	/^DUMPBIN = $/;"	m
+Decode	nfex/nfex_exe_pp/src/md5c.c	/^static void Decode (output, input, len)$/;"	f	file:
+ECHO	nfex/src/confl.c	567;"	d	file:
+ECHO_C	jansson/api_jansson/Makefile	/^ECHO_C = $/;"	m
+ECHO_C	nfex/Makefile	/^ECHO_C = $/;"	m
+ECHO_C	nfex/src/Makefile	/^ECHO_C = $/;"	m
+ECHO_C	test/jansson/api_jansson/Makefile	/^ECHO_C = $/;"	m
+ECHO_N	jansson/api_jansson/Makefile	/^ECHO_N = -n$/;"	m
+ECHO_N	nfex/Makefile	/^ECHO_N = -n$/;"	m
+ECHO_N	nfex/src/Makefile	/^ECHO_N = -n$/;"	m
+ECHO_N	test/jansson/api_jansson/Makefile	/^ECHO_N = -n$/;"	m
+ECHO_T	jansson/api_jansson/Makefile	/^ECHO_T = $/;"	m
+ECHO_T	nfex/Makefile	/^ECHO_T = $/;"	m
+ECHO_T	nfex/src/Makefile	/^ECHO_T = $/;"	m
+ECHO_T	test/jansson/api_jansson/Makefile	/^ECHO_T = $/;"	m
+EGREP	jansson/api_jansson/Makefile	/^EGREP = \/bin\/grep -E$/;"	m
+EGREP	nfex/Makefile	/^EGREP = \/bin\/grep -E$/;"	m
+EGREP	nfex/src/Makefile	/^EGREP = \/bin\/grep -E$/;"	m
+EGREP	test/jansson/api_jansson/Makefile	/^EGREP = \/bin\/grep -E$/;"	m
+ENDLINE	nfex/include/confy.h	/^     ENDLINE = 261$/;"	e	enum:yytokentype
+ENDLINE	nfex/include/confy.h	43;"	d
+ENDLINE	nfex/src/confy.c	/^     ENDLINE = 261$/;"	e	enum:yytokentype	file:
+ENDLINE	nfex/src/confy.c	137;"	d	file:
+ENDLINE	nfex/src/confy.h	/^     ENDLINE = 261$/;"	e	enum:yytokentype
+ENDLINE	nfex/src/confy.h	52;"	d
+EOB_ACT_CONTINUE_SCAN	nfex/src/confl.c	159;"	d	file:
+EOB_ACT_END_OF_FILE	nfex/src/confl.c	160;"	d	file:
+EOB_ACT_LAST_MATCH	nfex/src/confl.c	161;"	d	file:
+ETAGS	jansson/api_jansson/Makefile	/^ETAGS = etags$/;"	m
+ETAGS	nfex/Makefile	/^ETAGS = etags$/;"	m
+ETAGS	nfex/src/Makefile	/^ETAGS = etags$/;"	m
+ETAGS	test/jansson/api_jansson/Makefile	/^ETAGS = etags$/;"	m
+EVENTLOG	event.h	23;"	d
+EVENTLOG	test/event/event.h	23;"	d
+EVENTMSG	mydir.h	30;"	d
+EVENT_H_	event.h	2;"	d
+EVENT_H_	test/event/event.h	2;"	d
+EXEEXT	jansson/api_jansson/Makefile	/^EXEEXT = $/;"	m
+EXEEXT	nfex/Makefile	/^EXEEXT = $/;"	m
+EXEEXT	nfex/src/Makefile	/^EXEEXT = $/;"	m
+EXEEXT	test/jansson/api_jansson/Makefile	/^EXEEXT = $/;"	m
+EXTRACT_H	nfex/include/extract.h	33;"	d
+EXTRA_DIST	jansson/api_jansson/Makefile	/^EXTRA_DIST = run check-exports$/;"	m
+EXTRA_DIST	test/jansson/api_jansson/Makefile	/^EXTRA_DIST = run check-exports$/;"	m
+Encode	nfex/nfex_exe_pp/src/md5c.c	/^static void Encode (output, input, len)$/;"	f	file:
+F	nfex/nfex_exe_pp/src/md5c.c	66;"	d	file:
+FF	nfex/nfex_exe_pp/src/md5c.c	78;"	d	file:
+FGREP	jansson/api_jansson/Makefile	/^FGREP = \/bin\/grep -F$/;"	m
+FGREP	test/jansson/api_jansson/Makefile	/^FGREP = \/bin\/grep -F$/;"	m
+FILE	test/filejudge/judge/judgeftype10.c	2;"	d	file:
+FILE	test/filejudge/judge2/judgeftype10.c	2;"	d	file:
+FILE	test/filejudge/judge3/judgeftype.c	3;"	d	file:
+FILE	test/filejudge/judge4/judgeftype.c	3;"	d	file:
+FILE	test/filejudge/judge5/judgeftype.c	3;"	d	file:
+FILENAMELOG_H_	filenamelog.h	2;"	d
+FILENAMELOG_H_	test/code/filenamelog.h	2;"	d
+FILENAME_BUFFER_SIZE	nfex/include/extract.h	40;"	d
+FILE_SIZE	test/ftp/ftpdownload/ftp_cli.c	11;"	d	file:
+FILE_SIZE	test/ftp/ftpdownload/ftp_serv.c	13;"	d	file:
+FLEXINT_H	nfex/src/confl.c	29;"	d	file:
+FLEX_BETA	nfex/src/confl.c	13;"	d	file:
+FLEX_SCANNER	nfex/src/confl.c	8;"	d	file:
+FNV_PRIME	nfex/include/hash.h	24;"	d
+FOOTER	nfex/include/search.h	/^    FOOTER$/;"	e	enum:spectype
+FailState	acnew/acsmx.h	/^	int FailState;$/;"	m	struct:__anon1
+FailState	acsmx.h	/^	int FailState;$/;"	m	struct:__anon8
+FailState	test/src/acsmx.h	/^	int      FailState;   $/;"	m	struct:__anon6
+G	nfex/nfex_exe_pp/src/md5c.c	67;"	d	file:
+GG	nfex/nfex_exe_pp/src/md5c.c	83;"	d	file:
+GREP	jansson/api_jansson/Makefile	/^GREP = \/bin\/grep$/;"	m
+GREP	nfex/Makefile	/^GREP = \/bin\/grep$/;"	m
+GREP	nfex/src/Makefile	/^GREP = \/bin\/grep$/;"	m
+GREP	test/jansson/api_jansson/Makefile	/^GREP = \/bin\/grep$/;"	m
+GZIP_ENV	nfex/Makefile	/^GZIP_ENV = --best$/;"	m
+H	nfex/nfex_exe_pp/src/md5c.c	68;"	d	file:
+HASH_H	nfex/include/hash.h	17;"	d
+HAVE_LIBFL	nfex/include/config.h	11;"	d
+HEADER	nfex/include/search.h	/^    HEADER,$/;"	e	enum:spectype
+HH	nfex/nfex_exe_pp/src/md5c.c	88;"	d	file:
+I	nfex/nfex_exe_pp/src/md5c.c	69;"	d	file:
+II	nfex/nfex_exe_pp/src/md5c.c	93;"	d	file:
+INITIAL	nfex/src/confl.c	480;"	d	file:
+INSTALL	jansson/api_jansson/Makefile	/^INSTALL = \/usr\/bin\/install -c$/;"	m
+INSTALL	nfex/Makefile	/^INSTALL = \/usr\/bin\/install -c$/;"	m
+INSTALL	nfex/src/Makefile	/^INSTALL = \/usr\/bin\/install -c$/;"	m
+INSTALL	test/jansson/api_jansson/Makefile	/^INSTALL = \/usr\/bin\/install -c$/;"	m
+INSTALL_DATA	jansson/api_jansson/Makefile	/^INSTALL_DATA = ${INSTALL} -m 644$/;"	m
+INSTALL_DATA	nfex/Makefile	/^INSTALL_DATA = ${INSTALL} -m 644$/;"	m
+INSTALL_DATA	nfex/src/Makefile	/^INSTALL_DATA = ${INSTALL} -m 644$/;"	m
+INSTALL_DATA	test/jansson/api_jansson/Makefile	/^INSTALL_DATA = ${INSTALL} -m 644$/;"	m
+INSTALL_HEADER	jansson/api_jansson/Makefile	/^INSTALL_HEADER = $(INSTALL_DATA)$/;"	m
+INSTALL_HEADER	nfex/Makefile	/^INSTALL_HEADER = $(INSTALL_DATA)$/;"	m
+INSTALL_HEADER	nfex/src/Makefile	/^INSTALL_HEADER = $(INSTALL_DATA)$/;"	m
+INSTALL_HEADER	test/jansson/api_jansson/Makefile	/^INSTALL_HEADER = $(INSTALL_DATA)$/;"	m
+INSTALL_PROGRAM	jansson/api_jansson/Makefile	/^INSTALL_PROGRAM = ${INSTALL}$/;"	m
+INSTALL_PROGRAM	nfex/Makefile	/^INSTALL_PROGRAM = ${INSTALL}$/;"	m
+INSTALL_PROGRAM	nfex/src/Makefile	/^INSTALL_PROGRAM = ${INSTALL}$/;"	m
+INSTALL_PROGRAM	test/jansson/api_jansson/Makefile	/^INSTALL_PROGRAM = ${INSTALL}$/;"	m
+INSTALL_SCRIPT	jansson/api_jansson/Makefile	/^INSTALL_SCRIPT = ${INSTALL}$/;"	m
+INSTALL_SCRIPT	nfex/Makefile	/^INSTALL_SCRIPT = ${INSTALL}$/;"	m
+INSTALL_SCRIPT	nfex/src/Makefile	/^INSTALL_SCRIPT = ${INSTALL}$/;"	m
+INSTALL_SCRIPT	test/jansson/api_jansson/Makefile	/^INSTALL_SCRIPT = ${INSTALL}$/;"	m
+INSTALL_STRIP_PROGRAM	jansson/api_jansson/Makefile	/^INSTALL_STRIP_PROGRAM = $(install_sh) -c -s$/;"	m
+INSTALL_STRIP_PROGRAM	nfex/Makefile	/^INSTALL_STRIP_PROGRAM = $(install_sh) -c -s$/;"	m
+INSTALL_STRIP_PROGRAM	nfex/src/Makefile	/^INSTALL_STRIP_PROGRAM = $(install_sh) -c -s$/;"	m
+INSTALL_STRIP_PROGRAM	test/jansson/api_jansson/Makefile	/^INSTALL_STRIP_PROGRAM = $(install_sh) -c -s$/;"	m
+INT16_MAX	nfex/src/confl.c	72;"	d	file:
+INT16_MIN	nfex/src/confl.c	63;"	d	file:
+INT32_MAX	nfex/src/confl.c	75;"	d	file:
+INT32_MIN	nfex/src/confl.c	66;"	d	file:
+INT8_MAX	nfex/src/confl.c	69;"	d	file:
+INT8_MIN	nfex/src/confl.c	60;"	d	file:
+JANS_H_	jansson/jan/get_jans.h	2;"	d
+JANS_H_	jansson/jan2/get_jans.h	2;"	d
+JUDGEFTYPE_H_	judgeftype.h	2;"	d
+KEY	test/event/eventrcv.c	7;"	d	file:
+KEYVALUE	client.c	11;"	d	file:
+KEYVALUE	ssl_client.c	11;"	d	file:
+KEYVALUE	test_keyfa.c	8;"	d	file:
+KEYWORD	mydir.h	23;"	d
+KEYWORDSTR	mydir.h	24;"	d
+LD	jansson/api_jansson/Makefile	/^LD = \/usr\/bin\/ld -m elf_x86_64$/;"	m
+LD	jansson/jan/makefile	/^LD=-Wall -ljansson$/;"	m
+LD	jansson/jan2/makefile	/^LD=-Wall -ljansson$/;"	m
+LD	jansson/jan3/makefile	/^LD=-Wall -ljansson$/;"	m
+LD	jansson/jan4/makefile	/^LD=-Wall -ljansson$/;"	m
+LD	jansson/jan5/makefile	/^LD=-Wall -ljansson$/;"	m
+LD	jansson/jan6/makefile	/^LD=-Wall -ljansson$/;"	m
+LD	makefile	/^LD=-Wall -lssl -ldl -pthread -lcurl -ljansson$/;"	m
+LD	test/jansson/api_jansson/Makefile	/^LD = \/usr\/bin\/ld -m elf_x86_64$/;"	m
+LDADD	jansson/api_jansson/Makefile	/^LDADD = $(top_builddir)\/src\/libjansson.la$/;"	m
+LDADD	test/jansson/api_jansson/Makefile	/^LDADD = $(top_builddir)\/src\/libjansson.la$/;"	m
+LDFLAGS	jansson/api_jansson/Makefile	/^LDFLAGS = -static  # for speed and Valgrind$/;"	m
+LDFLAGS	nfex/Makefile	/^LDFLAGS = $/;"	m
+LDFLAGS	nfex/src/Makefile	/^LDFLAGS = $/;"	m
+LDFLAGS	test/jansson/api_jansson/Makefile	/^LDFLAGS = -static  # for speed and Valgrind$/;"	m
+LENMAX	jansson/jan/get_jans.h	14;"	d
+LENMAX	jansson/jan2/get_jans.h	14;"	d
+LENMAX	jansson/jan3/policyjans.h	16;"	d
+LENMAX	jansson/jan4/policyjans.h	16;"	d
+LENMAX	jansson/jan5/policyjans.h	16;"	d
+LENMAX	jansson/jan6/policyjans.h	16;"	d
+LENMAX	jansson/testjan/extractvalue_jansson.c	9;"	d	file:
+LENMAX	policyjans.h	16;"	d
+LEX	nfex/Makefile	/^LEX = flex$/;"	m
+LEX	nfex/src/Makefile	/^LEX = flex$/;"	m
+LEXCOMPILE	nfex/src/Makefile	/^LEXCOMPILE = $(LEX) $(LFLAGS) $(AM_LFLAGS)$/;"	m
+LEXLIB	nfex/Makefile	/^LEXLIB = -lfl$/;"	m
+LEXLIB	nfex/src/Makefile	/^LEXLIB = -lfl$/;"	m
+LEX_OUTPUT_ROOT	nfex/Makefile	/^LEX_OUTPUT_ROOT = lex.yy$/;"	m
+LEX_OUTPUT_ROOT	nfex/src/Makefile	/^LEX_OUTPUT_ROOT = lex.yy$/;"	m
+LG	jansson/jan/makefile	/^LG=-g$/;"	m
+LG	jansson/jan2/makefile	/^LG=-g$/;"	m
+LG	jansson/jan3/makefile	/^LG=-g$/;"	m
+LG	jansson/jan4/makefile	/^LG=-g$/;"	m
+LG	jansson/jan5/makefile	/^LG=-g$/;"	m
+LG	jansson/jan6/makefile	/^LG=-g$/;"	m
+LG	makefile	/^LG=-g$/;"	m
+LIBOBJS	jansson/api_jansson/Makefile	/^LIBOBJS = $/;"	m
+LIBOBJS	nfex/Makefile	/^LIBOBJS = $/;"	m
+LIBOBJS	nfex/src/Makefile	/^LIBOBJS = $/;"	m
+LIBOBJS	test/jansson/api_jansson/Makefile	/^LIBOBJS = $/;"	m
+LIBS	jansson/api_jansson/Makefile	/^LIBS = $/;"	m
+LIBS	nfex/Makefile	/^LIBS = -lnet -lpcap -lm -lfl $/;"	m
+LIBS	nfex/src/Makefile	/^LIBS = -lnet -lpcap -lm -lfl $/;"	m
+LIBS	test/jansson/api_jansson/Makefile	/^LIBS = $/;"	m
+LIBTOOL	jansson/api_jansson/Makefile	/^LIBTOOL = $(SHELL) $(top_builddir)\/libtool$/;"	m
+LIBTOOL	test/jansson/api_jansson/Makefile	/^LIBTOOL = $(SHELL) $(top_builddir)\/libtool$/;"	m
+LINK	jansson/api_jansson/Makefile	/^LINK = $(LIBTOOL) --tag=CC $(AM_LIBTOOLFLAGS) $(LIBTOOLFLAGS) \\$/;"	m
+LINK	nfex/src/Makefile	/^LINK = $(CCLD) $(AM_CFLAGS) $(CFLAGS) $(AM_LDFLAGS) $(LDFLAGS) -o $@$/;"	m
+LINK	test/jansson/api_jansson/Makefile	/^LINK = $(LIBTOOL) --tag=CC $(AM_LIBTOOLFLAGS) $(LIBTOOLFLAGS) \\$/;"	m
+LIPO	jansson/api_jansson/Makefile	/^LIPO = $/;"	m
+LIPO	test/jansson/api_jansson/Makefile	/^LIPO = $/;"	m
+LN_S	jansson/api_jansson/Makefile	/^LN_S = ln -s$/;"	m
+LN_S	test/jansson/api_jansson/Makefile	/^LN_S = ln -s$/;"	m
+LTCOMPILE	jansson/api_jansson/Makefile	/^LTCOMPILE = $(LIBTOOL) --tag=CC $(AM_LIBTOOLFLAGS) $(LIBTOOLFLAGS) \\$/;"	m
+LTCOMPILE	test/jansson/api_jansson/Makefile	/^LTCOMPILE = $(LIBTOOL) --tag=CC $(AM_LIBTOOLFLAGS) $(LIBTOOLFLAGS) \\$/;"	m
+LTLIBOBJS	jansson/api_jansson/Makefile	/^LTLIBOBJS = $/;"	m
+LTLIBOBJS	nfex/Makefile	/^LTLIBOBJS = $/;"	m
+LTLIBOBJS	nfex/src/Makefile	/^LTLIBOBJS = $/;"	m
+LTLIBOBJS	test/jansson/api_jansson/Makefile	/^LTLIBOBJS = $/;"	m
+MAKEINFO	jansson/api_jansson/Makefile	/^MAKEINFO = ${SHELL} \/root\/workdir\/worksoft\/jansson-2.6\/missing --run makeinfo$/;"	m
+MAKEINFO	nfex/Makefile	/^MAKEINFO = ${SHELL} \/root\/workdir\/workfile\/quanju\/nfex\/missing --run makeinfo$/;"	m
+MAKEINFO	nfex/src/Makefile	/^MAKEINFO = ${SHELL} \/root\/workdir\/workfile\/quanju\/nfex\/missing --run makeinfo$/;"	m
+MAKEINFO	test/jansson/api_jansson/Makefile	/^MAKEINFO = ${SHELL} \/root\/workdir\/worksoft\/jansson-2.6\/missing --run makeinfo$/;"	m
+MANIFEST_TOOL	jansson/api_jansson/Makefile	/^MANIFEST_TOOL = :$/;"	m
+MANIFEST_TOOL	test/jansson/api_jansson/Makefile	/^MANIFEST_TOOL = :$/;"	m
+MATCH	test/filejudge/judge5/seekkey4.c	7;"	d	file:
+MATCH	test/filejudge/judge5/seekkey5.c	4;"	d	file:
+MATCH	test/filejudge/judge6/seekkey4.c	7;"	d	file:
+MATCH	test/filejudge/judge6/seekkey5.c	4;"	d	file:
+MATCHDIR	event.h	18;"	d
+MATCHDIR	mydir.h	17;"	d
+MATCHDIR	test/event/event.h	18;"	d
+MATCHJANS_H_	matchjans.h	2;"	d
+MATCHLOG	mydir.h	5;"	d
+MATCHVALUE	client.c	7;"	d	file:
+MATCHVALUE	nfex/src/extract.c	166;"	d	file:
+MATCHVALUE	ssl_client.c	7;"	d	file:
+MATCHVALUE	test/code/mypthread.c	6;"	d	file:
+MATCHVALUE	test/code/t.c	10;"	d	file:
+MATCHVALUE	test/code/t2.c	10;"	d	file:
+MAX	nfex/include/nfex.h	73;"	d
+MAXLEN	acnew/acsmx.h	35;"	d
+MAXLEN	acsmx.h	35;"	d
+MAXLEN	test/src/acsmx.h	36;"	d
+MD	nfex/nfex_exe_pp/src/md5/mddriver.c	20;"	d	file:
+MD5Final	nfex/nfex_exe_pp/src/md5c.c	/^void MD5Final (digest, context)$/;"	f
+MD5Init	nfex/nfex_exe_pp/src/md5c.c	/^void MD5Init (context)$/;"	f
+MD5Transform	nfex/nfex_exe_pp/src/md5c.c	/^static void MD5Transform (state, block)$/;"	f	file:
+MD5Update	nfex/nfex_exe_pp/src/md5c.c	/^void MD5Update (context, input, inputLen)$/;"	f
+MD5_CTX	nfex/nfex_exe_pp/src/md5/md5.h	/^} MD5_CTX;$/;"	t	typeref:struct:__anon10
+MD5_CTX	nfex/nfex_exe_pp/src/md5/mddriver.c	50;"	d	file:
+MD5_CTX	nfex/nfex_exe_pp/src/md5/mddriver.c	56;"	d	file:
+MD5_CTX	nfex/nfex_exe_pp/src/md5/mddriver.c	62;"	d	file:
+MD5_memcpy	nfex/nfex_exe_pp/src/md5c.c	/^static void MD5_memcpy (output, input, len)$/;"	f	file:
+MD5_memset	nfex/nfex_exe_pp/src/md5c.c	/^static void MD5_memset (output, value, len)$/;"	f	file:
+MDFile	nfex/nfex_exe_pp/src/md5/mddriver.c	/^static void MDFile (filename)$/;"	f	file:
+MDFilter	nfex/nfex_exe_pp/src/md5/mddriver.c	/^static void MDFilter ()$/;"	f	file:
+MDFinal	nfex/nfex_exe_pp/src/md5/md5.h	26;"	d
+MDFinal	nfex/nfex_exe_pp/src/md5/mddriver.c	53;"	d	file:
+MDFinal	nfex/nfex_exe_pp/src/md5/mddriver.c	59;"	d	file:
+MDFinal	nfex/nfex_exe_pp/src/md5/mddriver.c	65;"	d	file:
+MDInit	nfex/nfex_exe_pp/src/md5/md5.h	27;"	d
+MDInit	nfex/nfex_exe_pp/src/md5/mddriver.c	51;"	d	file:
+MDInit	nfex/nfex_exe_pp/src/md5/mddriver.c	57;"	d	file:
+MDInit	nfex/nfex_exe_pp/src/md5/mddriver.c	63;"	d	file:
+MDPrint	nfex/nfex_exe_pp/src/md5/mddriver.c	/^static void MDPrint (digest)$/;"	f	file:
+MDString	nfex/nfex_exe_pp/src/md5/mddriver.c	/^static void MDString (string)$/;"	f	file:
+MDTestSuite	nfex/nfex_exe_pp/src/md5/mddriver.c	/^static void MDTestSuite ()$/;"	f	file:
+MDTimeTrial	nfex/nfex_exe_pp/src/md5/mddriver.c	/^static void MDTimeTrial ()$/;"	f	file:
+MDUpdate	nfex/nfex_exe_pp/src/md5/md5.h	28;"	d
+MDUpdate	nfex/nfex_exe_pp/src/md5/mddriver.c	52;"	d	file:
+MDUpdate	nfex/nfex_exe_pp/src/md5/mddriver.c	58;"	d	file:
+MDUpdate	nfex/nfex_exe_pp/src/md5/mddriver.c	64;"	d	file:
+MEMASSERT	acnew/acsmx.c	65;"	d	file:
+MEMASSERT	acsmx.c	65;"	d	file:
+MEMASSERT	test/src/acsmx.c	65;"	d	file:
+MEM_OCCUPY	computerstate.h	/^} MEM_OCCUPY;$/;"	t	typeref:struct:PACKED1
+MKDIR_P	jansson/api_jansson/Makefile	/^MKDIR_P = \/bin\/mkdir -p$/;"	m
+MKDIR_P	nfex/Makefile	/^MKDIR_P = \/bin\/mkdir -p$/;"	m
+MKDIR_P	nfex/src/Makefile	/^MKDIR_P = \/bin\/mkdir -p$/;"	m
+MKDIR_P	test/jansson/api_jansson/Makefile	/^MKDIR_P = \/bin\/mkdir -p$/;"	m
+MSGKEY	event.c	5;"	d	file:
+MSGKEY	matchjans.h	9;"	d
+MSGKEY	test/code/2event.c	3;"	d	file:
+MSGKEY	test/code/faevent.c	8;"	d	file:
+MSGKEY	test/code/jans5.c	9;"	d	file:
+MSGKEY	test/code/jieevent.c	4;"	d	file:
+MSGKEY	test/event/event.c	5;"	d	file:
+MSGKEY	test/event/eventsnd.c	9;"	d	file:
+MSGLENGTH	client.c	5;"	d	file:
+MSGLENGTH	heartbeat.c	3;"	d	file:
+MSGLENGTH	ssl_client.c	5;"	d	file:
+MSGLENGTH	test/code/mypthread.c	5;"	d	file:
+MYDEBUG_H_	mydebug.h	9;"	d
+MYDEBUG_H_	test/filejudge/judge/mydebug.h	9;"	d
+MYDEBUG_H_	test/filejudge/judge2/mydebug.h	9;"	d
+MYDEBUG_H_	test/filejudge/judge3/mydebug.h	9;"	d
+MYDEBUG_H_	test/filejudge/judge4/mydebug.h	9;"	d
+MYDEBUG_H_	test/filejudge/judge5/mydebug.h	9;"	d
+MYDEBUG_H_	test/filejudge/judge6/mydebug.h	9;"	d
+MYDEBUG_H_	test/filejudge/testjudge/mydebug.h	9;"	d
+MYDIR_H_	mydir.h	2;"	d
+MYSYSLOG	mydir.h	20;"	d
+MY_SYSLOG_H	my_syslog.h	2;"	d
+MY_SYSLOG_H	test/filejudge/judge3/my_syslog.h	2;"	d
+MY_SYSLOG_H	test/filejudge/judge4/my_syslog.h	2;"	d
+MY_SYSLOG_H	test/filejudge/judge5/my_syslog.h	2;"	d
+MY_SYSLOG_H	test/filejudge/judge6/my_syslog.h	2;"	d
+MatchList	acnew/acsmx.h	/^	ACSM_PATTERN *MatchList;$/;"	m	struct:__anon1
+MatchList	acsmx.h	/^	ACSM_PATTERN *MatchList;$/;"	m	struct:__anon8
+MatchList	test/src/acsmx.h	/^	ACSM_PATTERN *MatchList;   $/;"	m	struct:__anon6
+NETDEV	client.c	14;"	d	file:
+NETDEV	ssl_client.c	14;"	d	file:
+NFEX_DEBUG	nfex/include/nfex.h	108;"	d
+NFEX_DEFAULT_CONFIG_FILE	nfex/include/nfex.h	52;"	d
+NFEX_GEOIP	nfex/include/nfex.h	107;"	d
+NFEX_GEOIP_CONFIG_FILE	nfex/include/nfex.h	47;"	d
+NFEX_H	nfex/include/nfex.h	12;"	d
+NFEX_HT_SIZE	nfex/include/hash.h	26;"	d
+NFEX_PCAP_FILTER	nfex/include/nfex.h	56;"	d
+NFEX_SESSIONS_LOCK	nfex/include/nfex.h	109;"	d
+NFEX_STATS_CLOSEOUT	nfex/include/nfex.h	192;"	d
+NFEX_STATS_UPDATE	nfex/include/nfex.h	191;"	d
+NFEX_VERBOSE	nfex/include/nfex.h	106;"	d
+NM	jansson/api_jansson/Makefile	/^NM = \/usr\/bin\/nm -B$/;"	m
+NM	test/jansson/api_jansson/Makefile	/^NM = \/usr\/bin\/nm -B$/;"	m
+NMEDIT	jansson/api_jansson/Makefile	/^NMEDIT = $/;"	m
+NMEDIT	test/jansson/api_jansson/Makefile	/^NMEDIT = $/;"	m
+NOMATCH	test/filejudge/judge5/seekkey4.c	8;"	d	file:
+NOMATCH	test/filejudge/judge5/seekkey5.c	5;"	d	file:
+NOMATCH	test/filejudge/judge6/seekkey4.c	8;"	d	file:
+NOMATCH	test/filejudge/judge6/seekkey5.c	5;"	d	file:
+NOMATCHLOG	mydir.h	8;"	d
+NORMAL_INSTALL	jansson/api_jansson/Makefile	/^NORMAL_INSTALL = :$/;"	m
+NORMAL_INSTALL	nfex/Makefile	/^NORMAL_INSTALL = :$/;"	m
+NORMAL_INSTALL	nfex/src/Makefile	/^NORMAL_INSTALL = :$/;"	m
+NORMAL_INSTALL	test/jansson/api_jansson/Makefile	/^NORMAL_INSTALL = :$/;"	m
+NORMAL_UNINSTALL	jansson/api_jansson/Makefile	/^NORMAL_UNINSTALL = :$/;"	m
+NORMAL_UNINSTALL	nfex/Makefile	/^NORMAL_UNINSTALL = :$/;"	m
+NORMAL_UNINSTALL	nfex/src/Makefile	/^NORMAL_UNINSTALL = :$/;"	m
+NORMAL_UNINSTALL	test/jansson/api_jansson/Makefile	/^NORMAL_UNINSTALL = :$/;"	m
+NUMBER	nfex/include/confy.h	/^     NUMBER = 258,$/;"	e	enum:yytokentype
+NUMBER	nfex/include/confy.h	40;"	d
+NUMBER	nfex/src/confy.c	/^     NUMBER = 258,$/;"	e	enum:yytokentype	file:
+NUMBER	nfex/src/confy.c	134;"	d	file:
+NUMBER	nfex/src/confy.h	/^     NUMBER = 258,$/;"	e	enum:yytokentype
+NUMBER	nfex/src/confy.h	49;"	d
+NextState	acnew/acsmx.h	/^	int NextState[ALPHABET_SIZE];$/;"	m	struct:__anon1
+NextState	acsmx.h	/^	int NextState[ALPHABET_SIZE];$/;"	m	struct:__anon8
+NextState	test/src/acsmx.h	/^	int      NextState[ ALPHABET_SIZE ];  $/;"	m	struct:__anon6
+OBJDUMP	jansson/api_jansson/Makefile	/^OBJDUMP = objdump$/;"	m
+OBJDUMP	test/jansson/api_jansson/Makefile	/^OBJDUMP = objdump$/;"	m
+OBJECT_ITER_JANSSON_H	jansson/jan/object_iter_jansson.h	8;"	d
+OBJECT_ITER_JANSSON_H	jansson/jan2/object_iter_jansson.h	8;"	d
+OBJEXT	jansson/api_jansson/Makefile	/^OBJEXT = o$/;"	m
+OBJEXT	nfex/Makefile	/^OBJEXT = o$/;"	m
+OBJEXT	nfex/src/Makefile	/^OBJEXT = o$/;"	m
+OBJEXT	test/jansson/api_jansson/Makefile	/^OBJEXT = o$/;"	m
+OTOOL	jansson/api_jansson/Makefile	/^OTOOL = $/;"	m
+OTOOL	test/jansson/api_jansson/Makefile	/^OTOOL = $/;"	m
+OTOOL64	jansson/api_jansson/Makefile	/^OTOOL64 = $/;"	m
+OTOOL64	test/jansson/api_jansson/Makefile	/^OTOOL64 = $/;"	m
+OVER	test/code/mypthread.c	87;"	d	file:
+OVER	test/code/pth.c	71;"	d	file:
+PACKAGE	jansson/api_jansson/Makefile	/^PACKAGE = jansson$/;"	m
+PACKAGE	nfex/Makefile	/^PACKAGE = nfex$/;"	m
+PACKAGE	nfex/include/config.h	14;"	d
+PACKAGE	nfex/src/Makefile	/^PACKAGE = nfex$/;"	m
+PACKAGE	test/jansson/api_jansson/Makefile	/^PACKAGE = jansson$/;"	m
+PACKAGE_BUGREPORT	jansson/api_jansson/Makefile	/^PACKAGE_BUGREPORT = petri@digip.org$/;"	m
+PACKAGE_BUGREPORT	nfex/Makefile	/^PACKAGE_BUGREPORT = $/;"	m
+PACKAGE_BUGREPORT	nfex/include/config.h	17;"	d
+PACKAGE_BUGREPORT	nfex/src/Makefile	/^PACKAGE_BUGREPORT = $/;"	m
+PACKAGE_BUGREPORT	test/jansson/api_jansson/Makefile	/^PACKAGE_BUGREPORT = petri@digip.org$/;"	m
+PACKAGE_NAME	jansson/api_jansson/Makefile	/^PACKAGE_NAME = jansson$/;"	m
+PACKAGE_NAME	nfex/Makefile	/^PACKAGE_NAME = $/;"	m
+PACKAGE_NAME	nfex/include/config.h	20;"	d
+PACKAGE_NAME	nfex/src/Makefile	/^PACKAGE_NAME = $/;"	m
+PACKAGE_NAME	test/jansson/api_jansson/Makefile	/^PACKAGE_NAME = jansson$/;"	m
+PACKAGE_STRING	jansson/api_jansson/Makefile	/^PACKAGE_STRING = jansson 2.6$/;"	m
+PACKAGE_STRING	nfex/Makefile	/^PACKAGE_STRING = $/;"	m
+PACKAGE_STRING	nfex/include/config.h	23;"	d
+PACKAGE_STRING	nfex/src/Makefile	/^PACKAGE_STRING = $/;"	m
+PACKAGE_STRING	test/jansson/api_jansson/Makefile	/^PACKAGE_STRING = jansson 2.6$/;"	m
+PACKAGE_TARNAME	jansson/api_jansson/Makefile	/^PACKAGE_TARNAME = jansson$/;"	m
+PACKAGE_TARNAME	nfex/Makefile	/^PACKAGE_TARNAME = $/;"	m
+PACKAGE_TARNAME	nfex/include/config.h	26;"	d
+PACKAGE_TARNAME	nfex/src/Makefile	/^PACKAGE_TARNAME = $/;"	m
+PACKAGE_TARNAME	test/jansson/api_jansson/Makefile	/^PACKAGE_TARNAME = jansson$/;"	m
+PACKAGE_URL	jansson/api_jansson/Makefile	/^PACKAGE_URL = $/;"	m
+PACKAGE_URL	test/jansson/api_jansson/Makefile	/^PACKAGE_URL = $/;"	m
+PACKAGE_VERSION	jansson/api_jansson/Makefile	/^PACKAGE_VERSION = 2.6$/;"	m
+PACKAGE_VERSION	nfex/Makefile	/^PACKAGE_VERSION = $/;"	m
+PACKAGE_VERSION	nfex/include/config.h	32;"	d
+PACKAGE_VERSION	nfex/src/Makefile	/^PACKAGE_VERSION = $/;"	m
+PACKAGE_VERSION	test/jansson/api_jansson/Makefile	/^PACKAGE_VERSION = 2.6$/;"	m
+PACKED	computerstate.h	/^typedef  struct PACKED$/;"	s
+PACKED1	computerstate.h	/^typedef struct PACKED1$/;"	s
+PADDING	nfex/nfex_exe_pp/src/md5c.c	/^static unsigned char PADDING[64] = {$/;"	v	file:
+PATH_SEPARATOR	jansson/api_jansson/Makefile	/^PATH_SEPARATOR = :$/;"	m
+PATH_SEPARATOR	nfex/Makefile	/^PATH_SEPARATOR = :$/;"	m
+PATH_SEPARATOR	nfex/src/Makefile	/^PATH_SEPARATOR = :$/;"	m
+PATH_SEPARATOR	test/jansson/api_jansson/Makefile	/^PATH_SEPARATOR = :$/;"	m
+PE32_SIGNATURE	nfex/nfex_exe_pp/include/pe32.h	1;"	d
+POINTER	nfex/nfex_exe_pp/src/md5/global.h	/^typedef unsigned char *POINTER;$/;"	t
+POLICYJANS_H_	jansson/jan3/policyjans.h	2;"	d
+POLICYJANS_H_	jansson/jan4/policyjans.h	2;"	d
+POLICYJANS_H_	jansson/jan5/policyjans.h	2;"	d
+POLICYJANS_H_	jansson/jan6/policyjans.h	2;"	d
+POLICYJANS_H_	policyjans.h	2;"	d
+POST_INSTALL	jansson/api_jansson/Makefile	/^POST_INSTALL = :$/;"	m
+POST_INSTALL	nfex/Makefile	/^POST_INSTALL = :$/;"	m
+POST_INSTALL	nfex/src/Makefile	/^POST_INSTALL = :$/;"	m
+POST_INSTALL	test/jansson/api_jansson/Makefile	/^POST_INSTALL = :$/;"	m
+POST_UNINSTALL	jansson/api_jansson/Makefile	/^POST_UNINSTALL = :$/;"	m
+POST_UNINSTALL	nfex/Makefile	/^POST_UNINSTALL = :$/;"	m
+POST_UNINSTALL	nfex/src/Makefile	/^POST_UNINSTALL = :$/;"	m
+POST_UNINSTALL	test/jansson/api_jansson/Makefile	/^POST_UNINSTALL = :$/;"	m
+PRE_INSTALL	jansson/api_jansson/Makefile	/^PRE_INSTALL = :$/;"	m
+PRE_INSTALL	nfex/Makefile	/^PRE_INSTALL = :$/;"	m
+PRE_INSTALL	nfex/src/Makefile	/^PRE_INSTALL = :$/;"	m
+PRE_INSTALL	test/jansson/api_jansson/Makefile	/^PRE_INSTALL = :$/;"	m
+PRE_UNINSTALL	jansson/api_jansson/Makefile	/^PRE_UNINSTALL = :$/;"	m
+PRE_UNINSTALL	nfex/Makefile	/^PRE_UNINSTALL = :$/;"	m
+PRE_UNINSTALL	nfex/src/Makefile	/^PRE_UNINSTALL = :$/;"	m
+PRE_UNINSTALL	test/jansson/api_jansson/Makefile	/^PRE_UNINSTALL = :$/;"	m
+PROGRAMS	nfex/src/Makefile	/^PROGRAMS = $(bin_PROGRAMS)$/;"	m
+PROJECT1_H_	computerstate.h	2;"	d
+PROTOCOL	event.h	16;"	d
+PROTOCOL	test/event/event.h	16;"	d
+PROTOTYPES	nfex/nfex_exe_pp/src/md5/global.h	11;"	d
+PROTO_LIST	nfex/nfex_exe_pp/src/md5/global.h	28;"	d
+PROTO_LIST	nfex/nfex_exe_pp/src/md5/global.h	30;"	d
+PTIMERSUB	nfex/include/nfex.h	60;"	d
+PrintMatch	acnew/acsmx.c	/^PrintMatch (ACSM_PATTERN * pattern, ACSM_PATTERN * mlist, int nline,$/;"	f
+PrintMatch	acsmx.c	/^PrintMatch (ACSM_PATTERN * pattern, ACSM_PATTERN * mlist, int nline,$/;"	f
+PrintMatch	test/src/acsmx.c	/^void PrintMatch (ACSM_PATTERN * pattern,ACSM_PATTERN * mlist, int nline,int index) $/;"	f
+PrintSummary	acnew/acsmx.c	/^PrintSummary (ACSM_PATTERN * pattern)$/;"	f
+PrintSummary	acsmx.c	/^PrintSummary (ACSM_PATTERN * pattern)$/;"	f
+PrintSummary	test/src/acsmx.c	/^void PrintSummary (ACSM_PATTERN * pattern)$/;"	f
+QNODE	acnew/acsmx.c	/^} QNODE;$/;"	t	typeref:struct:_qnode	file:
+QNODE	acsmx.c	/^} QNODE;$/;"	t	typeref:struct:_qnode	file:
+QNODE	test/src/acsmx.c	/^}QNODE;$/;"	t	typeref:struct:_qnode	file:
+QUEUE	acnew/acsmx.c	/^} QUEUE;$/;"	t	typeref:struct:_queue	file:
+QUEUE	acsmx.c	/^} QUEUE;$/;"	t	typeref:struct:_queue	file:
+QUEUE	test/src/acsmx.c	/^}QUEUE;$/;"	t	typeref:struct:_queue	file:
+QUEUE_SIZE	test/ftp/ftpdownload/ftp_serv.c	15;"	d	file:
+RANLIB	jansson/api_jansson/Makefile	/^RANLIB = ranlib$/;"	m
+RANLIB	nfex/Makefile	/^RANLIB = ranlib$/;"	m
+RANLIB	nfex/src/Makefile	/^RANLIB = ranlib$/;"	m
+RANLIB	test/jansson/api_jansson/Makefile	/^RANLIB = ranlib$/;"	m
+RECURSIVE_CLEAN_TARGETS	nfex/Makefile	/^RECURSIVE_CLEAN_TARGETS = mostlyclean-recursive clean-recursive	\\$/;"	m
+RECURSIVE_TARGETS	nfex/Makefile	/^RECURSIVE_TARGETS = all-recursive check-recursive dvi-recursive \\$/;"	m
+REJECT	nfex/src/confl.c	449;"	d	file:
+ROTATE_LEFT	nfex/nfex_exe_pp/src/md5c.c	73;"	d	file:
+S11	nfex/nfex_exe_pp/src/md5c.c	33;"	d	file:
+S12	nfex/nfex_exe_pp/src/md5c.c	34;"	d	file:
+S13	nfex/nfex_exe_pp/src/md5c.c	35;"	d	file:
+S14	nfex/nfex_exe_pp/src/md5c.c	36;"	d	file:
+S21	nfex/nfex_exe_pp/src/md5c.c	37;"	d	file:
+S22	nfex/nfex_exe_pp/src/md5c.c	38;"	d	file:
+S23	nfex/nfex_exe_pp/src/md5c.c	39;"	d	file:
+S24	nfex/nfex_exe_pp/src/md5c.c	40;"	d	file:
+S31	nfex/nfex_exe_pp/src/md5c.c	41;"	d	file:
+S32	nfex/nfex_exe_pp/src/md5c.c	42;"	d	file:
+S33	nfex/nfex_exe_pp/src/md5c.c	43;"	d	file:
+S34	nfex/nfex_exe_pp/src/md5c.c	44;"	d	file:
+S41	nfex/nfex_exe_pp/src/md5c.c	45;"	d	file:
+S42	nfex/nfex_exe_pp/src/md5c.c	46;"	d	file:
+S43	nfex/nfex_exe_pp/src/md5c.c	47;"	d	file:
+S44	nfex/nfex_exe_pp/src/md5c.c	48;"	d	file:
+SEARCH_H	nfex/include/search.h	33;"	d
+SED	jansson/api_jansson/Makefile	/^SED = \/bin\/sed$/;"	m
+SED	test/jansson/api_jansson/Makefile	/^SED = \/bin\/sed$/;"	m
+SEEKKEY_H_	seekkey.h	2;"	d
+SEEKKEY_H_	test/filejudge/judge5/seekkey.h	2;"	d
+SEEKKEY_H_	test/filejudge/judge6/seekkey.h	2;"	d
+SEEKVALUE	client.c	9;"	d	file:
+SEEKVALUE	ssl_client.c	9;"	d	file:
+SEEKVALUE	test/code/mypthread.c	7;"	d	file:
+SEEKVALUE	test/code/t.c	11;"	d	file:
+SEEKVALUE	test/code/t2.c	11;"	d	file:
+SEEKVALUE2	test/code/t2.c	12;"	d	file:
+SERVER_PORT	test/ftp/ftpdownload/ftp_cli.c	9;"	d	file:
+SERVER_PORT	test/ftp/ftpdownload/ftp_serv.c	11;"	d	file:
+SESSION_THRESHOLD	nfex/include/hash.h	25;"	d
+SET_MAKE	jansson/api_jansson/Makefile	/^SET_MAKE = $/;"	m
+SET_MAKE	nfex/Makefile	/^SET_MAKE = $/;"	m
+SET_MAKE	nfex/src/Makefile	/^SET_MAKE = $/;"	m
+SET_MAKE	test/jansson/api_jansson/Makefile	/^SET_MAKE = $/;"	m
+SHELL	jansson/api_jansson/Makefile	/^SHELL = \/bin\/sh$/;"	m
+SHELL	nfex/Makefile	/^SHELL = \/bin\/sh$/;"	m
+SHELL	nfex/src/Makefile	/^SHELL = \/bin\/sh$/;"	m
+SHELL	test/jansson/api_jansson/Makefile	/^SHELL = \/bin\/sh$/;"	m
+SOURCES	jansson/api_jansson/Makefile	/^SOURCES = $(test_array_SOURCES) $(test_copy_SOURCES) \\$/;"	m
+SOURCES	nfex/Makefile	/^SOURCES =$/;"	m
+SOURCES	nfex/src/Makefile	/^SOURCES = $(nfex_SOURCES)$/;"	m
+SOURCES	test/jansson/api_jansson/Makefile	/^SOURCES = $(test_array_SOURCES) $(test_copy_SOURCES) \\$/;"	m
+SPECIFIER	nfex/include/confy.h	/^     SPECIFIER = 260,$/;"	e	enum:yytokentype
+SPECIFIER	nfex/include/confy.h	42;"	d
+SPECIFIER	nfex/src/confy.c	/^     SPECIFIER = 260,$/;"	e	enum:yytokentype	file:
+SPECIFIER	nfex/src/confy.c	136;"	d	file:
+SPECIFIER	nfex/src/confy.h	/^     SPECIFIER = 260,$/;"	e	enum:yytokentype
+SPECIFIER	nfex/src/confy.h	51;"	d
+SRCIP	event.h	14;"	d
+SRCIP	test/event/event.h	14;"	d
+SSL_CLIETN_H_	ssl_client.h	2;"	d
+STDC_HEADERS	nfex/include/config.h	35;"	d
+STRIP	jansson/api_jansson/Makefile	/^STRIP = strip$/;"	m
+STRIP	nfex/Makefile	/^STRIP = $/;"	m
+STRIP	nfex/src/Makefile	/^STRIP = $/;"	m
+STRIP	test/jansson/api_jansson/Makefile	/^STRIP = strip$/;"	m
+STR_TYPE_JANSSON_H_	jansson/jan/str_type_jansson.h	2;"	d
+STR_TYPE_JANSSON_H_	jansson/jan2/str_type_jansson.h	2;"	d
+SUBDIRS	nfex/Makefile	/^SUBDIRS = src$/;"	m
+TABLE	nfex/include/search.h	/^    TABLE,$/;"	e	enum:srch_nodetype
+TARGET	acnew/Makefile	/^TARGET=all$/;"	m
+TARGET	test/src/Makefile	/^TARGET=all$/;"	m
+TEST_BLOCK_COUNT	nfex/nfex_exe_pp/src/md5/mddriver.c	40;"	d	file:
+TEST_BLOCK_LEN	nfex/nfex_exe_pp/src/md5/mddriver.c	39;"	d	file:
+TOOL_H_	tool.h	2;"	d
+Tc	acnew/acsmx.c	/^static unsigned char Tc[64 * 1024];$/;"	v	file:
+Tc	acsmx.c	/^static unsigned char Tc[64 * 1024];$/;"	v	file:
+Tc	test/src/acsmx.c	/^static unsigned char Tc[64*1024];$/;"	v	file:
+UINT16_MAX	nfex/src/confl.c	81;"	d	file:
+UINT2	nfex/nfex_exe_pp/src/md5/global.h	/^typedef unsigned short int UINT2;$/;"	t
+UINT32_MAX	nfex/src/confl.c	84;"	d	file:
+UINT4	nfex/nfex_exe_pp/src/md5/global.h	/^typedef unsigned long int UINT4;$/;"	t
+UINT8_MAX	nfex/src/confl.c	78;"	d	file:
+UTIL_H	jansson/api_jansson/util.h	9;"	d
+UTIL_H	nfex/include/util.h	33;"	d
+UTIL_H	test/jansson/api_jansson/util.h	9;"	d
+VALUE	test/msgget/msg1.c	8;"	d	file:
+VALUE	test/msgget/msg2.c	10;"	d	file:
+VERSION	jansson/api_jansson/Makefile	/^VERSION = 2.6$/;"	m
+VERSION	nfex/Makefile	/^VERSION = 2.5$/;"	m
+VERSION	nfex/include/config.h	38;"	d
+VERSION	nfex/include/version.h	6;"	d
+VERSION	nfex/src/Makefile	/^VERSION = 2.5$/;"	m
+VERSION	test/jansson/api_jansson/Makefile	/^VERSION = 2.6$/;"	m
+WORD	nfex/include/confy.h	/^     WORD = 259,$/;"	e	enum:yytokentype
+WORD	nfex/include/confy.h	41;"	d
+WORD	nfex/src/confy.c	/^     WORD = 259,$/;"	e	enum:yytokentype	file:
+WORD	nfex/src/confy.c	135;"	d	file:
+WORD	nfex/src/confy.h	/^     WORD = 259,$/;"	e	enum:yytokentype
+WORD	nfex/src/confy.h	50;"	d
+YACC	nfex/Makefile	/^YACC = bison -y$/;"	m
+YACC	nfex/src/Makefile	/^YACC = bison -y$/;"	m
+YACCCOMPILE	nfex/src/Makefile	/^YACCCOMPILE = $(YACC) $(YFLAGS) $(AM_YFLAGS)$/;"	m
+YFLAGS	nfex/Makefile	/^YFLAGS = $/;"	m
+YFLAGS	nfex/src/Makefile	/^YFLAGS = $/;"	m
+YLWRAP	nfex/src/Makefile	/^YLWRAP = $(top_srcdir)\/ylwrap$/;"	m
+YYABORT	nfex/src/confy.c	575;"	d	file:
+YYACCEPT	nfex/src/confy.c	574;"	d	file:
+YYBACKUP	nfex/src/confy.c	587;"	d	file:
+YYBISON	nfex/src/confy.c	46;"	d	file:
+YYBISON_VERSION	nfex/src/confy.c	49;"	d	file:
+YYCOPY	nfex/src/confy.c	346;"	d	file:
+YYCOPY	nfex/src/confy.c	349;"	d	file:
+YYDEBUG	nfex/src/confy.c	104;"	d	file:
+YYDPRINTF	nfex/src/confy.c	667;"	d	file:
+YYDPRINTF	nfex/src/confy.c	820;"	d	file:
+YYEMPTY	nfex/src/confy.c	571;"	d	file:
+YYEOF	nfex/src/confy.c	572;"	d	file:
+YYERRCODE	nfex/src/confy.c	606;"	d	file:
+YYERROR	nfex/src/confy.c	576;"	d	file:
+YYERROR_VERBOSE	nfex/src/confy.c	109;"	d	file:
+YYERROR_VERBOSE	nfex/src/confy.c	110;"	d	file:
+YYERROR_VERBOSE	nfex/src/confy.c	112;"	d	file:
+YYFAIL	nfex/src/confy.c	583;"	d	file:
+YYFINAL	nfex/src/confy.c	379;"	d	file:
+YYFPRINTF	nfex/src/confy.c	664;"	d	file:
+YYFREE	nfex/src/confy.c	312;"	d	file:
+YYID	nfex/src/confy.c	/^YYID (int yyi)$/;"	f	file:
+YYID	nfex/src/confy.c	236;"	d	file:
+YYINITDEPTH	nfex/src/confy.c	829;"	d	file:
+YYLAST	nfex/src/confy.c	381;"	d	file:
+YYLEX	nfex/src/confy.c	654;"	d	file:
+YYLEX	nfex/src/confy.c	656;"	d	file:
+YYLLOC_DEFAULT	nfex/src/confy.c	615;"	d	file:
+YYLSP_NEEDED	nfex/src/confy.c	64;"	d	file:
+YYMALLOC	nfex/src/confy.c	305;"	d	file:
+YYMAXDEPTH	nfex/src/confy.c	840;"	d	file:
+YYMAXUTOK	nfex/src/confy.c	394;"	d	file:
+YYNNTS	nfex/src/confy.c	386;"	d	file:
+YYNRULES	nfex/src/confy.c	388;"	d	file:
+YYNSTATES	nfex/src/confy.c	390;"	d	file:
+YYNTOKENS	nfex/src/confy.c	384;"	d	file:
+YYPACT_NINF	nfex/src/confy.c	519;"	d	file:
+YYPOPSTACK	nfex/src/confy.c	1182;"	d	file:
+YYPULL	nfex/src/confy.c	61;"	d	file:
+YYPURE	nfex/src/confy.c	55;"	d	file:
+YYPUSH	nfex/src/confy.c	58;"	d	file:
+YYRECOVERING	nfex/src/confy.c	585;"	d	file:
+YYRHSLOC	nfex/src/confy.c	613;"	d	file:
+YYSIZE_MAXIMUM	nfex/src/confy.c	213;"	d	file:
+YYSIZE_T	nfex/src/confy.c	201;"	d	file:
+YYSIZE_T	nfex/src/confy.c	203;"	d	file:
+YYSIZE_T	nfex/src/confy.c	207;"	d	file:
+YYSIZE_T	nfex/src/confy.c	209;"	d	file:
+YYSKELETON_NAME	nfex/src/confy.c	52;"	d	file:
+YYSTACK_ALLOC	nfex/src/confy.c	259;"	d	file:
+YYSTACK_ALLOC	nfex/src/confy.c	263;"	d	file:
+YYSTACK_ALLOC	nfex/src/confy.c	268;"	d	file:
+YYSTACK_ALLOC	nfex/src/confy.c	291;"	d	file:
+YYSTACK_ALLOC_MAXIMUM	nfex/src/confy.c	288;"	d	file:
+YYSTACK_ALLOC_MAXIMUM	nfex/src/confy.c	294;"	d	file:
+YYSTACK_BYTES	nfex/src/confy.c	338;"	d	file:
+YYSTACK_FREE	nfex/src/confy.c	282;"	d	file:
+YYSTACK_FREE	nfex/src/confy.c	292;"	d	file:
+YYSTACK_GAP_MAXIMUM	nfex/src/confy.c	334;"	d	file:
+YYSTACK_RELOCATE	nfex/src/confy.c	365;"	d	file:
+YYSTATE	nfex/src/confl.c	131;"	d	file:
+YYSTYPE	nfex/include/confy.h	/^typedef union YYSTYPE {$/;"	u
+YYSTYPE	nfex/include/confy.h	/^} YYSTYPE;$/;"	t	typeref:union:YYSTYPE
+YYSTYPE	nfex/src/confy.c	/^typedef union YYSTYPE$/;"	u	file:
+YYSTYPE	nfex/src/confy.c	/^} YYSTYPE;$/;"	t	typeref:union:YYSTYPE	file:
+YYSTYPE	nfex/src/confy.h	/^typedef union YYSTYPE$/;"	u
+YYSTYPE	nfex/src/confy.h	/^} YYSTYPE;$/;"	t	typeref:union:YYSTYPE
+YYSTYPE_IS_DECLARED	nfex/include/confy.h	56;"	d
+YYSTYPE_IS_DECLARED	nfex/src/confy.c	158;"	d	file:
+YYSTYPE_IS_DECLARED	nfex/src/confy.h	73;"	d
+YYSTYPE_IS_TRIVIAL	nfex/include/confy.h	57;"	d
+YYSTYPE_IS_TRIVIAL	nfex/src/confy.c	156;"	d	file:
+YYSTYPE_IS_TRIVIAL	nfex/src/confy.h	71;"	d
+YYTABLES_NAME	nfex/src/confl.c	1800;"	d	file:
+YYTABLE_NINF	nfex/src/confy.c	539;"	d	file:
+YYTERROR	nfex/src/confy.c	605;"	d	file:
+YYTEXT_POINTER	nfex/include/config.h	42;"	d
+YYTOKENTYPE	nfex/include/confy.h	30;"	d
+YYTOKENTYPE	nfex/src/confy.c	123;"	d	file:
+YYTOKENTYPE	nfex/src/confy.h	38;"	d
+YYTOKEN_TABLE	nfex/src/confy.c	117;"	d	file:
+YYTRANSLATE	nfex/src/confy.c	396;"	d	file:
+YYUNDEFTOK	nfex/src/confy.c	393;"	d	file:
+YYUSE	nfex/src/confy.c	229;"	d	file:
+YYUSE	nfex/src/confy.c	231;"	d	file:
+YY_	nfex/src/confy.c	219;"	d	file:
+YY_	nfex/src/confy.c	223;"	d	file:
+YY_AT_BOL	nfex/src/confl.c	330;"	d	file:
+YY_BREAK	nfex/src/confl.c	646;"	d	file:
+YY_BUFFER_EOF_PENDING	nfex/src/confl.c	246;"	d	file:
+YY_BUFFER_NEW	nfex/src/confl.c	234;"	d	file:
+YY_BUFFER_NORMAL	nfex/src/confl.c	235;"	d	file:
+YY_BUFFER_STATE	nfex/src/confl.c	/^typedef struct yy_buffer_state *YY_BUFFER_STATE;$/;"	t	typeref:struct:yy_buffer_state	file:
+YY_BUF_SIZE	nfex/src/confl.c	143;"	d	file:
+YY_CHAR	nfex/src/confl.c	/^typedef unsigned char YY_CHAR;$/;"	t	file:
+YY_CURRENT_BUFFER	nfex/src/confl.c	262;"	d	file:
+YY_CURRENT_BUFFER_LVALUE	nfex/src/confl.c	269;"	d	file:
+YY_DECL	nfex/src/confl.c	634;"	d	file:
+YY_DECL_IS_OURS	nfex/src/confl.c	630;"	d	file:
+YY_DO_BEFORE_ACTION	nfex/src/confl.c	355;"	d	file:
+YY_END_OF_BUFFER	nfex/src/confl.c	363;"	d	file:
+YY_END_OF_BUFFER_CHAR	nfex/src/confl.c	139;"	d	file:
+YY_EXIT_FAILURE	nfex/src/confl.c	1598;"	d	file:
+YY_EXTRA_TYPE	nfex/src/confl.c	491;"	d	file:
+YY_FATAL_ERROR	nfex/src/confl.c	621;"	d	file:
+YY_FLEX_MAJOR_VERSION	nfex/src/confl.c	9;"	d	file:
+YY_FLEX_MINOR_VERSION	nfex/src/confl.c	10;"	d	file:
+YY_FLEX_SUBMINOR_VERSION	nfex/src/confl.c	11;"	d	file:
+YY_FLUSH_BUFFER	nfex/src/confl.c	298;"	d	file:
+YY_INPUT	nfex/src/confl.c	574;"	d	file:
+YY_INT_ALIGNED	nfex/src/confl.c	4;"	d	file:
+YY_LESS_LINENO	nfex/src/confl.c	163;"	d	file:
+YY_LOCATION_PRINT	nfex/src/confy.c	641;"	d	file:
+YY_LOCATION_PRINT	nfex/src/confy.c	646;"	d	file:
+YY_MORE_ADJ	nfex/src/confl.c	451;"	d	file:
+YY_NEW_FILE	nfex/src/confl.c	137;"	d	file:
+YY_NULL	nfex/src/confl.c	111;"	d	file:
+YY_NUM_RULES	nfex/src/confl.c	362;"	d	file:
+YY_READ_BUF_SIZE	nfex/src/confl.c	559;"	d	file:
+YY_REDUCE_PRINT	nfex/src/confy.c	810;"	d	file:
+YY_REDUCE_PRINT	nfex/src/confy.c	823;"	d	file:
+YY_RESTORE_YY_MORE_OFFSET	nfex/src/confl.c	452;"	d	file:
+YY_RULE_SETUP	nfex/src/confl.c	649;"	d	file:
+YY_SC_TO_UI	nfex/src/confl.c	118;"	d	file:
+YY_STACK_PRINT	nfex/src/confy.c	771;"	d	file:
+YY_STACK_PRINT	nfex/src/confy.c	822;"	d	file:
+YY_START	nfex/src/confl.c	130;"	d	file:
+YY_START_STACK_INCR	nfex/src/confl.c	616;"	d	file:
+YY_STATE_BUF_SIZE	nfex/src/confl.c	148;"	d	file:
+YY_STATE_EOF	nfex/src/confl.c	134;"	d	file:
+YY_STRUCT_YY_BUFFER_STATE	nfex/src/confl.c	187;"	d	file:
+YY_SYMBOL_PRINT	nfex/src/confy.c	673;"	d	file:
+YY_SYMBOL_PRINT	nfex/src/confy.c	821;"	d	file:
+YY_TYPEDEF_YY_BUFFER_STATE	nfex/src/confl.c	151;"	d	file:
+YY_TYPEDEF_YY_SIZE_T	nfex/src/confl.c	182;"	d	file:
+YY_USER_ACTION	nfex/src/confl.c	641;"	d	file:
+YY_USE_CONST	nfex/src/confl.c	92;"	d	file:
+YY_USE_CONST	nfex/src/confl.c	99;"	d	file:
+_BSD_SOURCE	nfex/include/nfex.h	14;"	d
+_DOS_HEADER	nfex/nfex_exe_pp/include/pe32.h	/^struct _DOS_HEADER$/;"	s
+_STDLIB_H	nfex/src/confy.c	273;"	d	file:
+_STDLIB_H	nfex/src/confy.c	301;"	d	file:
+__DEBUG__	mydebug.h	13;"	d
+__DEBUG__	test/filejudge/judge/mydebug.h	13;"	d
+__DEBUG__	test/filejudge/judge2/mydebug.h	13;"	d
+__DEBUG__	test/filejudge/judge3/mydebug.h	13;"	d
+__DEBUG__	test/filejudge/judge4/mydebug.h	13;"	d
+__DEBUG__	test/filejudge/judge5/mydebug.h	13;"	d
+__DEBUG__	test/filejudge/judge6/mydebug.h	13;"	d
+__DEBUG__	test/filejudge/testjudge/mydebug.h	13;"	d
+__STDC_LIMIT_MACROS	nfex/src/confl.c	39;"	d	file:
+_acsm_pattern	acnew/acsmx.h	/^typedef struct _acsm_pattern {$/;"	s
+_acsm_pattern	acsmx.h	/^typedef struct _acsm_pattern {$/;"	s
+_acsm_pattern	test/src/acsmx.h	/^typedef struct _acsm_pattern {      $/;"	s
+_qnode	acnew/acsmx.c	/^typedef struct _qnode$/;"	s	file:
+_qnode	acsmx.c	/^typedef struct _qnode$/;"	s	file:
+_qnode	test/src/acsmx.c	/^typedef struct _qnode$/;"	s	file:
+_queue	acnew/acsmx.c	/^typedef struct _queue$/;"	s	file:
+_queue	acsmx.c	/^typedef struct _queue$/;"	s	file:
+_queue	test/src/acsmx.c	/^typedef struct _queue$/;"	s	file:
+abs_builddir	jansson/api_jansson/Makefile	/^abs_builddir = \/root\/workdir\/worksoft\/jansson-2.6\/test\/suites\/api$/;"	m
+abs_builddir	nfex/Makefile	/^abs_builddir = \/root\/workdir\/workfile\/quanju\/nfex$/;"	m
+abs_builddir	nfex/src/Makefile	/^abs_builddir = \/root\/workdir\/workfile\/quanju\/nfex\/src$/;"	m
+abs_builddir	test/jansson/api_jansson/Makefile	/^abs_builddir = \/root\/workdir\/worksoft\/jansson-2.6\/test\/suites\/api$/;"	m
+abs_srcdir	jansson/api_jansson/Makefile	/^abs_srcdir = \/root\/workdir\/worksoft\/jansson-2.6\/test\/suites\/api$/;"	m
+abs_srcdir	nfex/Makefile	/^abs_srcdir = \/root\/workdir\/workfile\/quanju\/nfex$/;"	m
+abs_srcdir	nfex/src/Makefile	/^abs_srcdir = \/root\/workdir\/workfile\/quanju\/nfex\/src$/;"	m
+abs_srcdir	test/jansson/api_jansson/Makefile	/^abs_srcdir = \/root\/workdir\/worksoft\/jansson-2.6\/test\/suites\/api$/;"	m
+abs_top_builddir	jansson/api_jansson/Makefile	/^abs_top_builddir = \/root\/workdir\/worksoft\/jansson-2.6$/;"	m
+abs_top_builddir	nfex/Makefile	/^abs_top_builddir = \/root\/workdir\/workfile\/quanju\/nfex$/;"	m
+abs_top_builddir	nfex/src/Makefile	/^abs_top_builddir = \/root\/workdir\/workfile\/quanju\/nfex$/;"	m
+abs_top_builddir	test/jansson/api_jansson/Makefile	/^abs_top_builddir = \/root\/workdir\/worksoft\/jansson-2.6$/;"	m
+abs_top_srcdir	jansson/api_jansson/Makefile	/^abs_top_srcdir = \/root\/workdir\/worksoft\/jansson-2.6$/;"	m
+abs_top_srcdir	nfex/Makefile	/^abs_top_srcdir = \/root\/workdir\/workfile\/quanju\/nfex$/;"	m
+abs_top_srcdir	nfex/src/Makefile	/^abs_top_srcdir = \/root\/workdir\/workfile\/quanju\/nfex$/;"	m
+abs_top_srcdir	test/jansson/api_jansson/Makefile	/^abs_top_srcdir = \/root\/workdir\/worksoft\/jansson-2.6$/;"	m
+ac_ct_AR	jansson/api_jansson/Makefile	/^ac_ct_AR = ar$/;"	m
+ac_ct_AR	test/jansson/api_jansson/Makefile	/^ac_ct_AR = ar$/;"	m
+ac_ct_CC	jansson/api_jansson/Makefile	/^ac_ct_CC = gcc$/;"	m
+ac_ct_CC	nfex/Makefile	/^ac_ct_CC = gcc$/;"	m
+ac_ct_CC	nfex/src/Makefile	/^ac_ct_CC = gcc$/;"	m
+ac_ct_CC	test/jansson/api_jansson/Makefile	/^ac_ct_CC = gcc$/;"	m
+ac_ct_DUMPBIN	jansson/api_jansson/Makefile	/^ac_ct_DUMPBIN = $/;"	m
+ac_ct_DUMPBIN	test/jansson/api_jansson/Makefile	/^ac_ct_DUMPBIN = $/;"	m
+ac_fn_c_try_compile	nfex/nfex_exe_pp/configure	/^ac_fn_c_try_compile ()$/;"	f
+ac_fn_c_try_cpp	nfex/nfex_exe_pp/configure	/^ac_fn_c_try_cpp ()$/;"	f
+ac_fn_c_try_link	nfex/nfex_exe_pp/configure	/^ac_fn_c_try_link ()$/;"	f
+ac_fn_c_try_run	nfex/nfex_exe_pp/configure	/^ac_fn_c_try_run ()$/;"	f
+acsmAddPattern	acnew/acsmx.c	/^acsmAddPattern (ACSM_STRUCT * p, unsigned char *pat, int n, int nocase)$/;"	f
+acsmAddPattern	acsmx.c	/^acsmAddPattern (ACSM_STRUCT * p, unsigned char *pat, int n, int nocase)$/;"	f
+acsmAddPattern	test/src/acsmx.c	/^int acsmAddPattern (ACSM_STRUCT * p, unsigned char *pat, int n, int nocase) $/;"	f
+acsmCompile	acnew/acsmx.c	/^acsmCompile (ACSM_STRUCT * acsm)$/;"	f
+acsmCompile	acsmx.c	/^acsmCompile (ACSM_STRUCT * acsm)$/;"	f
+acsmCompile	test/src/acsmx.c	/^int acsmCompile (ACSM_STRUCT * acsm) $/;"	f
+acsmFree	acnew/acsmx.c	/^acsmFree (ACSM_STRUCT * acsm)$/;"	f
+acsmFree	acsmx.c	/^acsmFree (ACSM_STRUCT * acsm)$/;"	f
+acsmFree	test/src/acsmx.c	/^void acsmFree (ACSM_STRUCT * acsm) $/;"	f
+acsmMatching	acnew/entry.c	/^ACSM_STRUCT* acsmMatching(char *filePath, char **argv, int count,int maxLegth) {$/;"	f
+acsmMatching	seekkey.c	/^ACSM_STRUCT* acsmMatching(char *filePath, char **argv, int count,int maxLegth) $/;"	f
+acsmMaxStates	acnew/acsmx.h	/^	int acsmMaxStates;$/;"	m	struct:__anon2
+acsmMaxStates	acsmx.h	/^	int acsmMaxStates;$/;"	m	struct:__anon9
+acsmMaxStates	test/src/acsmx.h	/^	int acsmMaxStates;  $/;"	m	struct:__anon7
+acsmNew	acnew/acsmx.c	/^acsmNew ()$/;"	f
+acsmNew	acsmx.c	/^acsmNew ()$/;"	f
+acsmNew	test/src/acsmx.c	/^ACSM_STRUCT * acsmNew () $/;"	f
+acsmNumStates	acnew/acsmx.h	/^	int acsmNumStates;$/;"	m	struct:__anon2
+acsmNumStates	acsmx.h	/^	int acsmNumStates;$/;"	m	struct:__anon9
+acsmNumStates	test/src/acsmx.h	/^	int acsmNumStates;  $/;"	m	struct:__anon7
+acsmPatterns	acnew/acsmx.h	/^	ACSM_PATTERN * acsmPatterns;$/;"	m	struct:__anon2
+acsmPatterns	acsmx.h	/^	ACSM_PATTERN * acsmPatterns;$/;"	m	struct:__anon9
+acsmPatterns	test/src/acsmx.h	/^	ACSM_PATTERN    * acsmPatterns;$/;"	m	struct:__anon7
+acsmSearch	acnew/acsmx.c	/^acsmSearch (ACSM_STRUCT * acsm, unsigned char *Tx, int n,$/;"	f
+acsmSearch	acsmx.c	/^acsmSearch (ACSM_STRUCT * acsm, unsigned char *Tx, int n,$/;"	f
+acsmSearch	test/src/acsmx.c	/^int acsmSearch (ACSM_STRUCT * acsm, unsigned char *Tx, int n,void (*PrintMatch) (ACSM_PATTERN * pattern,ACSM_PATTERN * mlist, int nline,int index)) $/;"	f
+acsmStateTable	acnew/acsmx.h	/^	ACSM_STATETABLE * acsmStateTable;$/;"	m	struct:__anon2
+acsmStateTable	acsmx.h	/^	ACSM_STATETABLE * acsmStateTable;$/;"	m	struct:__anon9
+acsmStateTable	test/src/acsmx.h	/^	ACSM_STATETABLE * acsmStateTable;$/;"	m	struct:__anon7
+acsm_match_policy	seekkey.c	/^int acsm_match_policy(ACSM_STRUCT *acsm, struct policymsg policyinfo)$/;"	f
+add_extract	nfex/src/extract.c	/^add_extract(extract_list_t **elist, fileid_t *fileid, ht_node_t *session, $/;"	f	file:
+add_result	nfex/src/search.c	/^add_result(srch_results_t **results, fileid_t *fileid, spectype_t spectype, $/;"	f	file:
+add_simple	nfex/src/search.c	/^add_simple(srch_node_t *node, uint8_t c, int remaining, int id, char *ext, $/;"	f	file:
+add_srchptr	nfex/src/search.c	/^add_srchptr(srchptr_list_t **srchptr_list, srch_node_t *node)$/;"	f	file:
+add_wildcard	nfex/src/search.c	/^add_wildcard(srch_node_t *node, int remaining, int id, char *ext, unsigned long maxlen, spectype_t type)$/;"	f	file:
+alloca	nfex/src/confy.c	266;"	d	file:
+am__CONFIG_DISTCLEAN_FILES	nfex/Makefile	/^am__CONFIG_DISTCLEAN_FILES = config.status config.cache config.log \\$/;"	m
+am__aclocal_m4_deps	jansson/api_jansson/Makefile	/^am__aclocal_m4_deps = $(top_srcdir)\/configure.ac$/;"	m
+am__aclocal_m4_deps	nfex/Makefile	/^am__aclocal_m4_deps = $(top_srcdir)\/configure.in$/;"	m
+am__aclocal_m4_deps	nfex/src/Makefile	/^am__aclocal_m4_deps = $(top_srcdir)\/configure.in$/;"	m
+am__aclocal_m4_deps	test/jansson/api_jansson/Makefile	/^am__aclocal_m4_deps = $(top_srcdir)\/configure.ac$/;"	m
+am__base_list	nfex/src/Makefile	/^am__base_list = \\$/;"	m
+am__can_run_installinfo	jansson/api_jansson/Makefile	/^am__can_run_installinfo = \\$/;"	m
+am__can_run_installinfo	test/jansson/api_jansson/Makefile	/^am__can_run_installinfo = \\$/;"	m
+am__cd	jansson/api_jansson/Makefile	/^am__cd = CDPATH="$${ZSH_VERSION+.}$(PATH_SEPARATOR)" && cd$/;"	m
+am__cd	nfex/Makefile	/^am__cd = CDPATH="$${ZSH_VERSION+.}$(PATH_SEPARATOR)" && cd$/;"	m
+am__cd	nfex/src/Makefile	/^am__cd = CDPATH="$${ZSH_VERSION+.}$(PATH_SEPARATOR)" && cd$/;"	m
+am__cd	test/jansson/api_jansson/Makefile	/^am__cd = CDPATH="$${ZSH_VERSION+.}$(PATH_SEPARATOR)" && cd$/;"	m
+am__configure_deps	jansson/api_jansson/Makefile	/^am__configure_deps = $(am__aclocal_m4_deps) $(CONFIGURE_DEPENDENCIES) \\$/;"	m
+am__configure_deps	nfex/Makefile	/^am__configure_deps = $(am__aclocal_m4_deps) $(CONFIGURE_DEPENDENCIES) \\$/;"	m
+am__configure_deps	nfex/src/Makefile	/^am__configure_deps = $(am__aclocal_m4_deps) $(CONFIGURE_DEPENDENCIES) \\$/;"	m
+am__configure_deps	test/jansson/api_jansson/Makefile	/^am__configure_deps = $(am__aclocal_m4_deps) $(CONFIGURE_DEPENDENCIES) \\$/;"	m
+am__depfiles_maybe	jansson/api_jansson/Makefile	/^am__depfiles_maybe = depfiles$/;"	m
+am__depfiles_maybe	nfex/src/Makefile	/^am__depfiles_maybe = depfiles$/;"	m
+am__depfiles_maybe	test/jansson/api_jansson/Makefile	/^am__depfiles_maybe = depfiles$/;"	m
+am__include	jansson/api_jansson/Makefile	/^am__include = include$/;"	m
+am__include	nfex/Makefile	/^am__include = include$/;"	m
+am__include	nfex/src/Makefile	/^am__include = include$/;"	m
+am__include	test/jansson/api_jansson/Makefile	/^am__include = include$/;"	m
+am__install_max	nfex/src/Makefile	/^am__install_max = 40$/;"	m
+am__installdirs	nfex/src/Makefile	/^am__installdirs = "$(DESTDIR)$(bindir)" "$(DESTDIR)$(sysconfdir)"$/;"	m
+am__leading_dot	jansson/api_jansson/Makefile	/^am__leading_dot = .$/;"	m
+am__leading_dot	nfex/Makefile	/^am__leading_dot = .$/;"	m
+am__leading_dot	nfex/src/Makefile	/^am__leading_dot = .$/;"	m
+am__leading_dot	test/jansson/api_jansson/Makefile	/^am__leading_dot = .$/;"	m
+am__make_dryrun	jansson/api_jansson/Makefile	/^am__make_dryrun = \\$/;"	m
+am__make_dryrun	test/jansson/api_jansson/Makefile	/^am__make_dryrun = \\$/;"	m
+am__mv	jansson/api_jansson/Makefile	/^am__mv = mv -f$/;"	m
+am__mv	nfex/src/Makefile	/^am__mv = mv -f$/;"	m
+am__mv	test/jansson/api_jansson/Makefile	/^am__mv = mv -f$/;"	m
+am__nobase_list	nfex/src/Makefile	/^am__nobase_list = $(am__nobase_strip_setup); \\$/;"	m
+am__nobase_strip	nfex/src/Makefile	/^am__nobase_strip = \\$/;"	m
+am__nobase_strip_setup	nfex/src/Makefile	/^am__nobase_strip_setup = \\$/;"	m
+am__quote	jansson/api_jansson/Makefile	/^am__quote = $/;"	m
+am__quote	nfex/Makefile	/^am__quote = $/;"	m
+am__quote	nfex/src/Makefile	/^am__quote = $/;"	m
+am__quote	test/jansson/api_jansson/Makefile	/^am__quote = $/;"	m
+am__relativize	nfex/Makefile	/^am__relativize = \\$/;"	m
+am__remove_distdir	nfex/Makefile	/^am__remove_distdir = \\$/;"	m
+am__strip_dir	nfex/src/Makefile	/^am__strip_dir = f=`echo $$p | sed -e 's|^.*\/||'`;$/;"	m
+am__tar	jansson/api_jansson/Makefile	/^am__tar = $${TAR-tar} chof - "$$tardir"$/;"	m
+am__tar	nfex/Makefile	/^am__tar = ${AMTAR} chof - "$$tardir"$/;"	m
+am__tar	nfex/src/Makefile	/^am__tar = ${AMTAR} chof - "$$tardir"$/;"	m
+am__tar	test/jansson/api_jansson/Makefile	/^am__tar = $${TAR-tar} chof - "$$tardir"$/;"	m
+am__untar	jansson/api_jansson/Makefile	/^am__untar = $${TAR-tar} xf -$/;"	m
+am__untar	nfex/Makefile	/^am__untar = ${AMTAR} xf -$/;"	m
+am__untar	nfex/src/Makefile	/^am__untar = ${AMTAR} xf -$/;"	m
+am__untar	test/jansson/api_jansson/Makefile	/^am__untar = $${TAR-tar} xf -$/;"	m
+am__vpath_adj	nfex/src/Makefile	/^am__vpath_adj = case $$p in \\$/;"	m
+am__vpath_adj_setup	nfex/src/Makefile	/^am__vpath_adj_setup = srcdirstrip=`echo "$(srcdir)" | sed 's|.|.|g'`;$/;"	m
+am_nfex_OBJECTS	nfex/src/Makefile	/^am_nfex_OBJECTS = main.$(OBJEXT) packet.$(OBJEXT) init.$(OBJEXT) \\$/;"	m
+am_test_array_OBJECTS	jansson/api_jansson/Makefile	/^am_test_array_OBJECTS = test_array.$(OBJEXT)$/;"	m
+am_test_array_OBJECTS	test/jansson/api_jansson/Makefile	/^am_test_array_OBJECTS = test_array.$(OBJEXT)$/;"	m
+am_test_copy_OBJECTS	jansson/api_jansson/Makefile	/^am_test_copy_OBJECTS = test_copy.$(OBJEXT)$/;"	m
+am_test_copy_OBJECTS	test/jansson/api_jansson/Makefile	/^am_test_copy_OBJECTS = test_copy.$(OBJEXT)$/;"	m
+am_test_dump_OBJECTS	jansson/api_jansson/Makefile	/^am_test_dump_OBJECTS = test_dump.$(OBJEXT)$/;"	m
+am_test_dump_OBJECTS	test/jansson/api_jansson/Makefile	/^am_test_dump_OBJECTS = test_dump.$(OBJEXT)$/;"	m
+am_test_dump_callback_OBJECTS	jansson/api_jansson/Makefile	/^am_test_dump_callback_OBJECTS = test_dump_callback.$(OBJEXT)$/;"	m
+am_test_dump_callback_OBJECTS	test/jansson/api_jansson/Makefile	/^am_test_dump_callback_OBJECTS = test_dump_callback.$(OBJEXT)$/;"	m
+am_test_load_OBJECTS	jansson/api_jansson/Makefile	/^am_test_load_OBJECTS = test_load.$(OBJEXT)$/;"	m
+am_test_load_OBJECTS	test/jansson/api_jansson/Makefile	/^am_test_load_OBJECTS = test_load.$(OBJEXT)$/;"	m
+am_test_loadb_OBJECTS	jansson/api_jansson/Makefile	/^am_test_loadb_OBJECTS = test_loadb.$(OBJEXT)$/;"	m
+am_test_loadb_OBJECTS	test/jansson/api_jansson/Makefile	/^am_test_loadb_OBJECTS = test_loadb.$(OBJEXT)$/;"	m
+am_test_memory_funcs_OBJECTS	jansson/api_jansson/Makefile	/^am_test_memory_funcs_OBJECTS = test_memory_funcs.$(OBJEXT)$/;"	m
+am_test_memory_funcs_OBJECTS	test/jansson/api_jansson/Makefile	/^am_test_memory_funcs_OBJECTS = test_memory_funcs.$(OBJEXT)$/;"	m
+am_test_number_OBJECTS	jansson/api_jansson/Makefile	/^am_test_number_OBJECTS = test_number.$(OBJEXT)$/;"	m
+am_test_number_OBJECTS	test/jansson/api_jansson/Makefile	/^am_test_number_OBJECTS = test_number.$(OBJEXT)$/;"	m
+am_test_object_OBJECTS	jansson/api_jansson/Makefile	/^am_test_object_OBJECTS = test_object.$(OBJEXT)$/;"	m
+am_test_object_OBJECTS	test/jansson/api_jansson/Makefile	/^am_test_object_OBJECTS = test_object.$(OBJEXT)$/;"	m
+am_test_pack_OBJECTS	jansson/api_jansson/Makefile	/^am_test_pack_OBJECTS = test_pack.$(OBJEXT)$/;"	m
+am_test_pack_OBJECTS	test/jansson/api_jansson/Makefile	/^am_test_pack_OBJECTS = test_pack.$(OBJEXT)$/;"	m
+am_test_simple_OBJECTS	jansson/api_jansson/Makefile	/^am_test_simple_OBJECTS = test_simple.$(OBJEXT)$/;"	m
+am_test_simple_OBJECTS	test/jansson/api_jansson/Makefile	/^am_test_simple_OBJECTS = test_simple.$(OBJEXT)$/;"	m
+am_test_unpack_OBJECTS	jansson/api_jansson/Makefile	/^am_test_unpack_OBJECTS = test_unpack.$(OBJEXT)$/;"	m
+am_test_unpack_OBJECTS	test/jansson/api_jansson/Makefile	/^am_test_unpack_OBJECTS = test_unpack.$(OBJEXT)$/;"	m
+as_fn_append	nfex/nfex_exe_pp/configure	/^  as_fn_append ()$/;"	f
+as_fn_arith	nfex/nfex_exe_pp/configure	/^  as_fn_arith ()$/;"	f
+as_fn_error	nfex/nfex_exe_pp/configure	/^as_fn_error ()$/;"	f
+as_fn_exit	nfex/nfex_exe_pp/configure	/^as_fn_exit ()$/;"	f
+as_fn_failure	nfex/nfex_exe_pp/configure	/^as_fn_failure () { as_fn_return 1; }$/;"	f
+as_fn_mkdir_p	nfex/nfex_exe_pp/configure	/^as_fn_mkdir_p ()$/;"	f
+as_fn_ret_failure	nfex/nfex_exe_pp/configure	/^as_fn_ret_failure () { return 1; }$/;"	f
+as_fn_ret_success	nfex/nfex_exe_pp/configure	/^as_fn_ret_success () { return 0; }$/;"	f
+as_fn_set_status	nfex/nfex_exe_pp/configure	/^as_fn_set_status ()$/;"	f
+as_fn_success	nfex/nfex_exe_pp/configure	/^as_fn_success () { as_fn_return 0; }$/;"	f
+as_fn_unset	nfex/nfex_exe_pp/configure	/^as_fn_unset ()$/;"	f
+as_func_failure	nfex/configure	/^as_func_failure () {$/;"	f
+as_func_ret_failure	nfex/configure	/^as_func_ret_failure () {$/;"	f
+as_func_ret_success	nfex/configure	/^as_func_ret_success () {$/;"	f
+as_func_success	nfex/configure	/^as_func_success () {$/;"	f
+bin_PROGRAMS	nfex/src/Makefile	/^bin_PROGRAMS = nfex$(EXEEXT)$/;"	m
+bindir	jansson/api_jansson/Makefile	/^bindir = ${exec_prefix}\/bin$/;"	m
+bindir	nfex/Makefile	/^bindir = ${exec_prefix}\/bin$/;"	m
+bindir	nfex/src/Makefile	/^bindir = ${exec_prefix}\/bin$/;"	m
+bindir	test/jansson/api_jansson/Makefile	/^bindir = ${exec_prefix}\/bin$/;"	m
+buf	jansson/api_jansson/test_dump_callback.c	/^    char *buf;$/;"	m	struct:my_sink	file:
+buf	jansson/api_jansson/test_load_callback.c	/^    const char *buf;$/;"	m	struct:my_source	file:
+buf	test/ftp/ftpdownload/ftp_cli.c	/^char buf[BUF_SIZE];$/;"	v
+buf	test/ftp/ftpdownload/ftp_serv.c	/^char buf[BUF_SIZE];$/;"	v
+buf	test/jansson/api_jansson/test_dump_callback.c	/^    char *buf;$/;"	m	struct:my_sink	file:
+buf	test/jansson/api_jansson/test_load_callback.c	/^    const char *buf;$/;"	m	struct:my_source	file:
+buf	test/msgget/msg1.c	/^	char buf[256];$/;"	m	struct:mymsg	file:
+buf	test/msgget/msg2.c	/^	char buf[256];$/;"	m	struct:mymsg	file:
+buffer	nfex/nfex_exe_pp/src/md5/md5.h	/^  unsigned char buffer[64];                         \/* input buffer *\/$/;"	m	struct:__anon10
+buffer	test/code/pth.c	/^	int buffer[BUFFER_SIZE]; \/* 实际数据存放的数组*\/$/;"	m	struct:prodcons	file:
+buffer	test/code/pth.c	/^struct prodcons buffer;$/;"	v	typeref:struct:prodcons
+build	jansson/api_jansson/Makefile	/^build = x86_64-unknown-linux-gnu$/;"	m
+build	nfex/Makefile	/^build = x86_64-unknown-linux-gnu$/;"	m
+build	nfex/src/Makefile	/^build = x86_64-unknown-linux-gnu$/;"	m
+build	test/jansson/api_jansson/Makefile	/^build = x86_64-unknown-linux-gnu$/;"	m
+build_alias	jansson/api_jansson/Makefile	/^build_alias = $/;"	m
+build_alias	nfex/Makefile	/^build_alias = $/;"	m
+build_alias	nfex/src/Makefile	/^build_alias = $/;"	m
+build_alias	test/jansson/api_jansson/Makefile	/^build_alias = $/;"	m
+build_bpf_filter	nfex/src/util.c	/^build_bpf_filter(register char **argv, char **buf)$/;"	f
+build_cpu	jansson/api_jansson/Makefile	/^build_cpu = x86_64$/;"	m
+build_cpu	nfex/Makefile	/^build_cpu = x86_64$/;"	m
+build_cpu	nfex/src/Makefile	/^build_cpu = x86_64$/;"	m
+build_cpu	test/jansson/api_jansson/Makefile	/^build_cpu = x86_64$/;"	m
+build_os	jansson/api_jansson/Makefile	/^build_os = linux-gnu$/;"	m
+build_os	nfex/Makefile	/^build_os = linux-gnu$/;"	m
+build_os	nfex/src/Makefile	/^build_os = linux-gnu$/;"	m
+build_os	test/jansson/api_jansson/Makefile	/^build_os = linux-gnu$/;"	m
+build_triplet	jansson/api_jansson/Makefile	/^build_triplet = x86_64-unknown-linux-gnu$/;"	m
+build_triplet	nfex/Makefile	/^build_triplet = x86_64-unknown-linux-gnu$/;"	m
+build_triplet	nfex/src/Makefile	/^build_triplet = x86_64-unknown-linux-gnu$/;"	m
+build_triplet	test/jansson/api_jansson/Makefile	/^build_triplet = x86_64-unknown-linux-gnu$/;"	m
+build_vendor	jansson/api_jansson/Makefile	/^build_vendor = unknown$/;"	m
+build_vendor	nfex/Makefile	/^build_vendor = unknown$/;"	m
+build_vendor	nfex/src/Makefile	/^build_vendor = unknown$/;"	m
+build_vendor	test/jansson/api_jansson/Makefile	/^build_vendor = unknown$/;"	m
+builddir	jansson/api_jansson/Makefile	/^builddir = .$/;"	m
+builddir	nfex/Makefile	/^builddir = .$/;"	m
+builddir	nfex/src/Makefile	/^builddir = .$/;"	m
+builddir	test/jansson/api_jansson/Makefile	/^builddir = .$/;"	m
+cap	jansson/api_jansson/test_dump_callback.c	/^    size_t cap;$/;"	m	struct:my_sink	file:
+cap	jansson/api_jansson/test_load_callback.c	/^    size_t cap;$/;"	m	struct:my_source	file:
+cap	test/jansson/api_jansson/test_dump_callback.c	/^    size_t cap;$/;"	m	struct:my_sink	file:
+cap	test/jansson/api_jansson/test_load_callback.c	/^    size_t cap;$/;"	m	struct:my_source	file:
+capfname	nfex/include/nfex.h	/^    char capfname[128];               \/* pcap capture file name *\/$/;"	m	struct:nfex_control_context
+capfsize	nfex/include/nfex.h	/^    off_t capfsize;                   \/* size of capfile *\/$/;"	m	struct:nfex_control_context
+casepatrn	acnew/acsmx.h	/^	unsigned char *casepatrn;    \/\/$/;"	m	struct:_acsm_pattern
+casepatrn	acsmx.h	/^	unsigned char *casepatrn;$/;"	m	struct:_acsm_pattern
+casepatrn	test/src/acsmx.h	/^	unsigned char         *casepatrn;$/;"	m	struct:_acsm_pattern
+cdser	test/ftp/ftpdownload/ftp_cli.c	/^int cdser(int s,char file_name[FILE_SIZE])$/;"	f
+cdser	test/ftp/ftpdownload/ftp_serv.c	/^int cdser(char file_name[FILE_SIZE])$/;"	f
+check_PROGRAMS	jansson/api_jansson/Makefile	/^check_PROGRAMS = test_array$(EXEEXT) test_copy$(EXEEXT) \\$/;"	m
+check_PROGRAMS	test/jansson/api_jansson/Makefile	/^check_PROGRAMS = test_array$(EXEEXT) test_copy$(EXEEXT) \\$/;"	m
+check_error	jansson/api_jansson/util.h	33;"	d
+check_error	test/jansson/api_jansson/util.h	33;"	d
+circular_references	jansson/api_jansson/test_dump.c	/^static void circular_references()$/;"	f	file:
+circular_references	test/jansson/api_jansson/test_dump.c	/^static void circular_references()$/;"	f	file:
+clamav_init	nfex/nfex_exe_pp/src/nfex_exe_pp.c	/^clamav_init()$/;"	f
+colm	acnew/acsmx.h	/^	int colm; \/\/列$/;"	m	struct:Coordinate
+colm	acsmx.h	/^	int colm;$/;"	m	struct:Coordinate
+computerstate	computerstate.c	/^info_ma computerstate(char* netname)$/;"	f
+computerstate_pthread	client.c	/^void *computerstate_pthread(void *p)$/;"	f
+computerstate_pthread	ssl_client.c	/^void *computerstate_pthread(void *p)$/;"	f
+cond	test/code/pthread_cond_timedwait.c	/^static pthread_cond_t cond;$/;"	v	file:
+config_type	nfex/src/conf.c	/^config_type(char *extension, char *maxlength, char *hspec, char *fspec, void *a)$/;"	f
+consumer	test/code/pth.c	/^void *consumer(void *data)$/;"	f
+control_context_destroy	nfex/src/init.c	/^control_context_destroy(ncc_t *ncc)$/;"	f
+control_context_init	nfex/src/init.c	/^control_context_init(char *output_dir, char *yyinfname, char *device, $/;"	f
+convert_seconds	nfex/src/util.c	/^convert_seconds(u_int32_t seconds, u_int32_t *d, u_int32_t *h, u_int32_t *m,$/;"	f
+coordinate	acnew/acsmx.h	/^	struct Coordinate *coordinate;$/;"	m	struct:_acsm_pattern	typeref:struct:_acsm_pattern::Coordinate
+coordinate	acsmx.h	/^	struct Coordinate *coordinate;$/;"	m	struct:_acsm_pattern	typeref:struct:_acsm_pattern::Coordinate
+count	acnew/acsmx.c	/^  int count;$/;"	m	struct:_queue	file:
+count	acsmx.c	/^  int count;$/;"	m	struct:_queue	file:
+count	nfex/nfex_exe_pp/src/md5/md5.h	/^  UINT4 count[2];        \/* number of bits, modulo 2^64 (lsb first) *\/$/;"	m	struct:__anon10
+count	test/src/acsmx.c	/^	int count;$/;"	m	struct:_queue	file:
+cpu	computerstate.h	/^	double cpu;$/;"	m	struct:sent_info
+create_and_free_complex_object	jansson/api_jansson/test_memory_funcs.c	/^static void create_and_free_complex_object()$/;"	f	file:
+create_and_free_complex_object	test/jansson/api_jansson/test_memory_funcs.c	/^static void create_and_free_complex_object()$/;"	f	file:
+currlen	nfex/src/search.c	/^static size_t currlen;$/;"	v	file:
+cwd_buf	test/ftp/ftpdownload/ftp_cli.c	/^char cwd_buf[CWD_SIZE];$/;"	v
+cwd_buf	test/ftp/ftpdownload/ftp_serv.c	/^char cwd_buf[CWD_SIZE];$/;"	v
+data	nfex/include/search.h	/^    } data;$/;"	m	struct:srch_node	typeref:union:srch_node::__anon11
+data	state_disk.c	/^static hadd data;$/;"	v	file:
+data	test/code/hdd.c	/^static hadd data;$/;"	v	file:
+data	test/code/hdd2.c	/^static hadd data;$/;"	v	file:
+datadir	jansson/api_jansson/Makefile	/^datadir = ${datarootdir}$/;"	m
+datadir	nfex/Makefile	/^datadir = ${datarootdir}$/;"	m
+datadir	nfex/src/Makefile	/^datadir = ${datarootdir}$/;"	m
+datadir	test/jansson/api_jansson/Makefile	/^datadir = ${datarootdir}$/;"	m
+datarootdir	jansson/api_jansson/Makefile	/^datarootdir = ${prefix}\/share$/;"	m
+datarootdir	nfex/Makefile	/^datarootdir = ${prefix}\/share$/;"	m
+datarootdir	nfex/src/Makefile	/^datarootdir = ${prefix}\/share$/;"	m
+datarootdir	test/jansson/api_jansson/Makefile	/^datarootdir = ${prefix}\/share$/;"	m
+decode_any	jansson/api_jansson/test_load.c	/^static void decode_any()$/;"	f	file:
+decode_any	test/jansson/api_jansson/test_load.c	/^static void decode_any()$/;"	f	file:
+decode_int_as_real	jansson/api_jansson/test_load.c	/^static void decode_int_as_real()$/;"	f	file:
+decode_int_as_real	test/jansson/api_jansson/test_load.c	/^static void decode_int_as_real()$/;"	f	file:
+depcomp	jansson/api_jansson/Makefile	/^depcomp = $(SHELL) $(top_srcdir)\/depcomp$/;"	m
+depcomp	nfex/src/Makefile	/^depcomp = $(SHELL) $(top_srcdir)\/depcomp$/;"	m
+depcomp	test/jansson/api_jansson/Makefile	/^depcomp = $(SHELL) $(top_srcdir)\/depcomp$/;"	m
+desip	event.h	/^	char desip[32];$/;"	m	struct:namemsg
+desip	nfex/src/extract.c	/^	char desip[32];$/;"	m	struct:namemsg	file:
+desip	test/code/t.c	/^	char desip[32];$/;"	m	struct:nfexinfo	file:
+desip	test/code/t2.c	/^	char desip[32];$/;"	m	struct:nfexinfo	file:
+desip	test/event/event.h	/^	char desip[32];$/;"	m	struct:nfexinfo
+detail	jansson/jan3/policyjans.h	/^	int  detail[COUNTMAX];$/;"	m	struct:policymsg
+detail	jansson/jan4/policyjans.h	/^	char detail[COUNTMAX];$/;"	m	struct:policymsg
+device	nfex/include/nfex.h	/^    char *device;                     \/* pcap device *\/$/;"	m	struct:nfex_control_context
+dirser	test/ftp/ftpdownload/ftp_cli.c	/^int dirser(int s)$/;"	f
+dirser	test/ftp/ftpdownload/ftp_serv.c	/^int dirser(int new_sock)$/;"	f
+disable_eof_check	jansson/api_jansson/test_load.c	/^static void disable_eof_check()$/;"	f	file:
+disable_eof_check	test/jansson/api_jansson/test_load.c	/^static void disable_eof_check()$/;"	f	file:
+disk	computerstate.h	/^    double disk;$/;"	m	struct:sent_info
+distcleancheck_listfiles	nfex/Makefile	/^distcleancheck_listfiles = find . -type f -print$/;"	m
+distdir	nfex/Makefile	/^distdir = $(PACKAGE)-$(VERSION)$/;"	m
+distuninstallcheck_listfiles	nfex/Makefile	/^distuninstallcheck_listfiles = find . -type f -print$/;"	m
+divie_num	state_disk.c	/^int divie_num(char *line,int flag)$/;"	f
+divie_num	test/code/hdd.c	/^int divie_num(char *line,int flag)$/;"	f
+divie_num	test/code/hdd2.c	/^int divie_num(char *line,int flag)$/;"	f
+docdir	jansson/api_jansson/Makefile	/^docdir = ${datarootdir}\/doc\/${PACKAGE_TARNAME}$/;"	m
+docdir	nfex/Makefile	/^docdir = ${datarootdir}\/doc\/${PACKAGE}$/;"	m
+docdir	nfex/src/Makefile	/^docdir = ${datarootdir}\/doc\/${PACKAGE}$/;"	m
+docdir	test/jansson/api_jansson/Makefile	/^docdir = ${datarootdir}\/doc\/${PACKAGE_TARNAME}$/;"	m
+domain	event.h	/^	char domain[32]; \/\/域名$/;"	m	struct:event
+domain	test/event/event.h	/^	char domain[32]; \/\/域名$/;"	m	struct:event
+dos_hdr_t	nfex/nfex_exe_pp/include/pe32.h	/^typedef struct _DOS_HEADER dos_hdr_t;$/;"	t	typeref:struct:_DOS_HEADER
+dvidir	jansson/api_jansson/Makefile	/^dvidir = ${docdir}$/;"	m
+dvidir	nfex/Makefile	/^dvidir = ${docdir}$/;"	m
+dvidir	nfex/src/Makefile	/^dvidir = ${docdir}$/;"	m
+dvidir	test/jansson/api_jansson/Makefile	/^dvidir = ${docdir}$/;"	m
+e_cblp	nfex/nfex_exe_pp/include/pe32.h	/^    uint16_t e_cblp;          \/** Bytes on last page of file *\/$/;"	m	struct:_DOS_HEADER
+e_cp	nfex/nfex_exe_pp/include/pe32.h	/^    uint16_t e_cp;            \/** Pages in file *\/$/;"	m	struct:_DOS_HEADER
+e_cparhdr	nfex/nfex_exe_pp/include/pe32.h	/^    uint16_t e_cparhdr;       \/** Size of header in paragraphs *\/$/;"	m	struct:_DOS_HEADER
+e_crlc	nfex/nfex_exe_pp/include/pe32.h	/^    uint16_t e_crlc;          \/** Relocations *\/$/;"	m	struct:_DOS_HEADER
+e_cs	nfex/nfex_exe_pp/include/pe32.h	/^    uint16_t e_cs;            \/** Initial (relative) CS value *\/$/;"	m	struct:_DOS_HEADER
+e_csum	nfex/nfex_exe_pp/include/pe32.h	/^    uint16_t e_csum;          \/** Checksum *\/$/;"	m	struct:_DOS_HEADER
+e_ip	nfex/nfex_exe_pp/include/pe32.h	/^    uint16_t e_ip;            \/** Initial IP value *\/$/;"	m	struct:_DOS_HEADER
+e_lfanew	nfex/nfex_exe_pp/include/pe32.h	/^    uint32_t e_lfanew;        \/** File address of new exe header *\/$/;"	m	struct:_DOS_HEADER
+e_lfarlc	nfex/nfex_exe_pp/include/pe32.h	/^    uint16_t e_lfarlc;        \/** File address of relocation table *\/$/;"	m	struct:_DOS_HEADER
+e_magic	nfex/nfex_exe_pp/include/pe32.h	/^    uint16_t e_magic;         \/** Magic number *\/$/;"	m	struct:_DOS_HEADER
+e_maxalloc	nfex/nfex_exe_pp/include/pe32.h	/^    uint16_t e_maxalloc;      \/** Maximum extra paragraphs needed *\/$/;"	m	struct:_DOS_HEADER
+e_minalloc	nfex/nfex_exe_pp/include/pe32.h	/^    uint16_t e_minalloc;      \/** Minimum extra paragraphs needed *\/$/;"	m	struct:_DOS_HEADER
+e_oemid	nfex/nfex_exe_pp/include/pe32.h	/^    uint16_t e_oemid;         \/** OEM identifier (for e_oeminfo) *\/$/;"	m	struct:_DOS_HEADER
+e_oeminfo	nfex/nfex_exe_pp/include/pe32.h	/^    uint16_t e_oeminfo;       \/** OEM information; e_oemid specific *\/$/;"	m	struct:_DOS_HEADER
+e_ovno	nfex/nfex_exe_pp/include/pe32.h	/^    uint16_t e_ovno;          \/** Overlay number *\/$/;"	m	struct:_DOS_HEADER
+e_res	nfex/nfex_exe_pp/include/pe32.h	/^    uint16_t e_res[4];        \/** Reserved words *\/$/;"	m	struct:_DOS_HEADER
+e_res2	nfex/nfex_exe_pp/include/pe32.h	/^    uint16_t e_res2[10];      \/** Reserved words *\/$/;"	m	struct:_DOS_HEADER
+e_sp	nfex/nfex_exe_pp/include/pe32.h	/^    uint16_t e_sp;            \/** Initial SP value *\/$/;"	m	struct:_DOS_HEADER
+e_ss	nfex/nfex_exe_pp/include/pe32.h	/^    uint16_t e_ss;            \/** Initial (relative) SS value *\/$/;"	m	struct:_DOS_HEADER
+ecalloc	nfex/src/util.c	/^ecalloc(size_t nmemb, size_t size)$/;"	f
+emalloc	nfex/src/util.c	/^emalloc(size_t size)$/;"	f
+encode_null	jansson/api_jansson/test_dump.c	/^static void encode_null()$/;"	f	file:
+encode_null	test/jansson/api_jansson/test_dump.c	/^static void encode_null()$/;"	f	file:
+encode_null_callback	jansson/api_jansson/test_dump.c	/^static int encode_null_callback(const char *buffer, size_t size, void *data)$/;"	f	file:
+encode_null_callback	test/jansson/api_jansson/test_dump.c	/^static int encode_null_callback(const char *buffer, size_t size, void *data)$/;"	f	file:
+encode_other_than_array_or_object	jansson/api_jansson/test_dump.c	/^static void encode_other_than_array_or_object()$/;"	f	file:
+encode_other_than_array_or_object	test/jansson/api_jansson/test_dump.c	/^static void encode_other_than_array_or_object()$/;"	f	file:
+encode_twice	jansson/api_jansson/test_dump.c	/^static void encode_twice()$/;"	f	file:
+encode_twice	test/jansson/api_jansson/test_dump.c	/^static void encode_twice()$/;"	f	file:
+end	nfex/include/extract.h	/^        int end;$/;"	m	struct:extract_list::__anon13
+end	nfex/include/search.h	/^        int end;                       \/* for FOOTERs *\/$/;"	m	struct:srch_results::__anon12
+errbuf	nfex/include/nfex.h	/^    char errbuf[PCAP_ERRBUF_SIZE];    \/* bad things reported here *\/$/;"	m	struct:nfex_control_context
+error	nfex/src/util.c	/^error(char *msg)$/;"	f
+escape_slashes	jansson/api_jansson/test_dump.c	/^static void escape_slashes()$/;"	f	file:
+escape_slashes	test/jansson/api_jansson/test_dump.c	/^static void escape_slashes()$/;"	f	file:
+even	event.c	/^	char even[1024];$/;"	m	struct:mymsg	file:
+even	ssl_client.h	/^	char even[1024];$/;"	m	struct:msgmatch
+even	test/code/2event.c	/^	char even[1024];$/;"	m	struct:mymsg	file:
+even	test/code/faevent.c	/^	char even[1024];$/;"	m	struct:mymsg	file:
+even	test/code/jans5.c	/^	char even[1024];$/;"	m	struct:mymsg	file:
+even	test/code/jieevent.c	/^	char even[1024];$/;"	m	struct:mymsg	file:
+even	test/event/event.c	/^	char even[1024];$/;"	m	struct:mymsg	file:
+even	test/event/eventrcv.c	/^	char even[1024];$/;"	m	struct:mymsg	file:
+even	test/event/eventsnd.c	/^	char even[1024];$/;"	m	struct:mymsg	file:
+event	event.h	/^struct event $/;"	s
+event	test/event/event.h	/^struct event $/;"	s
+event_jansson	jansson/jan/get_jans.c	/^int event_jansson()$/;"	f
+event_jansson	jansson/jan2/get_jans.c	/^int event_jansson()$/;"	f
+event_jansson	jansson/jan3/policyjans.c	/^int event_jansson()$/;"	f
+event_jansson	jansson/jan4/writejans.c	/^int event_jansson()$/;"	f
+event_jansson	jansson/jan5/writejans.c	/^int event_jansson()$/;"	f
+event_jansson	jansson/jan6/writejans.c	/^int event_jansson()$/;"	f
+event_jansson	jansson/testjan/extractvalue_jansson.c	/^int event_jansson()$/;"	f
+event_jansson	jansson/testjan/getstr_jansson.c	/^int event_jansson()$/;"	f
+event_jansson	jansson/testjan/test3.c	/^int event_jansson(struct event ev)$/;"	f
+event_jansson	matchjans.c	/^int event_jansson(struct event ev, char **janstr)$/;"	f
+event_jansson	test/code/jans5.c	/^int event_jansson(struct event ev, char **janstr)$/;"	f
+event_jansson	test/jansson/test3.c	/^int event_jansson(struct event ev)$/;"	f
+exec_prefix	jansson/api_jansson/Makefile	/^exec_prefix = ${prefix}$/;"	m
+exec_prefix	nfex/Makefile	/^exec_prefix = ${prefix}$/;"	m
+exec_prefix	nfex/src/Makefile	/^exec_prefix = ${prefix}$/;"	m
+exec_prefix	test/jansson/api_jansson/Makefile	/^exec_prefix = ${prefix}$/;"	m
+expression	nfex/src/confy.y	/^expression: WORD '(' NUMBER ',' SPECIFIER ')' ENDLINE			{config_type($1, $3, $5, NULL, a);}$/;"	l
+expressionlist	nfex/src/confy.y	/^expressionlist: expression$/;"	l
+ext	nfex/include/search.h	/^    char *ext;        \/* file extension canonical type *\/$/;"	m	struct:fileid
+extract	nfex/src/extract.c	/^extract(extract_list_t **elist, srch_results_t *results, ht_node_t *session, $/;"	f
+extract_list	nfex/include/extract.h	/^struct extract_list$/;"	s
+extract_list	nfex/include/hash.h	/^    extract_list_t *extract_list;   \/* list of current files being extracted *\/$/;"	m	struct:hash_table_node
+extract_list_t	nfex/include/extract.h	/^typedef struct extract_list extract_list_t;$/;"	t	typeref:struct:extract_list
+extract_segment	nfex/src/extract.c	/^extract_segment(extract_list_t *p, const uint8_t *data, ncc_t *ncc)$/;"	f	file:
+extraction_errors	nfex/include/nfex.h	/^    uint32_t extraction_errors;       \/* extraction errors *\/$/;"	m	struct:nfex_statistics
+f_open	state_disk.c	/^int f_open(char *filename)$/;"	f
+f_open	test/code/hdd.c	/^int f_open(char *filename)$/;"	f
+f_open	test/code/hdd2.c	/^int f_open(char *filename)$/;"	f
+fa	client.c	/^void fa (int signal)$/;"	f
+fa	ssl_client.c	/^void fa (int signal)$/;"	f
+fa	test/code/mypthread.c	/^void fa (int signal)$/;"	f
+fail	jansson/api_jansson/util.h	25;"	d
+fail	test/jansson/api_jansson/util.h	25;"	d
+failhdr	jansson/api_jansson/util.h	23;"	d
+failhdr	test/jansson/api_jansson/util.h	23;"	d
+fd	nfex/include/extract.h	/^    int fd;                  \/* file descriptor to write data to file *\/$/;"	m	struct:extract_list
+file_not_found	jansson/api_jansson/test_load.c	/^static void file_not_found()$/;"	f	file:
+file_not_found	test/jansson/api_jansson/test_load.c	/^static void file_not_found()$/;"	f	file:
+file_type	judgeftype.c	/^int file_type(char *fname)$/;"	f
+file_type	test/filejudge/judge/judgeftype10.c	/^int file_type(char *fname)$/;"	f
+file_type	test/filejudge/judge2/judgeftype10.c	/^int file_type(char *fname)$/;"	f
+file_type	test/filejudge/judge3/judgeftype.c	/^int file_type(char *fname)$/;"	f
+file_type	test/filejudge/judge4/judgeftype.c	/^int file_type(char *fname)$/;"	f
+file_type	test/filejudge/judge5/judgeftype.c	/^int file_type(char *fname)$/;"	f
+file_type	test/filejudge/judge6/judgeftype.c	/^int file_type(char *fname)$/;"	f
+file_type	test/filejudge/judgeftype.c	/^int file_type(char *fname)$/;"	f
+file_type	test/filejudge/testjudge/jtest/judgeftype4.c	/^int file_type(char *fname)$/;"	f
+file_type	test/filejudge/testjudge/jtest/judgeftype5.c	/^int file_type(char *fname)$/;"	f
+file_type	test/filejudge/testjudge/jtest/judgeftype6.c	/^int file_type(char *fname)$/;"	f
+file_type	test/filejudge/testjudge/jtest/judgeftype7.c	/^int file_type(char *fname)$/;"	f
+file_type	test/filejudge/testjudge/jtest/judgeftype8.c	/^int file_type(char *fname)$/;"	f
+file_type	test/filejudge/testjudge/jtest/judgeftype9.c	/^int file_type(char *fname)$/;"	f
+fileformat	event.h	/^	char fileformat[32];$/;"	m	struct:namemsg
+fileformat	nfex/src/extract.c	/^	char fileformat[32];$/;"	m	struct:namemsg	file:
+fileformat	test/code/t.c	/^	char fileformat[32];$/;"	m	struct:namemsg	file:
+fileformat	test/code/t2.c	/^	char fileformat[32];$/;"	m	struct:namemsg	file:
+fileformat	test/event/event.h	/^	char fileformat[32];$/;"	m	struct:namemsg
+fileid	nfex/include/extract.h	/^    fileid_t *fileid;        \/* the data about the file type *\/$/;"	m	struct:extract_list
+fileid	nfex/include/search.h	/^        fileid_t fileid;               \/* or a file identifier *\/$/;"	m	union:srch_node::__anon11
+fileid	nfex/include/search.h	/^    fileid_t *fileid;                  \/* file identifier *\/$/;"	m	struct:srch_results
+fileid	nfex/include/search.h	/^struct fileid$/;"	s
+fileid_t	nfex/include/search.h	/^typedef struct fileid fileid_t;$/;"	t	typeref:struct:fileid
+filename	event.h	/^	char filename[256];$/;"	m	struct:namemsg
+filename	nfex/src/extract.c	/^	char filename[256];$/;"	m	struct:namemsg	file:
+filename	test/code/t.c	/^	char filename[256];$/;"	m	struct:nfexinfo	file:
+filename	test/code/t2.c	/^	char filename[256];$/;"	m	struct:nfexinfo	file:
+filename	test/event/event.h	/^	char filename[256];$/;"	m	struct:nfexinfo
+filenamelog	filenamelog.c	/^int filenamelog(char *dirname, char *filenameall, char *filenameun)$/;"	f
+filenamelog	test/code/filenamelog.c	/^int filenamelog(char *dirname, char *filenameall, char *filenameun)$/;"	f
+filenum	nfex/include/nfex.h	/^    u_int16_t filenum;                \/* number of files we've written *\/$/;"	m	struct:nfex_control_context
+filepath	event.h	/^	char filepath[256]; \/\/文件路径$/;"	m	struct:event
+filepath	test/event/event.h	/^	char filepath[32]; \/\/文件路径$/;"	m	struct:event
+filetotxt	judgeftype.c	/^int filetotxt(struct namemsg *name)$/;"	f
+filetotxt	test/filejudge/judge/judgeftype10.c	/^int filetotxt(char *dirname)$/;"	f
+filetotxt	test/filejudge/judge2/judgeftype10.c	/^int filetotxt(char *dirname)$/;"	f
+filetotxt	test/filejudge/judge3/judgeftype.c	/^int filetotxt(char *dirname)$/;"	f
+filetotxt	test/filejudge/judge4/judgeftype.c	/^int filetotxt(char *dirname)$/;"	f
+filetotxt	test/filejudge/judge5/judgeftype.c	/^int filetotxt(char *dirname)$/;"	f
+filetotxt	test/filejudge/judge6/judgeftype.c	/^int filetotxt(char *filenameun)$/;"	f
+filetotxt	test/filejudge/judgeftype.c	/^int filetotxt(char *filenameun)$/;"	f
+filetotxt	test/filejudge/testjudge/jtest/judgeftype4.c	/^int filetotxt(char *filename)$/;"	f
+filetotxt	test/filejudge/testjudge/jtest/judgeftype5.c	/^int filetotxt(char *filename)$/;"	f
+filetotxt	test/filejudge/testjudge/jtest/judgeftype6.c	/^int filetotxt(char *dirname)$/;"	f
+filetotxt	test/filejudge/testjudge/jtest/judgeftype7.c	/^int filetotxt(char *dirname)$/;"	f
+filetotxt	test/filejudge/testjudge/jtest/judgeftype8.c	/^int filetotxt(char *dirname)$/;"	f
+filetotxt	test/filejudge/testjudge/jtest/judgeftype9.c	/^int filetotxt(char *dirname)$/;"	f
+finish	nfex/include/extract.h	/^    int finish;              \/* set when a FOOTER is found *\/$/;"	m	struct:extract_list
+first_mark	tool.c	/^int first_mark (char *str, char mark, int num)$/;"	f
+flag	heartbeat.c	/^	int flag;$/;"	m	struct:msg	file:
+flag	test/code/pthread_cond_timedwait.c	/^static int flag = 1;$/;"	v	file:
+flags	nfex/include/nfex.h	/^    uint16_t flags;                   \/* control context flags *\/$/;"	m	struct:nfex_control_context
+flex_int16_t	nfex/src/confl.c	/^typedef int16_t flex_int16_t;$/;"	t	file:
+flex_int16_t	nfex/src/confl.c	/^typedef short int flex_int16_t;$/;"	t	file:
+flex_int32_t	nfex/src/confl.c	/^typedef int flex_int32_t;$/;"	t	file:
+flex_int32_t	nfex/src/confl.c	/^typedef int32_t flex_int32_t;$/;"	t	file:
+flex_int8_t	nfex/src/confl.c	/^typedef int8_t flex_int8_t;$/;"	t	file:
+flex_int8_t	nfex/src/confl.c	/^typedef signed char flex_int8_t;$/;"	t	file:
+flex_uint16_t	nfex/src/confl.c	/^typedef uint16_t flex_uint16_t;$/;"	t	file:
+flex_uint16_t	nfex/src/confl.c	/^typedef unsigned short int flex_uint16_t;$/;"	t	file:
+flex_uint32_t	nfex/src/confl.c	/^typedef uint32_t flex_uint32_t;$/;"	t	file:
+flex_uint32_t	nfex/src/confl.c	/^typedef unsigned int flex_uint32_t;$/;"	t	file:
+flex_uint8_t	nfex/src/confl.c	/^typedef uint8_t flex_uint8_t;$/;"	t	file:
+flex_uint8_t	nfex/src/confl.c	/^typedef unsigned char flex_uint8_t; $/;"	t	file:
+four_tuple	nfex/include/hash.h	/^struct four_tuple$/;"	s
+four_tuple_t	nfex/include/hash.h	/^typedef struct four_tuple four_tuple_t;$/;"	t	typeref:struct:four_tuple
+fprintip	nfex/src/util.c	/^fprintip(FILE *stream, uint32_t ip, ncc_t *ncc)$/;"	f
+free	computerstate.h	/^	unsigned long free;$/;"	m	struct:PACKED1
+free_called	jansson/api_jansson/test_memory_funcs.c	/^static int free_called = 0;$/;"	v	file:
+free_called	test/jansson/api_jansson/test_memory_funcs.c	/^static int free_called = 0;$/;"	v	file:
+free_hadd	computerstate.h	/^}free_hadd;$/;"	t	typeref:struct:node
+free_hadd	test/code/hdd.c	/^}free_hadd;$/;"	t	typeref:struct:node	file:
+free_hadd	test/code/hdd2.c	/^}free_hadd;$/;"	t	typeref:struct:node	file:
+free_home	computerstate.h	/^	long free_home;$/;"	m	struct:node
+free_home	test/code/hdd.c	/^	long free_home;$/;"	m	struct:node	file:
+free_home	test/code/hdd2.c	/^	long free_home;$/;"	m	struct:node	file:
+free_results_list	nfex/src/search.c	/^free_results_list(srch_results_t **results)$/;"	f
+free_root	computerstate.h	/^	long free_root;$/;"	m	struct:node
+free_root	test/code/hdd.c	/^	long free_root;$/;"	m	struct:node	file:
+free_root	test/code/hdd2.c	/^	long free_root;$/;"	m	struct:node	file:
+ft	nfex/include/hash.h	/^    four_tuple_t ft;                \/* four tuple information *\/$/;"	m	struct:hash_table_node
+ftpbei	test/ftp/ftpclient.c	/^int ftpbei (sockfd)$/;"	f
+ftpconnect	test/ftp/ftpclient.c	/^int ftpconnect (int sockfd, char *username, char *password)$/;"	f
+geoip_data	nfex/include/nfex.h	/^    char geoip_data[128];             \/* geoip database path *\/$/;"	m	struct:nfex_control_context
+get	computerstate.h	/^    double get;$/;"	m	struct:sent_info
+get	test/code/mypthread.c	/^struct namemsg get(struct prodcons *b)$/;"	f
+get	test/code/pth.c	/^int get(struct prodcons *b)$/;"	f
+get_cpumsg	state_cpu.c	/^CPU_OCCUPY get_cpumsg () $/;"	f
+get_cpustate	state_cpu.c	/^double get_cpustate()$/;"	f
+get_diskstate	state_disk.c	/^double get_diskstate()  $/;"	f
+get_file_size	test/code/c.c	/^unsigned long get_file_size (const char *path)$/;"	f
+get_file_size	test/filejudge/judge2/getfilesize.c	/^unsigned long get_file_size (const char *path)$/;"	f
+get_file_size	test/filejudge/judge2/seekkey.c	/^unsigned long get_file_size (const char *path)$/;"	f
+get_file_size	test/filejudge/judge2/seekkey2.c	/^unsigned long get_file_size (const char *path)$/;"	f
+get_file_size	test/filejudge/judge3/seekkey2.c	/^unsigned long get_file_size (const char *path)$/;"	f
+get_file_size	test/filejudge/judge4/seekkey2.c	/^unsigned long get_file_size (const char *path)$/;"	f
+get_file_size	test/filejudge/judge5/seekkey.h	/^unsigned long get_file_size (const char *path)$/;"	f
+get_file_size	test/filejudge/judge5/seekkey2.c	/^unsigned long get_file_size (const char *path)$/;"	f
+get_file_size	test/filejudge/judge5/seekkey3.c	/^unsigned long get_file_size (const char *path)$/;"	f
+get_file_size	test/filejudge/judge5/seekkey4.c	/^unsigned long get_file_size (const char *path)$/;"	f
+get_file_size	test/filejudge/judge5/seekkey5.c	/^unsigned long get_file_size (const char *path)$/;"	f
+get_file_size	test/filejudge/judge6/seekkey.h	/^unsigned long get_file_size (const char *path)$/;"	f
+get_file_size	test/filejudge/judge6/seekkey2.c	/^unsigned long get_file_size (const char *path)$/;"	f
+get_file_size	test/filejudge/judge6/seekkey3.c	/^unsigned long get_file_size (const char *path)$/;"	f
+get_file_size	test/filejudge/judge6/seekkey4.c	/^unsigned long get_file_size (const char *path)$/;"	f
+get_file_size	test/filejudge/judge6/seekkey5.c	/^unsigned long get_file_size (const char *path)$/;"	f
+get_file_size	tool.c	/^unsigned long get_file_size (const char *path)$/;"	f
+get_memorystate	state_memory.c	/^double get_memorystate (MEM_OCCUPY *mem)$/;"	f
+get_networkstate	state_net.c	/^long *get_networkstate(char *ath0)  $/;"	f
+get_policy_json	jansson/jan4/policyjans.c	/^struct policymsg get_policy_json(char *jsonfile)$/;"	f
+get_policy_json	jansson/jan5/policyjans.c	/^struct policymsg get_policy_json(char *jsonfile)$/;"	f
+get_policy_json	jansson/jan6/policyjans.c	/^struct policymsg get_policy_json(char *jsonfile)$/;"	f
+get_policy_json	policyjans.c	/^struct policymsg get_policy_json(char *jsonfile)$/;"	f
+getfile	test/ftp/ftpdownload/ftp_cli.c	/^int getfile(int s,char file_name[FILE_SIZE],char **argv)$/;"	f
+getfile	test/ftp/ftpdownload/ftp_serv.c	/^int getfile(int new_sock,char file_name[FILE_SIZE])$/;"	f
+getname	tool.c	/^int getname(char *file, char **name)$/;"	f
+gi	nfex/include/nfex.h	/^    GeoIP *gi;                        \/* geoip database pointer *\/$/;"	m	struct:nfex_control_context
+greedy_reader	jansson/api_jansson/test_load_callback.c	/^static size_t greedy_reader(void *buf, size_t buflen, void *arg)$/;"	f	file:
+greedy_reader	test/jansson/api_jansson/test_load_callback.c	/^static size_t greedy_reader(void *buf, size_t buflen, void *arg)$/;"	f	file:
+hadd	computerstate.h	/^} hadd;$/;"	t	typeref:struct:__anon3
+hadd	test/code/hdd.c	/^} hadd;$/;"	t	typeref:struct:__anon4	file:
+hadd	test/code/hdd2.c	/^} hadd;$/;"	t	typeref:struct:__anon5	file:
+hash_table_node	nfex/include/hash.h	/^struct hash_table_node$/;"	s
+hdd	test/code/hdd2.c	/^double hdd()  $/;"	f
+head	acnew/acsmx.c	/^  QNODE *head, *tail;$/;"	m	struct:_queue	file:
+head	acsmx.c	/^  QNODE *head, *tail;$/;"	m	struct:_queue	file:
+head	test/src/acsmx.c	/^	QNODE * head, *tail;$/;"	m	struct:_queue	file:
+heartbeat	heartbeat.c	/^int heartbeat (char *addr, int port, int pid)$/;"	f
+helpcom	test/ftp/ftpdownload/ftp_cli.c	/^int helpcom(int s)$/;"	f
+host	jansson/api_jansson/Makefile	/^host = x86_64-unknown-linux-gnu$/;"	m
+host	nfex/Makefile	/^host = x86_64-unknown-linux-gnu$/;"	m
+host	nfex/src/Makefile	/^host = x86_64-unknown-linux-gnu$/;"	m
+host	test/jansson/api_jansson/Makefile	/^host = x86_64-unknown-linux-gnu$/;"	m
+host_alias	jansson/api_jansson/Makefile	/^host_alias = $/;"	m
+host_alias	nfex/Makefile	/^host_alias = $/;"	m
+host_alias	nfex/src/Makefile	/^host_alias = $/;"	m
+host_alias	test/jansson/api_jansson/Makefile	/^host_alias = $/;"	m
+host_cpu	jansson/api_jansson/Makefile	/^host_cpu = x86_64$/;"	m
+host_cpu	nfex/Makefile	/^host_cpu = x86_64$/;"	m
+host_cpu	nfex/src/Makefile	/^host_cpu = x86_64$/;"	m
+host_cpu	test/jansson/api_jansson/Makefile	/^host_cpu = x86_64$/;"	m
+host_os	jansson/api_jansson/Makefile	/^host_os = linux-gnu$/;"	m
+host_os	nfex/Makefile	/^host_os = linux-gnu$/;"	m
+host_os	nfex/src/Makefile	/^host_os = linux-gnu$/;"	m
+host_os	test/jansson/api_jansson/Makefile	/^host_os = linux-gnu$/;"	m
+host_triplet	jansson/api_jansson/Makefile	/^host_triplet = x86_64-unknown-linux-gnu$/;"	m
+host_triplet	nfex/Makefile	/^host_triplet = x86_64-unknown-linux-gnu$/;"	m
+host_triplet	nfex/src/Makefile	/^host_triplet = x86_64-unknown-linux-gnu$/;"	m
+host_triplet	test/jansson/api_jansson/Makefile	/^host_triplet = x86_64-unknown-linux-gnu$/;"	m
+host_vendor	jansson/api_jansson/Makefile	/^host_vendor = unknown$/;"	m
+host_vendor	nfex/Makefile	/^host_vendor = unknown$/;"	m
+host_vendor	nfex/src/Makefile	/^host_vendor = unknown$/;"	m
+host_vendor	test/jansson/api_jansson/Makefile	/^host_vendor = unknown$/;"	m
+ht	nfex/include/nfex.h	/^    ht_node_t *ht[NFEX_HT_SIZE];      \/* our hash table of sessions *\/$/;"	m	struct:nfex_control_context
+ht_count_extracts	nfex/src/hash.c	/^ht_count_extracts(ncc_t *ncc)$/;"	f
+ht_dump	nfex/src/hash.c	/^ht_dump(ncc_t *ncc)$/;"	f
+ht_entries	nfex/include/nfex.h	/^    uint32_t ht_entries;              \/* hash table: number of entries *\/$/;"	m	struct:nfex_statistics
+ht_expire_session	nfex/src/hash.c	/^ht_expire_session(ncc_t *ncc)$/;"	f
+ht_find	nfex/src/hash.c	/^ht_find(four_tuple_t *ft, ncc_t *ncc)$/;"	f
+ht_hash	nfex/src/hash.c	/^ht_hash(four_tuple_t *ft)$/;"	f
+ht_ic	nfex/include/nfex.h	/^    uint32_t ht_ic;                   \/* hash table: chained entries *\/$/;"	m	struct:nfex_statistics
+ht_insert	nfex/src/hash.c	/^ht_insert(four_tuple_t *ft, ncc_t *ncc)$/;"	f
+ht_lc	nfex/include/nfex.h	/^    uint32_t ht_lc;                   \/* hash table: longest chain *\/$/;"	m	struct:nfex_statistics
+ht_nc	nfex/include/nfex.h	/^    uint32_t ht_nc;                   \/* hash table: non-chained entries *\/$/;"	m	struct:nfex_statistics
+ht_node_t	nfex/include/hash.h	/^typedef struct hash_table_node ht_node_t;$/;"	t	typeref:struct:hash_table_node
+ht_shutitdown	nfex/src/hash.c	/^ht_shutitdown(ncc_t *ncc)$/;"	f
+ht_status	nfex/src/hash.c	/^ht_status(ncc_t *ncc)$/;"	f
+htmldir	jansson/api_jansson/Makefile	/^htmldir = ${docdir}$/;"	m
+htmldir	nfex/Makefile	/^htmldir = ${docdir}$/;"	m
+htmldir	nfex/src/Makefile	/^htmldir = ${docdir}$/;"	m
+htmldir	test/jansson/api_jansson/Makefile	/^htmldir = ${docdir}$/;"	m
+id	acnew/acsmx.h	/^	void * id;$/;"	m	struct:_acsm_pattern
+id	acsmx.h	/^	void * id;$/;"	m	struct:_acsm_pattern
+id	nfex/include/search.h	/^    int id;           \/* id number of search pattern *\/$/;"	m	struct:fileid
+id	nfex/src/conf.c	/^static int id;$/;"	v	file:
+id	test/src/acsmx.h	/^	void   * id;$/;"	m	struct:_acsm_pattern
+idle	computerstate.h	/^	unsigned int idle;$/;"	m	struct:PACKED
+includedir	jansson/api_jansson/Makefile	/^includedir = ${prefix}\/include$/;"	m
+includedir	nfex/Makefile	/^includedir = ${prefix}\/include$/;"	m
+includedir	nfex/src/Makefile	/^includedir = ${prefix}\/include$/;"	m
+includedir	test/jansson/api_jansson/Makefile	/^includedir = ${prefix}\/include$/;"	m
+indexfname	nfex/include/nfex.h	/^    char indexfname[128];$/;"	m	struct:nfex_control_context
+indexfp	nfex/include/nfex.h	/^    FILE *indexfp;$/;"	m	struct:nfex_control_context
+info_ma	computerstate.h	/^} info_ma;$/;"	t	typeref:struct:sent_info
+infodir	jansson/api_jansson/Makefile	/^infodir = ${datarootdir}\/info$/;"	m
+infodir	nfex/Makefile	/^infodir = ${datarootdir}\/info$/;"	m
+infodir	nfex/src/Makefile	/^infodir = ${datarootdir}\/info$/;"	m
+infodir	test/jansson/api_jansson/Makefile	/^infodir = ${datarootdir}\/info$/;"	m
+init	test/code/mypthread.c	/^void init(struct prodcons *b)$/;"	f
+init	test/code/pth.c	/^void init(struct prodcons *b)$/;"	f
+init_xlatcase	acnew/acsmx.c	/^init_xlatcase ()$/;"	f	file:
+init_xlatcase	acsmx.c	/^init_xlatcase ()$/;"	f	file:
+init_xlatcase	test/src/acsmx.c	/^static void init_xlatcase () $/;"	f	file:
+initname	test/code/t.c	/^	char initname[256];$/;"	m	struct:namemsg	file:
+install_sh	jansson/api_jansson/Makefile	/^install_sh = ${SHELL} \/root\/workdir\/worksoft\/jansson-2.6\/install-sh$/;"	m
+install_sh	nfex/Makefile	/^install_sh = ${SHELL} \/root\/workdir\/workfile\/quanju\/nfex\/install-sh$/;"	m
+install_sh	nfex/src/Makefile	/^install_sh = ${SHELL} \/root\/workdir\/workfile\/quanju\/nfex\/install-sh$/;"	m
+install_sh	test/jansson/api_jansson/Makefile	/^install_sh = ${SHELL} \/root\/workdir\/worksoft\/jansson-2.6\/install-sh$/;"	m
+install_sh_DATA	jansson/api_jansson/Makefile	/^install_sh_DATA = $(install_sh) -c -m 644$/;"	m
+install_sh_DATA	nfex/Makefile	/^install_sh_DATA = $(install_sh) -c -m 644$/;"	m
+install_sh_DATA	nfex/src/Makefile	/^install_sh_DATA = $(install_sh) -c -m 644$/;"	m
+install_sh_DATA	test/jansson/api_jansson/Makefile	/^install_sh_DATA = $(install_sh) -c -m 644$/;"	m
+install_sh_PROGRAM	jansson/api_jansson/Makefile	/^install_sh_PROGRAM = $(install_sh) -c$/;"	m
+install_sh_PROGRAM	nfex/Makefile	/^install_sh_PROGRAM = $(install_sh) -c$/;"	m
+install_sh_PROGRAM	nfex/src/Makefile	/^install_sh_PROGRAM = $(install_sh) -c$/;"	m
+install_sh_PROGRAM	test/jansson/api_jansson/Makefile	/^install_sh_PROGRAM = $(install_sh) -c$/;"	m
+install_sh_SCRIPT	jansson/api_jansson/Makefile	/^install_sh_SCRIPT = $(install_sh) -c$/;"	m
+install_sh_SCRIPT	nfex/Makefile	/^install_sh_SCRIPT = $(install_sh) -c$/;"	m
+install_sh_SCRIPT	nfex/src/Makefile	/^install_sh_SCRIPT = $(install_sh) -c$/;"	m
+install_sh_SCRIPT	test/jansson/api_jansson/Makefile	/^install_sh_SCRIPT = $(install_sh) -c$/;"	m
+iowait	computerstate.h	/^	unsigned int iowait;$/;"	m	struct:PACKED
+ip_dst	nfex/include/hash.h	/^    uint32_t ip_dst;$/;"	m	struct:four_tuple
+ip_last	nfex/include/nfex.h	/^    uint32_t ip_last;                 \/* last packet seen ip *\/$/;"	m	struct:nfex_statistics
+ip_src	nfex/include/hash.h	/^    uint32_t ip_src;$/;"	m	struct:four_tuple
+irq	computerstate.h	/^	unsigned int irq;$/;"	m	struct:PACKED
+is_test	jansson/api_jansson/run	/^is_test() {$/;"	f
+is_test	test/jansson/api_jansson/run	/^is_test() {$/;"	f
+isdirempty	test/code/d.c	/^int isdirempty(char *dirname)$/;"	f
+isdirempty	test/code/filenamelog.c	/^int isdirempty(char *dirname)$/;"	f
+isdirempty	tool.c	/^int isdirempty(char *dirname)$/;"	f
+isempty	test/code/c.c	/^int isempty(char *dirname)$/;"	f
+iter_get_value	jansson/jan/object_iter_jansson.c	/^struct policy iter_get_value(json_t *object)$/;"	f
+iter_get_value	jansson/jan2/object_iter_jansson.c	/^struct policy iter_get_value(json_t *object)$/;"	f
+iter_get_value	jansson/jan3/policyjans.c	/^struct policymsg iter_get_value(json_t *object)$/;"	f
+iter_get_value	jansson/jan4/policyjans.c	/^struct policymsg iter_get_value(json_t *object)$/;"	f
+json_have_localeconv	jansson/api_jansson/Makefile	/^json_have_localeconv = 1$/;"	m
+json_have_localeconv	test/jansson/api_jansson/Makefile	/^json_have_localeconv = 1$/;"	m
+json_have_long_long	jansson/api_jansson/Makefile	/^json_have_long_long = 1$/;"	m
+json_have_long_long	test/jansson/api_jansson/Makefile	/^json_have_long_long = 1$/;"	m
+json_inline	jansson/api_jansson/Makefile	/^json_inline = inline$/;"	m
+json_inline	test/jansson/api_jansson/Makefile	/^json_inline = inline$/;"	m
+keybuf	ssl_client.h	/^	char keybuf[256];$/;"	m	struct:msgkey
+keybuf	test_keyfa.c	/^	char keybuf[256];$/;"	m	struct:msgkey	file:
+keycount	jansson/jan5/policyjans.h	/^	char keycount[COUNTMAX][LENMAX];$/;"	m	struct:policymsg
+keycount	jansson/jan6/policyjans.h	/^	char keycount[COUNTMAX][LENMAX];$/;"	m	struct:policymsg
+keycount	policyjans.h	/^	char keycount[COUNTMAX][LENMAX];$/;"	m	struct:policymsg
+keyinfo	client.c	/^struct msgkey keyinfo;$/;"	v	typeref:struct:msgkey
+keyinfo	ssl_client.c	/^struct msgkey keyinfo;$/;"	v	typeref:struct:msgkey
+keyword	jansson/jan4/policyjans.h	/^	char keyword[COUNTMAX][LENMAX];$/;"	m	struct:policymsg
+keyword	jansson/jan5/policyjans.h	/^	char keyword[COUNTMAX][LENMAX];$/;"	m	struct:policymsg
+keyword	jansson/jan6/policyjans.h	/^	char keyword[COUNTMAX][LENMAX];$/;"	m	struct:policymsg
+keyword	policyjans.h	/^	char keyword[COUNTMAX][LENMAX];$/;"	m	struct:policymsg
+keyword	rewritekey.c	/^	char keyword[256];       $/;"	m	struct:policykey	file:
+keyword	seekkey.h	/^	char keyword[256];$/;"	m	struct:policykey
+keyword_pthread	client.c	/^void *keyword_pthread(void *p)$/;"	f
+keyword_pthread	ssl_client.c	/^void *keyword_pthread(void *p)$/;"	f
+keywordbuf	jansson/jan/get_jans.h	/^	char keywordbuf[COUNTMAX][LENMAX];$/;"	m	struct:policy
+keywordbuf	jansson/jan2/get_jans.h	/^	char keywordbuf[COUNTMAX][LENMAX];$/;"	m	struct:policy
+keywordbuf	jansson/jan3/policyjans.h	/^	char keywordbuf[COUNTMAX][LENMAX];$/;"	m	struct:policymsg
+keywordbuf	jansson/testjan/extractvalue_jansson.c	/^	char keywordbuf[COUNTMAX][LENMAX];$/;"	m	struct:policy	file:
+last_mark	tool.c	/^int last_mark (char *str, char mark)$/;"	f
+len	nfex/include/search.h	/^    size_t len;       \/* the length of the HEADER or FOOTER *\/$/;"	m	struct:fileid
+length	test/ftp/ftpdownload/ftp_cli.c	/^int length;$/;"	v
+libdir	jansson/api_jansson/Makefile	/^libdir = ${exec_prefix}\/lib$/;"	m
+libdir	nfex/Makefile	/^libdir = ${exec_prefix}\/lib$/;"	m
+libdir	nfex/src/Makefile	/^libdir = ${exec_prefix}\/lib$/;"	m
+libdir	test/jansson/api_jansson/Makefile	/^libdir = ${exec_prefix}\/lib$/;"	m
+libexecdir	jansson/api_jansson/Makefile	/^libexecdir = ${exec_prefix}\/libexec$/;"	m
+libexecdir	nfex/Makefile	/^libexecdir = ${exec_prefix}\/libexec$/;"	m
+libexecdir	nfex/src/Makefile	/^libexecdir = ${exec_prefix}\/libexec$/;"	m
+libexecdir	test/jansson/api_jansson/Makefile	/^libexecdir = ${exec_prefix}\/libexec$/;"	m
+line	acnew/acsmx.h	/^	int line; \/\/行$/;"	m	struct:Coordinate
+line	acsmx.h	/^	int line;$/;"	m	struct:Coordinate
+load_wrong_args	jansson/api_jansson/test_load.c	/^static void load_wrong_args()$/;"	f	file:
+load_wrong_args	test/jansson/api_jansson/test_load.c	/^static void load_wrong_args()$/;"	f	file:
+localedir	jansson/api_jansson/Makefile	/^localedir = ${datarootdir}\/locale$/;"	m
+localedir	nfex/Makefile	/^localedir = ${datarootdir}\/locale$/;"	m
+localedir	nfex/src/Makefile	/^localedir = ${datarootdir}\/locale$/;"	m
+localedir	test/jansson/api_jansson/Makefile	/^localedir = ${datarootdir}\/locale$/;"	m
+localstatedir	jansson/api_jansson/Makefile	/^localstatedir = ${prefix}\/var$/;"	m
+localstatedir	nfex/Makefile	/^localstatedir = ${prefix}\/var$/;"	m
+localstatedir	nfex/src/Makefile	/^localstatedir = ${prefix}\/var$/;"	m
+localstatedir	test/jansson/api_jansson/Makefile	/^localstatedir = ${prefix}\/var$/;"	m
+lock	test/code/mypthread.c	/^	pthread_mutex_t lock; \/* 互斥体lock 用于对缓冲区的互斥操作 *\/$/;"	m	struct:prodcons	file:
+lock	test/code/pth.c	/^	pthread_mutex_t lock; \/* 互斥体lock 用于对缓冲区的互斥操作 *\/$/;"	m	struct:prodcons	file:
+lockmatch	client.c	/^pthread_mutex_t lockmatch;$/;"	v
+lockmatch	ssl_client.c	/^pthread_mutex_t lockmatch;$/;"	v
+locktransform	client.c	/^pthread_mutex_t locktransform;$/;"	v
+locktransform	ssl_client.c	/^pthread_mutex_t locktransform;$/;"	v
+log	nfex/include/nfex.h	/^    FILE *log;                        \/* logfile FILE descriptor *\/$/;"	m	struct:nfex_control_context
+log_close	nfex/src/log.c	/^log_close(mmpd_t *m)$/;"	f
+log_init	nfex/src/log.c	/^log_init(char *logfile, mmpd_t *m)$/;"	f
+log_msg	nfex/src/log.c	/^log_msg(u_int8_t priority, mmpd_t *m, char *fmt, ...)$/;"	f
+logevent	event.c	/^int logevent (struct event ev)$/;"	f
+logevent	test/code/2event.c	/^int logevent (struct event ev)$/;"	f
+logevent	test/code/faevent.c	/^int logevent ()$/;"	f
+logevent	test/code/jieevent.c	/^int logevent (struct event ev)$/;"	f
+logevent	test/event/event.c	/^int logevent (struct event ev)$/;"	f
+logevent	test/event/eventrcv.c	/^int logevent ()$/;"	f
+logevent	test/event/eventsnd.c	/^int logevent ()$/;"	f
+main	acnew/entry.c	/^int main(int argc, char **argv) {$/;"	f
+main	client.c	/^int main ()$/;"	f
+main	jansson/api_jansson/test.c	/^int main()$/;"	f
+main	jansson/api_jansson/util.h	/^int main() {$/;"	f
+main	jansson/jan/get_jans.c	/^int main()$/;"	f
+main	jansson/jan/object_iter_jansson.c	/^int main()$/;"	f
+main	jansson/jan2/get_jans.c	/^int main()$/;"	f
+main	jansson/jan3/policyjans.c	/^int main()$/;"	f
+main	jansson/jan4/policyjans.c	/^int main()$/;"	f
+main	jansson/jan4/writejans.c	/^int main()$/;"	f
+main	jansson/jan5/policyjans.c	/^int main()$/;"	f
+main	jansson/jan5/writejans.c	/^int main()$/;"	f
+main	jansson/jan6/policyjans.c	/^int main()$/;"	f
+main	jansson/jan6/writejans.c	/^int main()$/;"	f
+main	jansson/testjan/extractvalue_jansson.c	/^int main()$/;"	f
+main	jansson/testjan/getstr_jansson.c	/^int main()$/;"	f
+main	jansson/testjan/test.c	/^int main()$/;"	f
+main	jansson/testjan/test2.c	/^int main()$/;"	f
+main	jansson/testjan/test3.c	/^int main()$/;"	f
+main	nfex/config.guess	/^		main()$/;"	f
+main	nfex/config.guess	/^	main ()$/;"	f
+main	nfex/config.guess	/^main ()$/;"	f
+main	nfex/nfex_exe_pp/config.guess	/^		main()$/;"	f
+main	nfex/nfex_exe_pp/config.guess	/^	main ()$/;"	f
+main	nfex/nfex_exe_pp/config.guess	/^main ()$/;"	f
+main	nfex/nfex_exe_pp/src/md5/mddriver.c	/^int main (argc, argv)$/;"	f
+main	nfex/nfex_exe_pp/src/nfex_exe_pp.c	/^main(int argc, char *argv[])$/;"	f
+main	nfex/src/main.c	/^main(int argc, char *argv[])$/;"	f
+main	rewritekey.c	/^int main()$/;"	f
+main	seekkey.c	/^int main()$/;"	f
+main	ssl_client.c	/^int main ()$/;"	f
+main	test/code/2event.c	/^int main()$/;"	f
+main	test/code/c.c	/^int main()$/;"	f
+main	test/code/d.c	/^int main()$/;"	f
+main	test/code/faevent.c	/^int main()$/;"	f
+main	test/code/fork.c	/^int main()$/;"	f
+main	test/code/hdd.c	/^int main()  $/;"	f
+main	test/code/jieevent.c	/^int main()$/;"	f
+main	test/code/m.c	/^int main()$/;"	f
+main	test/code/mypthread.c	/^int main ()$/;"	f
+main	test/code/pth.c	/^int main(void)$/;"	f
+main	test/code/pthread_cond_timedwait.c	/^int main(void) $/;"	f
+main	test/code/t.c	/^int main()$/;"	f
+main	test/code/t2.c	/^int main()$/;"	f
+main	test/curlssl/curlhttps.c	/^int main(void)$/;"	f
+main	test/curlssl/curlssl.c	/^int main(int argc,char *argv[])$/;"	f
+main	test/curlssl/simplessl.c	/^int main(void)$/;"	f
+main	test/event/event.c	/^int main()$/;"	f
+main	test/event/eventrcv.c	/^int main()$/;"	f
+main	test/event/eventsnd.c	/^int main()$/;"	f
+main	test/filejudge/judge/judgeftype10.c	/^int main()$/;"	f
+main	test/filejudge/judge2/getfilesize.c	/^int main()$/;"	f
+main	test/filejudge/judge2/judgeftype10.c	/^int main()$/;"	f
+main	test/filejudge/judge2/seekkey.c	/^int main()$/;"	f
+main	test/filejudge/judge2/seekkey2.c	/^int main()$/;"	f
+main	test/filejudge/judge3/judgeftype.c	/^int main()$/;"	f
+main	test/filejudge/judge3/seekkey2.c	/^int main()$/;"	f
+main	test/filejudge/judge4/judgeftype.c	/^int main()$/;"	f
+main	test/filejudge/judge4/seekkey2.c	/^int main()$/;"	f
+main	test/filejudge/judge5/judgeftype.c	/^int main()$/;"	f
+main	test/filejudge/judge5/seekkey2.c	/^int main()$/;"	f
+main	test/filejudge/judge5/seekkey3.c	/^int main()$/;"	f
+main	test/filejudge/judge5/seekkey4.c	/^int main()$/;"	f
+main	test/filejudge/judge5/seekkey5.c	/^int main()$/;"	f
+main	test/filejudge/judge6/judgeftype.c	/^int main()$/;"	f
+main	test/filejudge/judge6/seekkey2.c	/^int main()$/;"	f
+main	test/filejudge/judge6/seekkey3.c	/^int main()$/;"	f
+main	test/filejudge/judge6/seekkey4.c	/^int main()$/;"	f
+main	test/filejudge/judge6/seekkey5.c	/^int main()$/;"	f
+main	test/filejudge/judgeftype.c	/^int main()$/;"	f
+main	test/filejudge/testjudge/a.c	/^int main()$/;"	f
+main	test/filejudge/testjudge/b.c	/^int main()$/;"	f
+main	test/filejudge/testjudge/c.c	/^int main()$/;"	f
+main	test/filejudge/testjudge/d.c	/^int main()$/;"	f
+main	test/filejudge/testjudge/dirp/dir.c	/^int main()$/;"	f
+main	test/filejudge/testjudge/dirp/dir2.c	/^int main()$/;"	f
+main	test/filejudge/testjudge/dirp/dirprint.c	/^$/;"	f
+main	test/filejudge/testjudge/e.c	/^int main()$/;"	f
+main	test/filejudge/testjudge/jtest/ftest3.c	/^int main()$/;"	f
+main	test/filejudge/testjudge/jtest/judgeftype.c	/^int main()$/;"	f
+main	test/filejudge/testjudge/jtest/judgeftype2.c	/^int main()$/;"	f
+main	test/filejudge/testjudge/jtest/judgeftype3.c	/^int main()$/;"	f
+main	test/filejudge/testjudge/jtest/judgeftype4.c	/^int main()$/;"	f
+main	test/filejudge/testjudge/jtest/judgeftype5.c	/^int main()$/;"	f
+main	test/filejudge/testjudge/jtest/judgeftype6.c	/^int main()$/;"	f
+main	test/filejudge/testjudge/jtest/judgeftype7.c	/^int main()$/;"	f
+main	test/filejudge/testjudge/jtest/judgeftype8.c	/^int main()$/;"	f
+main	test/filejudge/testjudge/jtest/judgeftype9.c	/^int main()$/;"	f
+main	test/filejudge/testjudge/jtest/test.c	/^int main()$/;"	f
+main	test/filejudge/testjudge/jtest/test2.c	/^int main()$/;"	f
+main	test/filejudge/testjudge/jtest/test3.c	/^int main()$/;"	f
+main	test/ftp/ftpclient.c	/^int main()$/;"	f
+main	test/ftp/ftpdownload/ftp_cli.c	/^int main(int argc, char **argv)$/;"	f
+main	test/ftp/ftpdownload/ftp_serv.c	/^int main(int argc, char **argv)$/;"	f
+main	test/jansson/api_jansson/test.c	/^int main()$/;"	f
+main	test/jansson/api_jansson/util.h	/^int main() {$/;"	f
+main	test/jansson/test.c	/^int main()$/;"	f
+main	test/jansson/test2.c	/^int main()$/;"	f
+main	test/jansson/test3.c	/^int main()$/;"	f
+main	test/msgget/msg1.c	/^int main()$/;"	f
+main	test/msgget/msg2.c	/^int main()$/;"	f
+main	test/src/entry.c	/^int main (int argc, char **argv) $/;"	f
+main	test_keyfa.c	/^int main()$/;"	f
+malloc_called	jansson/api_jansson/test_memory_funcs.c	/^static int malloc_called = 0;$/;"	v	file:
+malloc_called	test/jansson/api_jansson/test_memory_funcs.c	/^static int malloc_called = 0;$/;"	v	file:
+mandir	jansson/api_jansson/Makefile	/^mandir = ${datarootdir}\/man$/;"	m
+mandir	nfex/Makefile	/^mandir = ${datarootdir}\/man$/;"	m
+mandir	nfex/src/Makefile	/^mandir = ${datarootdir}\/man$/;"	m
+mandir	test/jansson/api_jansson/Makefile	/^mandir = ${datarootdir}\/man$/;"	m
+mark_footer	nfex/src/extract.c	/^mark_footer(extract_list_t *elist, srch_results_t *footer)$/;"	f	file:
+match_file_pthread	client.c	/^void *match_file_pthread (void *p)$/;"	f
+match_file_pthread	ssl_client.c	/^void *match_file_pthread (void *p)$/;"	f
+match_file_pthread	test/code/mypthread.c	/^void *match_file_pthread (void *p)$/;"	f
+matchfile	seekkey.c	/^int matchfile (struct namemsg nameinfo, char *policyfile)$/;"	f
+maxlen	nfex/include/search.h	/^    u_long maxlen;    \/* maximum length of file *\/$/;"	m	struct:fileid
+md5file	nfex/nfex_exe_pp/src/nfex_exe_pp.c	/^md5file(int fd, unsigned char *md5)$/;"	f
+memory	computerstate.h	/^	double memory;$/;"	m	struct:sent_info
+mkdir_p	jansson/api_jansson/Makefile	/^mkdir_p = \/bin\/mkdir -p$/;"	m
+mkdir_p	nfex/Makefile	/^mkdir_p = \/bin\/mkdir -p$/;"	m
+mkdir_p	nfex/src/Makefile	/^mkdir_p = \/bin\/mkdir -p$/;"	m
+mkdir_p	test/jansson/api_jansson/Makefile	/^mkdir_p = \/bin\/mkdir -p$/;"	m
+mkinstalldirs	jansson/api_jansson/Makefile	/^mkinstalldirs = $(install_sh) -d$/;"	m
+mkinstalldirs	nfex/Makefile	/^mkinstalldirs = $(install_sh) -d$/;"	m
+mkinstalldirs	nfex/src/Makefile	/^mkinstalldirs = $(install_sh) -d$/;"	m
+mkinstalldirs	test/jansson/api_jansson/Makefile	/^mkinstalldirs = $(install_sh) -d$/;"	m
+msg	heartbeat.c	/^	char msg[MSGLENGTH];$/;"	m	struct:msg	file:
+msg	heartbeat.c	/^typedef struct msg$/;"	s	file:
+msgfile	heartbeat.c	/^} msgfile;$/;"	t	typeref:struct:msg	file:
+msgkey	ssl_client.h	/^struct msgkey$/;"	s
+msgkey	test_keyfa.c	/^struct msgkey$/;"	s	file:
+msgmatch	ssl_client.h	/^struct msgmatch$/;"	s
+msgtransform	ssl_client.h	/^struct msgtransform$/;"	s
+mtype	test/msgget/msg1.c	/^	long mtype;$/;"	m	struct:mymsg	file:
+mtype	test/msgget/msg2.c	/^	long mtype;$/;"	m	struct:mymsg	file:
+mutex	test/code/pthread_cond_timedwait.c	/^static pthread_mutex_t mutex;$/;"	v	file:
+my_free	jansson/api_jansson/test_memory_funcs.c	/^static void my_free(void *ptr)$/;"	f	file:
+my_free	test/jansson/api_jansson/test_memory_funcs.c	/^static void my_free(void *ptr)$/;"	f	file:
+my_json_type	jansson/jan/str_type_jansson.c	/^int my_json_type(json_t *value)$/;"	f
+my_json_type	jansson/jan2/str_type_jansson.c	/^int my_json_type(json_t *value)$/;"	f
+my_json_type	jansson/jan3/policyjans.c	/^int my_json_type(json_t *value)$/;"	f
+my_json_type	jansson/jan4/policyjans.c	/^int my_json_type(json_t *value)$/;"	f
+my_json_type	jansson/jan5/policyjans.c	/^int my_json_type(json_t *value)$/;"	f
+my_json_type	jansson/jan6/policyjans.c	/^int my_json_type(json_t *value)$/;"	f
+my_json_type	policyjans.c	/^int my_json_type(json_t *value)$/;"	f
+my_malloc	jansson/api_jansson/test_memory_funcs.c	/^static void *my_malloc(size_t size)$/;"	f	file:
+my_malloc	test/jansson/api_jansson/test_memory_funcs.c	/^static void *my_malloc(size_t size)$/;"	f	file:
+my_sink	jansson/api_jansson/test_dump_callback.c	/^struct my_sink {$/;"	s	file:
+my_sink	test/jansson/api_jansson/test_dump_callback.c	/^struct my_sink {$/;"	s	file:
+my_source	jansson/api_jansson/test_load_callback.c	/^struct my_source {$/;"	s	file:
+my_source	test/jansson/api_jansson/test_load_callback.c	/^struct my_source {$/;"	s	file:
+my_split	state_memory.c	/^unsigned long my_split(char* s1,char** s2)$/;"	f
+my_str	jansson/api_jansson/test_load_callback.c	/^static const char my_str[] = "[\\"A\\", {\\"B\\": \\"C\\", \\"e\\": false}, 1, null, \\"foo\\"]";$/;"	v	file:
+my_str	test/jansson/api_jansson/test_load_callback.c	/^static const char my_str[] = "[\\"A\\", {\\"B\\": \\"C\\", \\"e\\": false}, 1, null, \\"foo\\"]";$/;"	v	file:
+my_syslog	my_syslog.c	/^int my_syslog(char *file, char *logname, char *buf)$/;"	f
+my_syslog	test/filejudge/judge3/my_syslog.c	/^int my_syslog(char *file, char *logname, char *buf)$/;"	f
+my_syslog	test/filejudge/judge4/my_syslog.c	/^int my_syslog(char *file, char *logname, char *buf)$/;"	f
+my_syslog	test/filejudge/judge5/my_syslog.c	/^int my_syslog(char *file, char *logname, char *buf)$/;"	f
+my_syslog	test/filejudge/judge6/my_syslog.c	/^int my_syslog(char *file, char *logname, char *buf)$/;"	f
+my_writer	jansson/api_jansson/test_dump_callback.c	/^static int my_writer(const char *buffer, size_t len, void *data) {$/;"	f	file:
+my_writer	test/jansson/api_jansson/test_dump_callback.c	/^static int my_writer(const char *buffer, size_t len, void *data) {$/;"	f	file:
+mycurl	test/curlssl/curlhttps.c	/^int mycurl(char *url, char *filename, char param[][10])$/;"	f
+mycurlstr	test/curlssl/curlhttps.c	/^int mycurlstr(char *url, char msg[][1024], char param[][10])$/;"	f
+mymsg	event.c	/^struct mymsg$/;"	s	file:
+mymsg	matchjans.h	/^struct mymsg$/;"	s
+mymsg	test/code/2event.c	/^struct mymsg$/;"	s	file:
+mymsg	test/code/faevent.c	/^struct mymsg$/;"	s	file:
+mymsg	test/code/jans5.c	/^struct mymsg$/;"	s	file:
+mymsg	test/code/jieevent.c	/^struct mymsg$/;"	s	file:
+mymsg	test/event/event.c	/^struct mymsg$/;"	s	file:
+mymsg	test/event/eventrcv.c	/^struct mymsg$/;"	s	file:
+mymsg	test/event/eventsnd.c	/^struct mymsg$/;"	s	file:
+mymsg	test/msgget/msg1.c	/^struct mymsg$/;"	s	file:
+mymsg	test/msgget/msg2.c	/^struct mymsg$/;"	s	file:
+myqueue	test/msgget/msg1.c	/^void myqueue (int flag)$/;"	f
+myqueue	test/msgget/msg2.c	/^void myqueue (int flag)$/;"	f
+mytype	event.c	/^	long mytype;$/;"	m	struct:mymsg	file:
+mytype	matchjans.h	/^	long mytype;$/;"	m	struct:mymsg
+mytype	nfex/src/extract.c	/^	long mytype;$/;"	m	struct:nfexmsg	file:
+mytype	ssl_client.h	/^	long mytype;$/;"	m	struct:msgkey
+mytype	ssl_client.h	/^	long mytype;$/;"	m	struct:msgmatch
+mytype	ssl_client.h	/^	long mytype;$/;"	m	struct:msgtransform
+mytype	test/code/2event.c	/^	long mytype;$/;"	m	struct:mymsg	file:
+mytype	test/code/faevent.c	/^	long mytype;$/;"	m	struct:mymsg	file:
+mytype	test/code/jans5.c	/^	long mytype;$/;"	m	struct:mymsg	file:
+mytype	test/code/jieevent.c	/^	long mytype;$/;"	m	struct:mymsg	file:
+mytype	test/event/event.c	/^	long mytype;$/;"	m	struct:mymsg	file:
+mytype	test/event/eventrcv.c	/^	long mytype;$/;"	m	struct:mymsg	file:
+mytype	test/event/eventsnd.c	/^	long mytype;$/;"	m	struct:mymsg	file:
+mytype	test_keyfa.c	/^	long mytype;$/;"	m	struct:msgkey	file:
+n	acnew/acsmx.h	/^	int n;$/;"	m	struct:_acsm_pattern
+n	acsmx.h	/^	int n;$/;"	m	struct:_acsm_pattern
+n	test/src/acsmx.h	/^	int      n;$/;"	m	struct:_acsm_pattern
+n_stats_t	nfex/include/nfex.h	/^typedef struct nfex_statistics n_stats_t;$/;"	t	typeref:struct:nfex_statistics
+name	computerstate.h	/^	char name[20];$/;"	m	struct:PACKED
+name	computerstate.h	/^	char name[20];$/;"	m	struct:PACKED1
+name2	computerstate.h	/^	char name2[20];$/;"	m	struct:PACKED1
+nameinfo	event.h	/^	struct namemsg nameinfo;$/;"	m	struct:event	typeref:struct:event::namemsg
+nameinfo	nfex/src/extract.c	/^	struct namemsg nameinfo;$/;"	m	struct:nfexmsg	typeref:struct:nfexmsg::namemsg	file:
+nameinfo	ssl_client.h	/^	struct namemsg nameinfo;$/;"	m	struct:msgtransform	typeref:struct:msgtransform::namemsg
+nameinfo	test/code/mypthread.c	/^	struct namemsg nameinfo[BUFFER_SIZE]; \/* 实际数据存放的数组*\/$/;"	m	struct:prodcons	typeref:struct:prodcons::namemsg	file:
+nameinfo	test/event/event.h	/^	struct namemsg nameinfo;$/;"	m	struct:event	typeref:struct:event::namemsg
+nameinfobuf	test/code/mypthread.c	/^struct prodcons nameinfobuf;$/;"	v	typeref:struct:prodcons
+namemsg	event.h	/^struct namemsg$/;"	s
+namemsg	nfex/src/extract.c	/^struct namemsg$/;"	s	file:
+namemsg	test/code/t.c	/^struct namemsg$/;"	s	file:
+namemsg	test/code/t2.c	/^struct namemsg$/;"	s	file:
+namemsg	test/event/event.h	/^struct namemsg$/;"	s
+ncc_t	nfex/include/nfex.h	/^typedef struct nfex_control_context ncc_t;$/;"	t	typeref:struct:nfex_control_context
+new_srch_node	nfex/src/search.c	/^new_srch_node(srch_nodetype_t nodetype)$/;"	f	file:
+next	acnew/acsmx.c	/^  struct _qnode *next;$/;"	m	struct:_qnode	typeref:struct:_qnode::_qnode	file:
+next	acnew/acsmx.h	/^	struct Coordinate *next;$/;"	m	struct:Coordinate	typeref:struct:Coordinate::Coordinate
+next	acnew/acsmx.h	/^	struct _acsm_pattern *next;  \/\/下一个节点$/;"	m	struct:_acsm_pattern	typeref:struct:_acsm_pattern::_acsm_pattern
+next	acsmx.c	/^  struct _qnode *next;$/;"	m	struct:_qnode	typeref:struct:_qnode::_qnode	file:
+next	acsmx.h	/^	struct Coordinate *next;$/;"	m	struct:Coordinate	typeref:struct:Coordinate::Coordinate
+next	acsmx.h	/^	struct _acsm_pattern *next;$/;"	m	struct:_acsm_pattern	typeref:struct:_acsm_pattern::_acsm_pattern
+next	nfex/include/extract.h	/^    struct extract_list *next;$/;"	m	struct:extract_list	typeref:struct:extract_list::extract_list
+next	nfex/include/hash.h	/^    struct hash_table_node *next;   \/* next entry in the list *\/$/;"	m	struct:hash_table_node	typeref:struct:hash_table_node::hash_table_node
+next	nfex/include/search.h	/^    struct srch_results *next;         \/* next entry in the list *\/$/;"	m	struct:srch_results	typeref:struct:srch_results::srch_results
+next	nfex/include/search.h	/^    struct srchptr_list *next;         \/* next entry in the list *\/$/;"	m	struct:srchptr_list	typeref:struct:srchptr_list::srchptr_list
+next	test/src/acsmx.c	/^	struct _qnode *next;$/;"	m	struct:_qnode	typeref:struct:_qnode::_qnode	file:
+next	test/src/acsmx.h	/^	struct  _acsm_pattern *next;$/;"	m	struct:_acsm_pattern	typeref:struct:_acsm_pattern::_acsm_pattern
+nfex_LDADD	nfex/src/Makefile	/^nfex_LDADD = $(LDADD)$/;"	m
+nfex_OBJECTS	nfex/src/Makefile	/^nfex_OBJECTS = $(am_nfex_OBJECTS)$/;"	m
+nfex_SOURCES	nfex/src/Makefile	/^nfex_SOURCES = main.c \\$/;"	m
+nfex_control_context	nfex/include/nfex.h	/^struct nfex_control_context$/;"	s
+nfex_statistics	nfex/include/nfex.h	/^struct nfex_statistics$/;"	s
+nfexinfo	test/code/t.c	/^struct nfexinfo$/;"	s	file:
+nfexinfo	test/code/t2.c	/^struct nfexinfo$/;"	s	file:
+nfexinfo	test/event/event.h	/^struct nfexinfo$/;"	s
+nfexmsg	nfex/src/extract.c	/^struct nfexmsg$/;"	s	file:
+nfexmsg	test/code/t.c	/^	struct nfexinfo nfexmsg;$/;"	m	struct:namemsg	typeref:struct:namemsg::nfexinfo	file:
+nfexmsg	test/code/t2.c	/^	struct nfexinfo nfexmsg;$/;"	m	struct:namemsg	typeref:struct:namemsg::nfexinfo	file:
+nfexmsg	test/event/event.h	/^	struct nfexinfo nfexmsg;$/;"	m	struct:namemsg	typeref:struct:namemsg::nfexinfo
+nice	computerstate.h	/^	unsigned int nice;$/;"	m	struct:PACKED
+nline	acnew/acsmx.c	/^int nline = 1;$/;"	v
+nline	acsmx.c	/^int nline = 1;$/;"	v
+nline	test/src/acsmx.c	/^extern int nline=1;$/;"	v
+nmatch	acnew/acsmx.h	/^	int nmatch;$/;"	m	struct:_acsm_pattern
+nmatch	acsmx.h	/^	int nmatch;$/;"	m	struct:_acsm_pattern
+nmatch	test/src/acsmx.h	/^	int		 nmatch;$/;"	m	struct:_acsm_pattern
+nocase	acnew/acsmx.h	/^	int nocase;$/;"	m	struct:_acsm_pattern
+nocase	acsmx.h	/^	int nocase;$/;"	m	struct:_acsm_pattern
+nocase	test/src/acsmx.h	/^	int      nocase;$/;"	m	struct:_acsm_pattern
+node	computerstate.h	/^typedef struct node $/;"	s
+node	nfex/include/search.h	/^    srch_node_t *node;                 \/* a search node set *\/$/;"	m	struct:srchptr_list
+node	test/code/hdd.c	/^typedef struct node $/;"	s	file:
+node	test/code/hdd2.c	/^typedef struct node $/;"	s	file:
+nodetype	nfex/include/search.h	/^    srch_nodetype_t nodetype;          \/* node type *\/$/;"	m	struct:srch_node
+notempty	test/code/mypthread.c	/^	pthread_cond_t notempty; \/* 缓冲区非空的条件变量 *\/$/;"	m	struct:prodcons	file:
+notempty	test/code/pth.c	/^	pthread_cond_t notempty; \/* 缓冲区非空的条件变量 *\/$/;"	m	struct:prodcons	file:
+notfull	test/code/mypthread.c	/^	pthread_cond_t notfull; \/* 缓冲区未满的条件变量 *\/$/;"	m	struct:prodcons	file:
+notfull	test/code/pth.c	/^	pthread_cond_t notfull; \/* 缓冲区未满的条件变量 *\/$/;"	m	struct:prodcons	file:
+numcapture	tool.c	/^int numcapture(char *str, int *cpunum, int size)$/;"	f
+nwritten	nfex/include/extract.h	/^    off_t nwritten;          \/* number of bytes written *\/$/;"	m	struct:extract_list
+off	jansson/api_jansson/test_dump_callback.c	/^    size_t off;$/;"	m	struct:my_sink	file:
+off	jansson/api_jansson/test_load_callback.c	/^    size_t off;$/;"	m	struct:my_source	file:
+off	test/jansson/api_jansson/test_dump_callback.c	/^    size_t off;$/;"	m	struct:my_sink	file:
+off	test/jansson/api_jansson/test_load_callback.c	/^    size_t off;$/;"	m	struct:my_source	file:
+offset	nfex/include/search.h	/^    } offset;$/;"	m	struct:srch_results	typeref:struct:srch_results::__anon12
+offset	test/ftp/ftpdownload/ftp_cli.c	/^int offset;$/;"	v
+oldincludedir	jansson/api_jansson/Makefile	/^oldincludedir = \/usr\/include$/;"	m
+oldincludedir	nfex/Makefile	/^oldincludedir = \/usr\/include$/;"	m
+oldincludedir	nfex/src/Makefile	/^oldincludedir = \/usr\/include$/;"	m
+oldincludedir	test/jansson/api_jansson/Makefile	/^oldincludedir = \/usr\/include$/;"	m
+open_extract	nfex/src/extract.c	/^open_extract(char *ext, uint32_t src_ip, uint16_t src_prt, uint32_t dst_ip, $/;"	f	file:
+output_dir	nfex/include/nfex.h	/^    char output_dir[128];             \/* output directory prefix *\/$/;"	m	struct:nfex_control_context
+overkeyword	rewritekey.c	/^int overkeyword(char *srckeyword, char *deskeyword)$/;"	f
+p	nfex/include/nfex.h	/^    pcap_t *p;                        \/* pcap context *\/$/;"	m	struct:nfex_control_context
+packet_errors	nfex/include/nfex.h	/^    uint32_t packet_errors;           \/* packet-level errors *\/$/;"	m	struct:nfex_statistics
+patrn	acnew/acsmx.h	/^	unsigned char *patrn;        \/\/$/;"	m	struct:_acsm_pattern
+patrn	acsmx.h	/^	unsigned char *patrn;$/;"	m	struct:_acsm_pattern
+patrn	test/src/acsmx.h	/^	unsigned char         *patrn;$/;"	m	struct:_acsm_pattern
+pcap_fd	nfex/include/nfex.h	/^    int pcap_fd;                      \/* pcap fd used to select across *\/$/;"	m	struct:nfex_control_context
+pdfdir	jansson/api_jansson/Makefile	/^pdfdir = ${docdir}$/;"	m
+pdfdir	nfex/Makefile	/^pdfdir = ${docdir}$/;"	m
+pdfdir	nfex/src/Makefile	/^pdfdir = ${docdir}$/;"	m
+pdfdir	test/jansson/api_jansson/Makefile	/^pdfdir = ${docdir}$/;"	m
+pkgdatadir	jansson/api_jansson/Makefile	/^pkgdatadir = $(datadir)\/jansson$/;"	m
+pkgdatadir	nfex/Makefile	/^pkgdatadir = $(datadir)\/nfex$/;"	m
+pkgdatadir	nfex/src/Makefile	/^pkgdatadir = $(datadir)\/nfex$/;"	m
+pkgdatadir	test/jansson/api_jansson/Makefile	/^pkgdatadir = $(datadir)\/jansson$/;"	m
+pkgincludedir	jansson/api_jansson/Makefile	/^pkgincludedir = $(includedir)\/jansson$/;"	m
+pkgincludedir	nfex/Makefile	/^pkgincludedir = $(includedir)\/nfex$/;"	m
+pkgincludedir	nfex/src/Makefile	/^pkgincludedir = $(includedir)\/nfex$/;"	m
+pkgincludedir	test/jansson/api_jansson/Makefile	/^pkgincludedir = $(includedir)\/jansson$/;"	m
+pkglibdir	jansson/api_jansson/Makefile	/^pkglibdir = $(libdir)\/jansson$/;"	m
+pkglibdir	nfex/Makefile	/^pkglibdir = $(libdir)\/nfex$/;"	m
+pkglibdir	nfex/src/Makefile	/^pkglibdir = $(libdir)\/nfex$/;"	m
+pkglibdir	test/jansson/api_jansson/Makefile	/^pkglibdir = $(libdir)\/jansson$/;"	m
+pkglibexecdir	jansson/api_jansson/Makefile	/^pkglibexecdir = $(libexecdir)\/jansson$/;"	m
+pkglibexecdir	nfex/Makefile	/^pkglibexecdir = $(libexecdir)\/nfex$/;"	m
+pkglibexecdir	nfex/src/Makefile	/^pkglibexecdir = $(libexecdir)\/nfex$/;"	m
+pkglibexecdir	test/jansson/api_jansson/Makefile	/^pkglibexecdir = $(libexecdir)\/jansson$/;"	m
+policy	jansson/jan/get_jans.h	/^struct policy$/;"	s
+policy	jansson/jan2/get_jans.h	/^struct policy$/;"	s
+policy	jansson/testjan/extractvalue_jansson.c	/^struct policy$/;"	s	file:
+policykey	rewritekey.c	/^struct policykey$/;"	s	file:
+policykey	seekkey.h	/^struct policykey$/;"	s
+policymsg	jansson/jan3/policyjans.h	/^struct policymsg$/;"	s
+policymsg	jansson/jan4/policyjans.h	/^struct policymsg$/;"	s
+policymsg	jansson/jan5/policyjans.h	/^struct policymsg$/;"	s
+policymsg	jansson/jan6/policyjans.h	/^struct policymsg$/;"	s
+policymsg	policyjans.h	/^struct policymsg$/;"	s
+policynum	event.h	/^	char policynum[16];  \/\/策略号$/;"	m	struct:event
+policynum	test/event/event.h	/^	char policynum[16];  \/\/策略号$/;"	m	struct:event
+port_dst	nfex/include/hash.h	/^    uint16_t port_dst;$/;"	m	struct:four_tuple
+port_src	nfex/include/hash.h	/^    uint16_t port_src;$/;"	m	struct:four_tuple
+position	jansson/api_jansson/test_load.c	/^static void position()$/;"	f	file:
+position	test/jansson/api_jansson/test_load.c	/^static void position()$/;"	f	file:
+prefix	jansson/api_jansson/Makefile	/^prefix = \/usr\/local$/;"	m
+prefix	nfex/Makefile	/^prefix = \/usr\/local$/;"	m
+prefix	nfex/src/Makefile	/^prefix = \/usr\/local$/;"	m
+prefix	test/jansson/api_jansson/Makefile	/^prefix = \/usr\/local$/;"	m
+prev	nfex/include/extract.h	/^    struct extract_list *prev;$/;"	m	struct:extract_list	typeref:struct:extract_list::extract_list
+prev	nfex/include/hash.h	/^    struct hash_table_node *prev;   \/* prev entry in the list *\/$/;"	m	struct:hash_table_node	typeref:struct:hash_table_node::hash_table_node
+prev	nfex/include/search.h	/^    struct srch_results *prev;         \/* prev entry in the list *\/$/;"	m	struct:srch_results	typeref:struct:srch_results::srch_results
+prev	nfex/include/search.h	/^    struct srchptr_list *prev;         \/* prev entry in the list *\/$/;"	m	struct:srchptr_list	typeref:struct:srchptr_list::srchptr_list
+print	test/code/hdd.c	/^int print()$/;"	f
+print	test/filejudge/testjudge/dirp/dir.c	/^void print(char *filename)$/;"	f
+print	test/filejudge/testjudge/dirp/dir2.c	/^void print(char *filename)$/;"	f
+print	test/filejudge/testjudge/dirp/dirprint.c	/^$/;"	f
+print	test/filejudge/testjudge/jtest/judgeftype2.c	/^int print(char *filename)$/;"	f
+print	test/filejudge/testjudge/jtest/judgeftype3.c	/^int print(char *filename)$/;"	f
+process_keypress	nfex/src/asynch.c	/^process_keypress(ncc_t *ncc)$/;"	f
+process_packet	nfex/src/packet.c	/^process_packet(u_char *user, const struct pcap_pkthdr *header, $/;"	f
+prodcons	test/code/mypthread.c	/^struct prodcons$/;"	s	file:
+prodcons	test/code/pth.c	/^struct prodcons$/;"	s	file:
+producer	test/code/pth.c	/^void *producer(void *data)$/;"	f
+program_transform_name	jansson/api_jansson/Makefile	/^program_transform_name = s,x,x,$/;"	m
+program_transform_name	nfex/Makefile	/^program_transform_name = s,x,x,$/;"	m
+program_transform_name	nfex/src/Makefile	/^program_transform_name = s,x,x,$/;"	m
+program_transform_name	test/jansson/api_jansson/Makefile	/^program_transform_name = s,x,x,$/;"	m
+protocol	event.h	/^	char protocol[16]; \/\/协议$/;"	m	struct:event
+protocol	test/event/event.h	/^	char protocol[16]; \/\/协议$/;"	m	struct:event
+prototypes	nfex/configure	/^   function prototypes and stuff, but not '\\xHH' hex character constants.$/;"	f
+prototypes	nfex/nfex_exe_pp/configure	/^   function prototypes and stuff, but not '\\xHH' hex character constants.$/;"	f
+psdir	jansson/api_jansson/Makefile	/^psdir = ${docdir}$/;"	m
+psdir	nfex/Makefile	/^psdir = ${docdir}$/;"	m
+psdir	nfex/src/Makefile	/^psdir = ${docdir}$/;"	m
+psdir	test/jansson/api_jansson/Makefile	/^psdir = ${docdir}$/;"	m
+put	computerstate.h	/^	double put;$/;"	m	struct:sent_info
+put	test/code/mypthread.c	/^void put(struct prodcons *b, struct namemsg data)$/;"	f
+put	test/code/pth.c	/^void put(struct prodcons *b, int data)$/;"	f
+pwdser	test/ftp/ftpdownload/ftp_cli.c	/^int pwdser(int s)$/;"	f
+pwdser	test/ftp/ftpdownload/ftp_serv.c	/^int pwdser(int new_sock)$/;"	f
+queue_add	acnew/acsmx.c	/^queue_add (QUEUE * s, int state)$/;"	f	file:
+queue_add	acsmx.c	/^queue_add (QUEUE * s, int state)$/;"	f	file:
+queue_add	test/src/acsmx.c	/^static void queue_add (QUEUE * s, int state) $/;"	f	file:
+queue_count	acnew/acsmx.c	/^queue_count (QUEUE * s)$/;"	f	file:
+queue_count	acsmx.c	/^queue_count (QUEUE * s)$/;"	f	file:
+queue_count	test/src/acsmx.c	/^static int queue_count (QUEUE * s) $/;"	f	file:
+queue_free	acnew/acsmx.c	/^queue_free (QUEUE * s)$/;"	f	file:
+queue_free	acsmx.c	/^queue_free (QUEUE * s)$/;"	f	file:
+queue_free	test/src/acsmx.c	/^static void queue_free (QUEUE * s) $/;"	f	file:
+queue_init	acnew/acsmx.c	/^queue_init (QUEUE * s)$/;"	f	file:
+queue_init	acsmx.c	/^queue_init (QUEUE * s)$/;"	f	file:
+queue_init	test/src/acsmx.c	/^static void queue_init (QUEUE * s) $/;"	f	file:
+queue_remove	acnew/acsmx.c	/^queue_remove (QUEUE * s)$/;"	f	file:
+queue_remove	acsmx.c	/^queue_remove (QUEUE * s)$/;"	f	file:
+queue_remove	test/src/acsmx.c	/^static int queue_remove (QUEUE * s) $/;"	f	file:
+quitser	test/ftp/ftpdownload/ftp_cli.c	/^int quitser(int s)$/;"	f
+quitser	test/ftp/ftpdownload/ftp_serv.c	/^int quitser()$/;"	f
+readpos	test/code/mypthread.c	/^	int readpos, writepos; \/* 读写指针*\/$/;"	m	struct:prodcons	file:
+readpos	test/code/pth.c	/^	int readpos, writepos; \/* 读写指针*\/$/;"	m	struct:prodcons	file:
+reject_duplicates	jansson/api_jansson/test_load.c	/^static void reject_duplicates()$/;"	f	file:
+reject_duplicates	test/jansson/api_jansson/test_load.c	/^static void reject_duplicates()$/;"	f	file:
+remv_srchptr	nfex/src/search.c	/^remv_srchptr(srchptr_list_t **srchptr_list, srchptr_list_t *p)$/;"	f	file:
+rest_hdd	state_disk.c	/^double rest_hdd()$/;"	f
+rest_hdd	test/code/hdd.c	/^int rest_hdd()$/;"	f
+rest_hdd	test/code/hdd2.c	/^double rest_hdd()$/;"	f
+rt_da	state_disk.c	/^static free_hadd rt_da;$/;"	v	file:
+rt_da	test/code/hdd.c	/^static free_hadd rt_da;$/;"	v	file:
+rt_da	test/code/hdd2.c	/^static free_hadd rt_da;$/;"	v	file:
+run_test	jansson/api_jansson/run	/^run_test() {$/;"	f
+run_test	test/jansson/api_jansson/run	/^run_test() {$/;"	f
+run_tests	jansson/api_jansson/test_array.c	/^static void run_tests()$/;"	f	file:
+run_tests	jansson/api_jansson/test_copy.c	/^static void run_tests()$/;"	f	file:
+run_tests	jansson/api_jansson/test_dump.c	/^static void run_tests()$/;"	f	file:
+run_tests	jansson/api_jansson/test_dump_callback.c	/^static void run_tests()$/;"	f	file:
+run_tests	jansson/api_jansson/test_equal.c	/^static void run_tests()$/;"	f	file:
+run_tests	jansson/api_jansson/test_load.c	/^static void run_tests()$/;"	f	file:
+run_tests	jansson/api_jansson/test_load_callback.c	/^static void run_tests()$/;"	f	file:
+run_tests	jansson/api_jansson/test_loadb.c	/^static void run_tests()$/;"	f	file:
+run_tests	jansson/api_jansson/test_memory_funcs.c	/^static void run_tests()$/;"	f	file:
+run_tests	jansson/api_jansson/test_number.c	/^static void run_tests()$/;"	f	file:
+run_tests	jansson/api_jansson/test_object.c	/^static void run_tests()$/;"	f	file:
+run_tests	jansson/api_jansson/test_pack.c	/^static void run_tests()$/;"	f	file:
+run_tests	jansson/api_jansson/test_simple.c	/^static void run_tests()$/;"	f	file:
+run_tests	jansson/api_jansson/test_unpack.c	/^static void run_tests()$/;"	f	file:
+run_tests	jansson/testjan/test_object.c	/^static void run_tests()$/;"	f	file:
+run_tests	test/jansson/api_jansson/test_array.c	/^static void run_tests()$/;"	f	file:
+run_tests	test/jansson/api_jansson/test_copy.c	/^static void run_tests()$/;"	f	file:
+run_tests	test/jansson/api_jansson/test_dump.c	/^static void run_tests()$/;"	f	file:
+run_tests	test/jansson/api_jansson/test_dump_callback.c	/^static void run_tests()$/;"	f	file:
+run_tests	test/jansson/api_jansson/test_equal.c	/^static void run_tests()$/;"	f	file:
+run_tests	test/jansson/api_jansson/test_load.c	/^static void run_tests()$/;"	f	file:
+run_tests	test/jansson/api_jansson/test_load_callback.c	/^static void run_tests()$/;"	f	file:
+run_tests	test/jansson/api_jansson/test_loadb.c	/^static void run_tests()$/;"	f	file:
+run_tests	test/jansson/api_jansson/test_memory_funcs.c	/^static void run_tests()$/;"	f	file:
+run_tests	test/jansson/api_jansson/test_number.c	/^static void run_tests()$/;"	f	file:
+run_tests	test/jansson/api_jansson/test_object.c	/^static void run_tests()$/;"	f	file:
+run_tests	test/jansson/api_jansson/test_pack.c	/^static void run_tests()$/;"	f	file:
+run_tests	test/jansson/api_jansson/test_simple.c	/^static void run_tests()$/;"	f	file:
+run_tests	test/jansson/api_jansson/test_unpack.c	/^static void run_tests()$/;"	f	file:
+save_match_msg	test/filejudge/judge5/seekkey3.c	/^int save_match_msg (char *name)$/;"	f
+save_match_msg	test/filejudge/judge5/seekkey4.c	/^int save_match_msg (char *name)$/;"	f
+save_match_msg	test/filejudge/judge6/seekkey3.c	/^int save_match_msg (char *name)$/;"	f
+save_match_msg	test/filejudge/judge6/seekkey4.c	/^int save_match_msg (char *name)$/;"	f
+save_response_callback	test/curlssl/curlssl.c	/^static size_t save_response_callback(void *buffer,size_t size,size_t count,void **response)$/;"	f	file:
+sbindir	jansson/api_jansson/Makefile	/^sbindir = ${exec_prefix}\/sbin$/;"	m
+sbindir	nfex/Makefile	/^sbindir = ${exec_prefix}\/sbin$/;"	m
+sbindir	nfex/src/Makefile	/^sbindir = ${exec_prefix}\/sbin$/;"	m
+sbindir	test/jansson/api_jansson/Makefile	/^sbindir = ${exec_prefix}\/sbin$/;"	m
+search	nfex/src/search.c	/^search(srch_node_t *tree, srchptr_list_t **srchptr_list, uint8_t *buf, $/;"	f
+search_compile	nfex/src/search.c	/^search_compile(srch_node_t **srch_tree, int id, char *ext, u_long maxlen, $/;"	f
+secure_free	jansson/api_jansson/test_memory_funcs.c	/^static void secure_free(void *ptr)$/;"	f	file:
+secure_free	test/jansson/api_jansson/test_memory_funcs.c	/^static void secure_free(void *ptr)$/;"	f	file:
+secure_malloc	jansson/api_jansson/test_memory_funcs.c	/^static void *secure_malloc(size_t size)$/;"	f	file:
+secure_malloc	test/jansson/api_jansson/test_memory_funcs.c	/^static void *secure_malloc(size_t size)$/;"	f	file:
+seekkey	seekkey.c	/^int seekkey(struct namemsg *nameinfo, struct policymsg policyinfo)$/;"	f
+seekkey	test/filejudge/judge2/seekkey2.c	/^int seekkey(char *fname, char *keyword)$/;"	f
+seekkey	test/filejudge/judge3/seekkey2.c	/^int seekkey(char *fname, char *keyword, char *logfile)$/;"	f
+seekkey	test/filejudge/judge4/seekkey2.c	/^int seekkey(char *fname, char *keyword, char *logfile)$/;"	f
+seekkey	test/filejudge/judge5/seekkey.h	/^int seekkey(char *fname, char *keyword)$/;"	f
+seekkey	test/filejudge/judge5/seekkey2.c	/^int seekkey(char *fname, char *keyword, char *logfile)$/;"	f
+seekkey	test/filejudge/judge5/seekkey3.c	/^int seekkey(char *fname, char *keyword, char *nologfile, char *yeslogfile)$/;"	f
+seekkey	test/filejudge/judge5/seekkey4.c	/^int seekkey(char *fname, char *keyword)$/;"	f
+seekkey	test/filejudge/judge5/seekkey5.c	/^int seekkey(char *fname, char *keyword)$/;"	f
+seekkey	test/filejudge/judge6/seekkey.h	/^int seekkey(char *fname, char *keyword)$/;"	f
+seekkey	test/filejudge/judge6/seekkey2.c	/^int seekkey(char *fname, char *keyword, char *logfile)$/;"	f
+seekkey	test/filejudge/judge6/seekkey3.c	/^int seekkey(char *fname, char *keyword, char *nologfile, char *yeslogfile)$/;"	f
+seekkey	test/filejudge/judge6/seekkey4.c	/^int seekkey(char *fname, char *keyword)$/;"	f
+seekkey	test/filejudge/judge6/seekkey5.c	/^int seekkey(char *fname, char *keyword)$/;"	f
+segment	nfex/include/extract.h	/^    } segment;$/;"	m	struct:extract_list	typeref:struct:extract_list::__anon13
+send_sftp	test/filejudge/judge4/seekkey2.c	/^int send_sftp (char *name)$/;"	f
+send_sftp	test/filejudge/judge5/seekkey2.c	/^int send_sftp (char *name)$/;"	f
+send_sftp	test/filejudge/judge6/seekkey2.c	/^int send_sftp (char *name)$/;"	f
+sendfile	test/ftp/ftpdownload/ftp_cli.c	/^int sendfile(int s,char file_name[FILE_SIZE],char **argv)$/;"	f
+sendfile	test/ftp/ftpdownload/ftp_serv.c	/^int sendfile(int new_sock,char file_name[FILE_SIZE])$/;"	f
+sent_info	computerstate.h	/^typedef struct sent_info$/;"	s
+session	nfex/include/nfex.h	/^    ht_node_t *session;               \/* current session in focus *\/$/;"	m	struct:nfex_control_context
+set_segment_marks	nfex/src/extract.c	/^set_segment_marks(extract_list_t *elist, size_t size)$/;"	f	file:
+sharedstatedir	jansson/api_jansson/Makefile	/^sharedstatedir = ${prefix}\/com$/;"	m
+sharedstatedir	nfex/Makefile	/^sharedstatedir = ${prefix}\/com$/;"	m
+sharedstatedir	nfex/src/Makefile	/^sharedstatedir = ${prefix}\/com$/;"	m
+sharedstatedir	test/jansson/api_jansson/Makefile	/^sharedstatedir = ${prefix}\/com$/;"	m
+short	nfex/src/confy.c	169;"	d	file:
+show_error	jansson/api_jansson/run	/^show_error() {$/;"	f
+show_error	test/jansson/api_jansson/run	/^show_error() {$/;"	f
+showstrkeyword	rewritekey.c	/^int showstrkeyword(char *keyfile)$/;"	f
+size	jansson/jan5/policyjans.h	/^	int size;$/;"	m	struct:policymsg
+size	jansson/jan6/policyjans.h	/^	int size;$/;"	m	struct:policymsg
+size	policyjans.h	/^	int size;$/;"	m	struct:policymsg
+snapshot	event.h	/^	char snapshot[256];$/;"	m	struct:namemsg
+sockconnect	test/ftp/ftpclient.c	/^int sockconnect (char *server, int port)$/;"	f
+softirq	computerstate.h	/^	unsigned int softirq;$/;"	m	struct:PACKED
+spectype	nfex/include/search.h	/^    spectype_t spectype;               \/* specifier type *\/$/;"	m	struct:srch_node
+spectype	nfex/include/search.h	/^    spectype_t spectype;               \/* specifier type *\/$/;"	m	struct:srch_results
+spectype	nfex/include/search.h	/^enum spectype$/;"	g
+spectype	nfex/include/search.h	/^} spectype;$/;"	v	typeref:enum:spectype
+spectype_t	nfex/include/search.h	/^typedef enum spectype spectype_t;$/;"	t	typeref:enum:spectype
+split_name	test/filejudge/judge/judgeftype10.c	/^int split_name(char *str, char *out)$/;"	f
+split_name	test/filejudge/judge2/judgeftype10.c	/^int split_name(char *str, char *out)$/;"	f
+split_name	test/filejudge/judge2/seekkey.c	/^int split_name(char *str, char *out)$/;"	f
+split_name	test/filejudge/judge2/seekkey2.c	/^int split_name(char *str, char *out)$/;"	f
+split_name	test/filejudge/judge3/judgeftype.c	/^int split_name(char *str, char *out)$/;"	f
+split_name	test/filejudge/judge3/seekkey2.c	/^int split_name(char *str, char *out)$/;"	f
+split_name	test/filejudge/judge4/judgeftype.c	/^int split_name(char *str, char *out)$/;"	f
+split_name	test/filejudge/judge4/seekkey2.c	/^int split_name(char *str, char *out)$/;"	f
+split_name	test/filejudge/judge5/judgeftype.c	/^int split_name(char *str, char *out)$/;"	f
+split_name	test/filejudge/judge5/seekkey.h	/^int split_name(char *str, char *out)$/;"	f
+split_name	test/filejudge/judge5/seekkey2.c	/^int split_name(char *str, char *out)$/;"	f
+split_name	test/filejudge/judge5/seekkey3.c	/^int split_name(char *str, char *out)$/;"	f
+split_name	test/filejudge/judge5/seekkey4.c	/^int split_name(char *str, char *out)$/;"	f
+split_name	test/filejudge/judge5/seekkey5.c	/^int split_name(char *str, char *out)$/;"	f
+split_name	test/filejudge/judge6/judgeftype.c	/^int split_name(char *str, char *out)$/;"	f
+split_name	test/filejudge/judge6/seekkey.h	/^int split_name(char *str, char *out)$/;"	f
+split_name	test/filejudge/judge6/seekkey2.c	/^int split_name(char *str, char *out)$/;"	f
+split_name	test/filejudge/judge6/seekkey3.c	/^int split_name(char *str, char *out)$/;"	f
+split_name	test/filejudge/judge6/seekkey4.c	/^int split_name(char *str, char *out)$/;"	f
+split_name	test/filejudge/judge6/seekkey5.c	/^int split_name(char *str, char *out)$/;"	f
+split_name	test/filejudge/judgeftype.c	/^int split_name(char *str, char *out)$/;"	f
+split_name	test/filejudge/testjudge/jtest/ftest3.c	/^char* split_name(char *str, char *out)$/;"	f
+split_name	test/filejudge/testjudge/jtest/judgeftype9.c	/^char *split_name(char *str)$/;"	f
+split_name	tool.c	/^int split_name(char *str, char **out)$/;"	f
+split_suffix	test/filejudge/judge/judgeftype10.c	/^char *split_suffix(char *str)$/;"	f
+split_suffix	test/filejudge/judge2/judgeftype10.c	/^char *split_suffix(char *str)$/;"	f
+split_suffix	test/filejudge/judge3/judgeftype.c	/^char *split_suffix(char *str)$/;"	f
+split_suffix	test/filejudge/judge4/judgeftype.c	/^char *split_suffix(char *str)$/;"	f
+split_suffix	test/filejudge/judge5/judgeftype.c	/^char *split_suffix(char *str)$/;"	f
+split_suffix	test/filejudge/judge6/judgeftype.c	/^char *split_suffix(char *str)$/;"	f
+split_suffix	test/filejudge/judgeftype.c	/^char *split_suffix(char *str)$/;"	f
+split_suffix	test/filejudge/testjudge/jtest/judgeftype4.c	/^char *split_suffix(char *str)$/;"	f
+split_suffix	test/filejudge/testjudge/jtest/judgeftype5.c	/^char *split_suffix(char *str)$/;"	f
+split_suffix	test/filejudge/testjudge/jtest/judgeftype6.c	/^char *split_suffix(char *str)$/;"	f
+split_suffix	test/filejudge/testjudge/jtest/judgeftype7.c	/^char *split_suffix(char *str)$/;"	f
+split_suffix	test/filejudge/testjudge/jtest/judgeftype8.c	/^char *split_suffix(char *str)$/;"	f
+split_suffix	test/filejudge/testjudge/jtest/judgeftype9.c	/^char *split_suffix(char *str)$/;"	f
+split_suffix	test/filejudge/testjudge/split_suffix.c	/^char *split_suffix(char *str)$/;"	f
+split_suffix	tool.c	/^int split_suffix(char *str, char **suffix)$/;"	f
+srcdir	jansson/api_jansson/Makefile	/^srcdir = .$/;"	m
+srcdir	nfex/Makefile	/^srcdir = .$/;"	m
+srcdir	nfex/src/Makefile	/^srcdir = .$/;"	m
+srcdir	test/jansson/api_jansson/Makefile	/^srcdir = .$/;"	m
+srch_machine	nfex/include/nfex.h	/^    srch_node_t *srch_machine;$/;"	m	struct:nfex_control_context
+srch_node	nfex/include/search.h	/^struct srch_node$/;"	s
+srch_node_t	nfex/include/search.h	/^typedef struct srch_node srch_node_t;$/;"	t	typeref:struct:srch_node
+srch_nodetype	nfex/include/search.h	/^enum srch_nodetype$/;"	g
+srch_nodetype	nfex/include/search.h	/^} srch_nodetype;$/;"	v	typeref:enum:srch_nodetype
+srch_nodetype_t	nfex/include/search.h	/^typedef enum srch_nodetype srch_nodetype_t;$/;"	t	typeref:enum:srch_nodetype
+srch_results	nfex/include/search.h	/^struct srch_results$/;"	s
+srch_results_t	nfex/include/search.h	/^typedef struct srch_results srch_results_t;$/;"	t	typeref:struct:srch_results
+srchptr_list	nfex/include/hash.h	/^    srchptr_list_t *srchptr_list;   \/* current search threads *\/$/;"	m	struct:hash_table_node
+srchptr_list	nfex/include/search.h	/^struct srchptr_list$/;"	s
+srchptr_list_t	nfex/include/search.h	/^typedef struct srchptr_list srchptr_list_t;$/;"	t	typeref:struct:srchptr_list
+srcip	event.h	/^	char srcip[32];$/;"	m	struct:namemsg
+srcip	nfex/src/extract.c	/^	char srcip[32];$/;"	m	struct:namemsg	file:
+srcip	test/code/t.c	/^	char srcip[32];$/;"	m	struct:nfexinfo	file:
+srcip	test/code/t2.c	/^	char srcip[32];$/;"	m	struct:nfexinfo	file:
+srcip	test/event/event.h	/^	char srcip[32];$/;"	m	struct:nfexinfo
+start	nfex/include/extract.h	/^        int start;$/;"	m	struct:extract_list::__anon13
+start	nfex/include/search.h	/^        int start;                     \/* for HEADERs *\/$/;"	m	struct:srch_results::__anon12
+stat	heartbeat.c	/^	char stat[MSGLENGTH];$/;"	m	struct:msg	file:
+state	acnew/acsmx.c	/^  int state;$/;"	m	struct:_qnode	file:
+state	acsmx.c	/^  int state;$/;"	m	struct:_qnode	file:
+state	nfex/nfex_exe_pp/src/md5/md5.h	/^  UINT4 state[4];                                   \/* state (ABCD) *\/$/;"	m	struct:__anon10
+state	test/src/acsmx.c	/^	int state;$/;"	m	struct:_qnode	file:
+stats	nfex/include/nfex.h	/^    n_stats_t stats;                  \/* stats *\/$/;"	m	struct:nfex_control_context
+stats	nfex/src/asynch.c	/^stats(ncc_t *ncc, int mode)$/;"	f
+str	matchjans.h	/^	char str[1024];$/;"	m	struct:mymsg
+string	nfex/include/confy.h	/^     char *string;$/;"	m	union:YYSTYPE
+string	nfex/src/confy.c	/^     char *string;$/;"	m	union:YYSTYPE	file:
+string	nfex/src/confy.h	/^     char *string;$/;"	m	union:YYSTYPE
+subdir	jansson/api_jansson/Makefile	/^subdir = test\/suites\/api$/;"	m
+subdir	nfex/Makefile	/^subdir = .$/;"	m
+subdir	nfex/src/Makefile	/^subdir = src$/;"	m
+subdir	test/jansson/api_jansson/Makefile	/^subdir = test\/suites\/api$/;"	m
+substr	tool.c	/^int substr (char *srcstr, char **decstr, int lastslash, int firstdot)$/;"	f
+sweep_extract_list	nfex/src/extract.c	/^sweep_extract_list(extract_list_t **elist)$/;"	f	file:
+sysconf_DATA	nfex/src/Makefile	/^sysconf_DATA = ..\/conf\/nfex.conf$/;"	m
+sysconfdir	jansson/api_jansson/Makefile	/^sysconfdir = ${prefix}\/etc$/;"	m
+sysconfdir	nfex/Makefile	/^sysconfdir = ${prefix}\/etc$/;"	m
+sysconfdir	nfex/src/Makefile	/^sysconfdir = ${prefix}\/etc$/;"	m
+sysconfdir	test/jansson/api_jansson/Makefile	/^sysconfdir = ${prefix}\/etc$/;"	m
+system	computerstate.h	/^	unsigned int system;$/;"	m	struct:PACKED
+table	nfex/include/search.h	/^        struct srch_node *table[256];  \/* table of search node pointers *\/$/;"	m	union:srch_node::__anon11	typeref:struct:srch_node::__anon11::srch_node
+tag	client.c	/^int tag = 0;$/;"	v
+tag	ssl_client.c	/^int tag = 0;$/;"	v
+tag	test/code/mypthread.c	/^int tag = 0;$/;"	v
+tail	acnew/acsmx.c	/^  QNODE *head, *tail;$/;"	m	struct:_queue	file:
+tail	acsmx.c	/^  QNODE *head, *tail;$/;"	m	struct:_queue	file:
+tail	test/src/acsmx.c	/^	QNODE * head, *tail;$/;"	m	struct:_queue	file:
+tardir	nfex/Makefile	/^	tardir=$(distdir) && $(am__tar) | GZIP=$(GZIP_ENV) gzip -c >$(distdir).tar.gz$/;"	m
+tardir	nfex/Makefile	/^	tardir=$(distdir) && $(am__tar) | bzip2 -9 -c >$(distdir).tar.bz2$/;"	m
+tardir	nfex/Makefile	/^	tardir=$(distdir) && $(am__tar) | compress -c >$(distdir).tar.Z$/;"	m
+tardir	nfex/Makefile	/^	tardir=$(distdir) && $(am__tar) | lzma -9 -c >$(distdir).tar.lzma$/;"	m
+tardir	nfex/Makefile	/^	tardir=$(distdir) && $(am__tar) | xz -c >$(distdir).tar.xz$/;"	m
+target_alias	jansson/api_jansson/Makefile	/^target_alias = $/;"	m
+target_alias	nfex/Makefile	/^target_alias = $/;"	m
+target_alias	nfex/src/Makefile	/^target_alias = $/;"	m
+target_alias	test/jansson/api_jansson/Makefile	/^target_alias = $/;"	m
+term	nfex/include/nfex.h	/^    struct termios term;              \/* save terminal info to restore later *\/$/;"	m	struct:nfex_control_context	typeref:struct:nfex_control_context::termios
+test_array_DEPENDENCIES	jansson/api_jansson/Makefile	/^test_array_DEPENDENCIES = $(top_builddir)\/src\/libjansson.la$/;"	m
+test_array_DEPENDENCIES	test/jansson/api_jansson/Makefile	/^test_array_DEPENDENCIES = $(top_builddir)\/src\/libjansson.la$/;"	m
+test_array_LDADD	jansson/api_jansson/Makefile	/^test_array_LDADD = $(LDADD)$/;"	m
+test_array_LDADD	test/jansson/api_jansson/Makefile	/^test_array_LDADD = $(LDADD)$/;"	m
+test_array_OBJECTS	jansson/api_jansson/Makefile	/^test_array_OBJECTS = $(am_test_array_OBJECTS)$/;"	m
+test_array_OBJECTS	test/jansson/api_jansson/Makefile	/^test_array_OBJECTS = $(am_test_array_OBJECTS)$/;"	m
+test_array_SOURCES	jansson/api_jansson/Makefile	/^test_array_SOURCES = test_array.c util.h$/;"	m
+test_array_SOURCES	test/jansson/api_jansson/Makefile	/^test_array_SOURCES = test_array.c util.h$/;"	m
+test_array_foreach	jansson/api_jansson/test_array.c	/^static void test_array_foreach()$/;"	f	file:
+test_array_foreach	test/jansson/api_jansson/test_array.c	/^static void test_array_foreach()$/;"	f	file:
+test_circular	jansson/api_jansson/test_array.c	/^static void test_circular()$/;"	f	file:
+test_circular	jansson/api_jansson/test_object.c	/^static void test_circular()$/;"	f	file:
+test_circular	jansson/testjan/test_object.c	/^static void test_circular()$/;"	f	file:
+test_circular	test/jansson/api_jansson/test_array.c	/^static void test_circular()$/;"	f	file:
+test_circular	test/jansson/api_jansson/test_object.c	/^static void test_circular()$/;"	f	file:
+test_clear	jansson/api_jansson/test_array.c	/^static void test_clear(void)$/;"	f	file:
+test_clear	jansson/api_jansson/test_object.c	/^static void test_clear()$/;"	f	file:
+test_clear	jansson/testjan/test_object.c	/^static void test_clear()$/;"	f	file:
+test_clear	test/jansson/api_jansson/test_array.c	/^static void test_clear(void)$/;"	f	file:
+test_clear	test/jansson/api_jansson/test_object.c	/^static void test_clear()$/;"	f	file:
+test_conditional_updates	jansson/api_jansson/test_object.c	/^static void test_conditional_updates()$/;"	f	file:
+test_conditional_updates	jansson/testjan/test_object.c	/^static void test_conditional_updates()$/;"	f	file:
+test_conditional_updates	test/jansson/api_jansson/test_object.c	/^static void test_conditional_updates()$/;"	f	file:
+test_copy_DEPENDENCIES	jansson/api_jansson/Makefile	/^test_copy_DEPENDENCIES = $(top_builddir)\/src\/libjansson.la$/;"	m
+test_copy_DEPENDENCIES	test/jansson/api_jansson/Makefile	/^test_copy_DEPENDENCIES = $(top_builddir)\/src\/libjansson.la$/;"	m
+test_copy_LDADD	jansson/api_jansson/Makefile	/^test_copy_LDADD = $(LDADD)$/;"	m
+test_copy_LDADD	test/jansson/api_jansson/Makefile	/^test_copy_LDADD = $(LDADD)$/;"	m
+test_copy_OBJECTS	jansson/api_jansson/Makefile	/^test_copy_OBJECTS = $(am_test_copy_OBJECTS)$/;"	m
+test_copy_OBJECTS	test/jansson/api_jansson/Makefile	/^test_copy_OBJECTS = $(am_test_copy_OBJECTS)$/;"	m
+test_copy_SOURCES	jansson/api_jansson/Makefile	/^test_copy_SOURCES = test_copy.c util.h$/;"	m
+test_copy_SOURCES	test/jansson/api_jansson/Makefile	/^test_copy_SOURCES = test_copy.c util.h$/;"	m
+test_copy_array	jansson/api_jansson/test_copy.c	/^static void test_copy_array(void)$/;"	f	file:
+test_copy_array	test/jansson/api_jansson/test_copy.c	/^static void test_copy_array(void)$/;"	f	file:
+test_copy_object	jansson/api_jansson/test_copy.c	/^static void test_copy_object(void)$/;"	f	file:
+test_copy_object	test/jansson/api_jansson/test_copy.c	/^static void test_copy_object(void)$/;"	f	file:
+test_copy_simple	jansson/api_jansson/test_copy.c	/^static void test_copy_simple(void)$/;"	f	file:
+test_copy_simple	test/jansson/api_jansson/test_copy.c	/^static void test_copy_simple(void)$/;"	f	file:
+test_deep_copy_array	jansson/api_jansson/test_copy.c	/^static void test_deep_copy_array(void)$/;"	f	file:
+test_deep_copy_array	test/jansson/api_jansson/test_copy.c	/^static void test_deep_copy_array(void)$/;"	f	file:
+test_deep_copy_object	jansson/api_jansson/test_copy.c	/^static void test_deep_copy_object(void)$/;"	f	file:
+test_deep_copy_object	test/jansson/api_jansson/test_copy.c	/^static void test_deep_copy_object(void)$/;"	f	file:
+test_deep_copy_simple	jansson/api_jansson/test_copy.c	/^static void test_deep_copy_simple(void)$/;"	f	file:
+test_deep_copy_simple	test/jansson/api_jansson/test_copy.c	/^static void test_deep_copy_simple(void)$/;"	f	file:
+test_dump_DEPENDENCIES	jansson/api_jansson/Makefile	/^test_dump_DEPENDENCIES = $(top_builddir)\/src\/libjansson.la$/;"	m
+test_dump_DEPENDENCIES	test/jansson/api_jansson/Makefile	/^test_dump_DEPENDENCIES = $(top_builddir)\/src\/libjansson.la$/;"	m
+test_dump_LDADD	jansson/api_jansson/Makefile	/^test_dump_LDADD = $(LDADD)$/;"	m
+test_dump_LDADD	test/jansson/api_jansson/Makefile	/^test_dump_LDADD = $(LDADD)$/;"	m
+test_dump_OBJECTS	jansson/api_jansson/Makefile	/^test_dump_OBJECTS = $(am_test_dump_OBJECTS)$/;"	m
+test_dump_OBJECTS	test/jansson/api_jansson/Makefile	/^test_dump_OBJECTS = $(am_test_dump_OBJECTS)$/;"	m
+test_dump_SOURCES	jansson/api_jansson/Makefile	/^test_dump_SOURCES = test_dump.c util.h$/;"	m
+test_dump_SOURCES	test/jansson/api_jansson/Makefile	/^test_dump_SOURCES = test_dump.c util.h$/;"	m
+test_dump_callback_DEPENDENCIES	jansson/api_jansson/Makefile	/^test_dump_callback_DEPENDENCIES = $(top_builddir)\/src\/libjansson.la$/;"	m
+test_dump_callback_DEPENDENCIES	test/jansson/api_jansson/Makefile	/^test_dump_callback_DEPENDENCIES = $(top_builddir)\/src\/libjansson.la$/;"	m
+test_dump_callback_LDADD	jansson/api_jansson/Makefile	/^test_dump_callback_LDADD = $(LDADD)$/;"	m
+test_dump_callback_LDADD	test/jansson/api_jansson/Makefile	/^test_dump_callback_LDADD = $(LDADD)$/;"	m
+test_dump_callback_OBJECTS	jansson/api_jansson/Makefile	/^test_dump_callback_OBJECTS = $(am_test_dump_callback_OBJECTS)$/;"	m
+test_dump_callback_OBJECTS	test/jansson/api_jansson/Makefile	/^test_dump_callback_OBJECTS = $(am_test_dump_callback_OBJECTS)$/;"	m
+test_dump_callback_SOURCES	jansson/api_jansson/Makefile	/^test_dump_callback_SOURCES = test_dump_callback.c util.h$/;"	m
+test_dump_callback_SOURCES	test/jansson/api_jansson/Makefile	/^test_dump_callback_SOURCES = test_dump_callback.c util.h$/;"	m
+test_equal_DEPENDENCIES	jansson/api_jansson/Makefile	/^test_equal_DEPENDENCIES = $(top_builddir)\/src\/libjansson.la$/;"	m
+test_equal_DEPENDENCIES	test/jansson/api_jansson/Makefile	/^test_equal_DEPENDENCIES = $(top_builddir)\/src\/libjansson.la$/;"	m
+test_equal_LDADD	jansson/api_jansson/Makefile	/^test_equal_LDADD = $(LDADD)$/;"	m
+test_equal_LDADD	test/jansson/api_jansson/Makefile	/^test_equal_LDADD = $(LDADD)$/;"	m
+test_equal_OBJECTS	jansson/api_jansson/Makefile	/^test_equal_OBJECTS = test_equal.$(OBJEXT)$/;"	m
+test_equal_OBJECTS	test/jansson/api_jansson/Makefile	/^test_equal_OBJECTS = test_equal.$(OBJEXT)$/;"	m
+test_equal_SOURCES	jansson/api_jansson/Makefile	/^test_equal_SOURCES = test_equal.c$/;"	m
+test_equal_SOURCES	test/jansson/api_jansson/Makefile	/^test_equal_SOURCES = test_equal.c$/;"	m
+test_equal_array	jansson/api_jansson/test_equal.c	/^static void test_equal_array()$/;"	f	file:
+test_equal_array	test/jansson/api_jansson/test_equal.c	/^static void test_equal_array()$/;"	f	file:
+test_equal_complex	jansson/api_jansson/test_equal.c	/^static void test_equal_complex()$/;"	f	file:
+test_equal_complex	test/jansson/api_jansson/test_equal.c	/^static void test_equal_complex()$/;"	f	file:
+test_equal_object	jansson/api_jansson/test_equal.c	/^static void test_equal_object()$/;"	f	file:
+test_equal_object	test/jansson/api_jansson/test_equal.c	/^static void test_equal_object()$/;"	f	file:
+test_equal_simple	jansson/api_jansson/test_equal.c	/^static void test_equal_simple()$/;"	f	file:
+test_equal_simple	test/jansson/api_jansson/test_equal.c	/^static void test_equal_simple()$/;"	f	file:
+test_extend	jansson/api_jansson/test_array.c	/^static void test_extend(void)$/;"	f	file:
+test_extend	test/jansson/api_jansson/test_array.c	/^static void test_extend(void)$/;"	f	file:
+test_insert	jansson/api_jansson/test_array.c	/^static void test_insert(void)$/;"	f	file:
+test_insert	test/jansson/api_jansson/test_array.c	/^static void test_insert(void)$/;"	f	file:
+test_iterators	jansson/api_jansson/test_object.c	/^static void test_iterators()$/;"	f	file:
+test_iterators	jansson/testjan/test_object.c	/^static void test_iterators()$/;"	f	file:
+test_iterators	test/jansson/api_jansson/test_object.c	/^static void test_iterators()$/;"	f	file:
+test_load_DEPENDENCIES	jansson/api_jansson/Makefile	/^test_load_DEPENDENCIES = $(top_builddir)\/src\/libjansson.la$/;"	m
+test_load_DEPENDENCIES	test/jansson/api_jansson/Makefile	/^test_load_DEPENDENCIES = $(top_builddir)\/src\/libjansson.la$/;"	m
+test_load_LDADD	jansson/api_jansson/Makefile	/^test_load_LDADD = $(LDADD)$/;"	m
+test_load_LDADD	test/jansson/api_jansson/Makefile	/^test_load_LDADD = $(LDADD)$/;"	m
+test_load_OBJECTS	jansson/api_jansson/Makefile	/^test_load_OBJECTS = $(am_test_load_OBJECTS)$/;"	m
+test_load_OBJECTS	test/jansson/api_jansson/Makefile	/^test_load_OBJECTS = $(am_test_load_OBJECTS)$/;"	m
+test_load_SOURCES	jansson/api_jansson/Makefile	/^test_load_SOURCES = test_load.c util.h$/;"	m
+test_load_SOURCES	test/jansson/api_jansson/Makefile	/^test_load_SOURCES = test_load.c util.h$/;"	m
+test_load_callback_DEPENDENCIES	jansson/api_jansson/Makefile	/^test_load_callback_DEPENDENCIES = $(top_builddir)\/src\/libjansson.la$/;"	m
+test_load_callback_DEPENDENCIES	test/jansson/api_jansson/Makefile	/^test_load_callback_DEPENDENCIES = $(top_builddir)\/src\/libjansson.la$/;"	m
+test_load_callback_LDADD	jansson/api_jansson/Makefile	/^test_load_callback_LDADD = $(LDADD)$/;"	m
+test_load_callback_LDADD	test/jansson/api_jansson/Makefile	/^test_load_callback_LDADD = $(LDADD)$/;"	m
+test_load_callback_OBJECTS	jansson/api_jansson/Makefile	/^test_load_callback_OBJECTS = test_load_callback.$(OBJEXT)$/;"	m
+test_load_callback_OBJECTS	test/jansson/api_jansson/Makefile	/^test_load_callback_OBJECTS = test_load_callback.$(OBJEXT)$/;"	m
+test_load_callback_SOURCES	jansson/api_jansson/Makefile	/^test_load_callback_SOURCES = test_load_callback.c$/;"	m
+test_load_callback_SOURCES	test/jansson/api_jansson/Makefile	/^test_load_callback_SOURCES = test_load_callback.c$/;"	m
+test_loadb_DEPENDENCIES	jansson/api_jansson/Makefile	/^test_loadb_DEPENDENCIES = $(top_builddir)\/src\/libjansson.la$/;"	m
+test_loadb_DEPENDENCIES	test/jansson/api_jansson/Makefile	/^test_loadb_DEPENDENCIES = $(top_builddir)\/src\/libjansson.la$/;"	m
+test_loadb_LDADD	jansson/api_jansson/Makefile	/^test_loadb_LDADD = $(LDADD)$/;"	m
+test_loadb_LDADD	test/jansson/api_jansson/Makefile	/^test_loadb_LDADD = $(LDADD)$/;"	m
+test_loadb_OBJECTS	jansson/api_jansson/Makefile	/^test_loadb_OBJECTS = $(am_test_loadb_OBJECTS)$/;"	m
+test_loadb_OBJECTS	test/jansson/api_jansson/Makefile	/^test_loadb_OBJECTS = $(am_test_loadb_OBJECTS)$/;"	m
+test_loadb_SOURCES	jansson/api_jansson/Makefile	/^test_loadb_SOURCES = test_loadb.c util.h$/;"	m
+test_loadb_SOURCES	test/jansson/api_jansson/Makefile	/^test_loadb_SOURCES = test_loadb.c util.h$/;"	m
+test_memory_funcs_DEPENDENCIES	jansson/api_jansson/Makefile	/^test_memory_funcs_DEPENDENCIES = $(top_builddir)\/src\/libjansson.la$/;"	m
+test_memory_funcs_DEPENDENCIES	test/jansson/api_jansson/Makefile	/^test_memory_funcs_DEPENDENCIES = $(top_builddir)\/src\/libjansson.la$/;"	m
+test_memory_funcs_LDADD	jansson/api_jansson/Makefile	/^test_memory_funcs_LDADD = $(LDADD)$/;"	m
+test_memory_funcs_LDADD	test/jansson/api_jansson/Makefile	/^test_memory_funcs_LDADD = $(LDADD)$/;"	m
+test_memory_funcs_OBJECTS	jansson/api_jansson/Makefile	/^test_memory_funcs_OBJECTS = $(am_test_memory_funcs_OBJECTS)$/;"	m
+test_memory_funcs_OBJECTS	test/jansson/api_jansson/Makefile	/^test_memory_funcs_OBJECTS = $(am_test_memory_funcs_OBJECTS)$/;"	m
+test_memory_funcs_SOURCES	jansson/api_jansson/Makefile	/^test_memory_funcs_SOURCES = test_memory_funcs.c util.h$/;"	m
+test_memory_funcs_SOURCES	test/jansson/api_jansson/Makefile	/^test_memory_funcs_SOURCES = test_memory_funcs.c util.h$/;"	m
+test_misc	jansson/api_jansson/test_array.c	/^static void test_misc(void)$/;"	f	file:
+test_misc	jansson/api_jansson/test_object.c	/^static void test_misc()$/;"	f	file:
+test_misc	jansson/testjan/test_object.c	/^static void test_misc()$/;"	f	file:
+test_misc	test/jansson/api_jansson/test_array.c	/^static void test_misc(void)$/;"	f	file:
+test_misc	test/jansson/api_jansson/test_object.c	/^static void test_misc()$/;"	f	file:
+test_number_DEPENDENCIES	jansson/api_jansson/Makefile	/^test_number_DEPENDENCIES = $(top_builddir)\/src\/libjansson.la$/;"	m
+test_number_DEPENDENCIES	test/jansson/api_jansson/Makefile	/^test_number_DEPENDENCIES = $(top_builddir)\/src\/libjansson.la$/;"	m
+test_number_LDADD	jansson/api_jansson/Makefile	/^test_number_LDADD = $(LDADD)$/;"	m
+test_number_LDADD	test/jansson/api_jansson/Makefile	/^test_number_LDADD = $(LDADD)$/;"	m
+test_number_OBJECTS	jansson/api_jansson/Makefile	/^test_number_OBJECTS = $(am_test_number_OBJECTS)$/;"	m
+test_number_OBJECTS	test/jansson/api_jansson/Makefile	/^test_number_OBJECTS = $(am_test_number_OBJECTS)$/;"	m
+test_number_SOURCES	jansson/api_jansson/Makefile	/^test_number_SOURCES = test_number.c util.h$/;"	m
+test_number_SOURCES	test/jansson/api_jansson/Makefile	/^test_number_SOURCES = test_number.c util.h$/;"	m
+test_object_DEPENDENCIES	jansson/api_jansson/Makefile	/^test_object_DEPENDENCIES = $(top_builddir)\/src\/libjansson.la$/;"	m
+test_object_DEPENDENCIES	test/jansson/api_jansson/Makefile	/^test_object_DEPENDENCIES = $(top_builddir)\/src\/libjansson.la$/;"	m
+test_object_LDADD	jansson/api_jansson/Makefile	/^test_object_LDADD = $(LDADD)$/;"	m
+test_object_LDADD	test/jansson/api_jansson/Makefile	/^test_object_LDADD = $(LDADD)$/;"	m
+test_object_OBJECTS	jansson/api_jansson/Makefile	/^test_object_OBJECTS = $(am_test_object_OBJECTS)$/;"	m
+test_object_OBJECTS	test/jansson/api_jansson/Makefile	/^test_object_OBJECTS = $(am_test_object_OBJECTS)$/;"	m
+test_object_SOURCES	jansson/api_jansson/Makefile	/^test_object_SOURCES = test_object.c util.h$/;"	m
+test_object_SOURCES	test/jansson/api_jansson/Makefile	/^test_object_SOURCES = test_object.c util.h$/;"	m
+test_object_foreach	jansson/api_jansson/test_object.c	/^static void test_object_foreach()$/;"	f	file:
+test_object_foreach	jansson/testjan/test_object.c	/^static void test_object_foreach()$/;"	f	file:
+test_object_foreach	test/jansson/api_jansson/test_object.c	/^static void test_object_foreach()$/;"	f	file:
+test_pack_DEPENDENCIES	jansson/api_jansson/Makefile	/^test_pack_DEPENDENCIES = $(top_builddir)\/src\/libjansson.la$/;"	m
+test_pack_DEPENDENCIES	test/jansson/api_jansson/Makefile	/^test_pack_DEPENDENCIES = $(top_builddir)\/src\/libjansson.la$/;"	m
+test_pack_LDADD	jansson/api_jansson/Makefile	/^test_pack_LDADD = $(LDADD)$/;"	m
+test_pack_LDADD	test/jansson/api_jansson/Makefile	/^test_pack_LDADD = $(LDADD)$/;"	m
+test_pack_OBJECTS	jansson/api_jansson/Makefile	/^test_pack_OBJECTS = $(am_test_pack_OBJECTS)$/;"	m
+test_pack_OBJECTS	test/jansson/api_jansson/Makefile	/^test_pack_OBJECTS = $(am_test_pack_OBJECTS)$/;"	m
+test_pack_SOURCES	jansson/api_jansson/Makefile	/^test_pack_SOURCES = test_pack.c util.h$/;"	m
+test_pack_SOURCES	test/jansson/api_jansson/Makefile	/^test_pack_SOURCES = test_pack.c util.h$/;"	m
+test_preserve_order	jansson/api_jansson/test_object.c	/^static void test_preserve_order()$/;"	f	file:
+test_preserve_order	jansson/testjan/test_object.c	/^static void test_preserve_order()$/;"	f	file:
+test_preserve_order	test/jansson/api_jansson/test_object.c	/^static void test_preserve_order()$/;"	f	file:
+test_remove	jansson/api_jansson/test_array.c	/^static void test_remove(void)$/;"	f	file:
+test_remove	test/jansson/api_jansson/test_array.c	/^static void test_remove(void)$/;"	f	file:
+test_secure_funcs	jansson/api_jansson/test_memory_funcs.c	/^static void test_secure_funcs(void)$/;"	f	file:
+test_secure_funcs	test/jansson/api_jansson/test_memory_funcs.c	/^static void test_secure_funcs(void)$/;"	f	file:
+test_set_nocheck	jansson/api_jansson/test_object.c	/^static void test_set_nocheck()$/;"	f	file:
+test_set_nocheck	jansson/testjan/test_object.c	/^static void test_set_nocheck()$/;"	f	file:
+test_set_nocheck	test/jansson/api_jansson/test_object.c	/^static void test_set_nocheck()$/;"	f	file:
+test_simple	jansson/api_jansson/test_memory_funcs.c	/^static void test_simple()$/;"	f	file:
+test_simple	test/jansson/api_jansson/test_memory_funcs.c	/^static void test_simple()$/;"	f	file:
+test_simple_DEPENDENCIES	jansson/api_jansson/Makefile	/^test_simple_DEPENDENCIES = $(top_builddir)\/src\/libjansson.la$/;"	m
+test_simple_DEPENDENCIES	test/jansson/api_jansson/Makefile	/^test_simple_DEPENDENCIES = $(top_builddir)\/src\/libjansson.la$/;"	m
+test_simple_LDADD	jansson/api_jansson/Makefile	/^test_simple_LDADD = $(LDADD)$/;"	m
+test_simple_LDADD	test/jansson/api_jansson/Makefile	/^test_simple_LDADD = $(LDADD)$/;"	m
+test_simple_OBJECTS	jansson/api_jansson/Makefile	/^test_simple_OBJECTS = $(am_test_simple_OBJECTS)$/;"	m
+test_simple_OBJECTS	test/jansson/api_jansson/Makefile	/^test_simple_OBJECTS = $(am_test_simple_OBJECTS)$/;"	m
+test_simple_SOURCES	jansson/api_jansson/Makefile	/^test_simple_SOURCES = test_simple.c util.h$/;"	m
+test_simple_SOURCES	test/jansson/api_jansson/Makefile	/^test_simple_SOURCES = test_simple.c util.h$/;"	m
+test_unpack_DEPENDENCIES	jansson/api_jansson/Makefile	/^test_unpack_DEPENDENCIES = $(top_builddir)\/src\/libjansson.la$/;"	m
+test_unpack_DEPENDENCIES	test/jansson/api_jansson/Makefile	/^test_unpack_DEPENDENCIES = $(top_builddir)\/src\/libjansson.la$/;"	m
+test_unpack_LDADD	jansson/api_jansson/Makefile	/^test_unpack_LDADD = $(LDADD)$/;"	m
+test_unpack_LDADD	test/jansson/api_jansson/Makefile	/^test_unpack_LDADD = $(LDADD)$/;"	m
+test_unpack_OBJECTS	jansson/api_jansson/Makefile	/^test_unpack_OBJECTS = $(am_test_unpack_OBJECTS)$/;"	m
+test_unpack_OBJECTS	test/jansson/api_jansson/Makefile	/^test_unpack_OBJECTS = $(am_test_unpack_OBJECTS)$/;"	m
+test_unpack_SOURCES	jansson/api_jansson/Makefile	/^test_unpack_SOURCES = test_unpack.c util.h$/;"	m
+test_unpack_SOURCES	test/jansson/api_jansson/Makefile	/^test_unpack_SOURCES = test_unpack.c util.h$/;"	m
+test_update	jansson/api_jansson/test_object.c	/^static void test_update()$/;"	f	file:
+test_update	jansson/testjan/test_object.c	/^static void test_update()$/;"	f	file:
+test_update	test/jansson/api_jansson/test_object.c	/^static void test_update()$/;"	f	file:
+text	acnew/entry.c	/^unsigned char text[MAXLEN];$/;"	v
+text	seekkey.c	/^unsigned char text[MAXLEN];$/;"	v
+text	test/src/entry.c	/^unsigned char text[MAXLEN];$/;"	v
+the_game	nfex/src/asynch.c	/^the_game(ncc_t *ncc)$/;"	f
+thr_fn	test/code/pthread_cond_timedwait.c	/^void * thr_fn(void * arg) $/;"	f
+thread	test/code/pthread_cond_timedwait.c	/^static pthread_t thread;$/;"	v	file:
+timestamp	nfex/include/extract.h	/^    time_t timestamp;        \/* update this guy everytime we touch him *\/$/;"	m	struct:extract_list
+timestamp	nfex/include/hash.h	/^    time_t timestamp;               \/* the last time a packet was seen *\/$/;"	m	struct:hash_table_node
+top_build_prefix	jansson/api_jansson/Makefile	/^top_build_prefix = ..\/..\/..\/$/;"	m
+top_build_prefix	nfex/Makefile	/^top_build_prefix = $/;"	m
+top_build_prefix	nfex/src/Makefile	/^top_build_prefix = ..\/$/;"	m
+top_build_prefix	test/jansson/api_jansson/Makefile	/^top_build_prefix = ..\/..\/..\/$/;"	m
+top_builddir	jansson/api_jansson/Makefile	/^top_builddir = ..\/..\/..$/;"	m
+top_builddir	nfex/Makefile	/^top_builddir = .$/;"	m
+top_builddir	nfex/src/Makefile	/^top_builddir = ..$/;"	m
+top_builddir	test/jansson/api_jansson/Makefile	/^top_builddir = ..\/..\/..$/;"	m
+top_distdir	nfex/Makefile	/^top_distdir = $(distdir)$/;"	m
+top_srcdir	jansson/api_jansson/Makefile	/^top_srcdir = ..\/..\/..$/;"	m
+top_srcdir	nfex/Makefile	/^top_srcdir = .$/;"	m
+top_srcdir	nfex/src/Makefile	/^top_srcdir = ..$/;"	m
+top_srcdir	test/jansson/api_jansson/Makefile	/^top_srcdir = ..\/..\/..$/;"	m
+total	computerstate.h	/^	unsigned long total;$/;"	m	struct:PACKED1
+total_bytes	nfex/include/nfex.h	/^    uint64_t total_bytes;             \/* total bytes read *\/$/;"	m	struct:nfex_statistics
+total_files	nfex/include/nfex.h	/^    uint32_t total_files;             \/* total files extracted *\/$/;"	m	struct:nfex_statistics
+total_home	computerstate.h	/^	double	 total_home;$/;"	m	struct:__anon3
+total_home	test/code/hdd.c	/^	double	 total_home;$/;"	m	struct:__anon4	file:
+total_home	test/code/hdd2.c	/^	double	 total_home;$/;"	m	struct:__anon5	file:
+total_packets	nfex/include/nfex.h	/^    uint32_t total_packets;           \/* total packets seen *\/$/;"	m	struct:nfex_statistics
+total_root	computerstate.h	/^	double	 total_root;$/;"	m	struct:__anon3
+total_root	test/code/hdd.c	/^	double	 total_root;$/;"	m	struct:__anon4	file:
+total_root	test/code/hdd2.c	/^	double	 total_root;$/;"	m	struct:__anon5	file:
+total_size	computerstate.h	/^	double	 total_size;$/;"	m	struct:__anon3
+total_size	test/code/hdd.c	/^	double	 total_size;$/;"	m	struct:__anon4	file:
+total_size	test/code/hdd2.c	/^	double	 total_size;$/;"	m	struct:__anon5	file:
+total_swap	computerstate.h	/^	double	 total_swap;$/;"	m	struct:__anon3
+total_swap	test/code/hdd.c	/^	double	 total_swap;$/;"	m	struct:__anon4	file:
+total_swap	test/code/hdd2.c	/^	double	 total_swap;$/;"	m	struct:__anon5	file:
+transform	jansson/api_jansson/Makefile	/^transform = $(program_transform_name)$/;"	m
+transform	nfex/Makefile	/^transform = $(program_transform_name)$/;"	m
+transform	nfex/src/Makefile	/^transform = $(program_transform_name)$/;"	m
+transform	test/jansson/api_jansson/Makefile	/^transform = $(program_transform_name)$/;"	m
+transform_file_pthread	client.c	/^void *transform_file_pthread (void *p)$/;"	f
+transform_file_pthread	ssl_client.c	/^void *transform_file_pthread (void *p)$/;"	f
+transform_file_pthread	test/code/mypthread.c	/^void *transform_file_pthread (void *p)$/;"	f
+transformname	event.h	/^	char transformname[256];$/;"	m	struct:namemsg
+transformname	nfex/src/extract.c	/^	char transformname[256];$/;"	m	struct:namemsg	file:
+transformname	test/code/t.c	/^	char transformname[256];$/;"	m	struct:namemsg	file:
+transformname	test/code/t2.c	/^	char transformname[256];$/;"	m	struct:namemsg	file:
+transformname	test/event/event.h	/^	char transformname[256];$/;"	m	struct:namemsg
+ts_last	nfex/include/nfex.h	/^    struct timeval ts_last;           \/* last file extracted timestamp *\/$/;"	m	struct:nfex_statistics	typeref:struct:nfex_statistics::timeval
+ts_start	nfex/include/nfex.h	/^    struct timeval ts_start;          \/* total uptime timestamp *\/$/;"	m	struct:nfex_statistics	typeref:struct:nfex_statistics::timeval
+unput	nfex/src/confl.c	179;"	d	file:
+update_search	nfex/src/search.c	/^update_search(srch_node_t *tree, srchptr_list_t **srchptr_list, $/;"	f	file:
+update_search2	nfex/src/search.c	/^update_search2(srch_node_t *tree, srchptr_list_t **srchptr_list, $/;"	f	file:
+usage	nfex/nfex_exe_pp/src/nfex_exe_pp.c	/^usage(char *progname)$/;"	f
+usage	nfex/src/main.c	/^usage(char *progname)$/;"	f
+user	computerstate.h	/^	unsigned int user;$/;"	m	struct:PACKED
+writepos	test/code/mypthread.c	/^	int readpos, writepos; \/* 读写指针*\/$/;"	m	struct:prodcons	file:
+writepos	test/code/pth.c	/^	int readpos, writepos; \/* 读写指针*\/$/;"	m	struct:prodcons	file:
+xlatcase	acnew/acsmx.c	/^static unsigned char xlatcase[256];$/;"	v	file:
+xlatcase	acsmx.c	/^static unsigned char xlatcase[256];$/;"	v	file:
+xlatcase	test/src/acsmx.c	/^static unsigned char xlatcase[256];$/;"	v	file:
+yy_accept	nfex/src/confl.c	/^static yyconst flex_int16_t yy_accept[18] =$/;"	v	file:
+yy_at_bol	nfex/src/confl.c	/^	int yy_at_bol;$/;"	m	struct:yy_buffer_state	file:
+yy_base	nfex/src/confl.c	/^static yyconst flex_int16_t yy_base[21] =$/;"	v	file:
+yy_bs_column	nfex/src/confl.c	/^    int yy_bs_column; \/**< The column count. *\/$/;"	m	struct:yy_buffer_state	file:
+yy_bs_lineno	nfex/src/confl.c	/^    int yy_bs_lineno; \/**< The line count. *\/$/;"	m	struct:yy_buffer_state	file:
+yy_buf_pos	nfex/src/confl.c	/^	char *yy_buf_pos;		\/* current position in input buffer *\/$/;"	m	struct:yy_buffer_state	file:
+yy_buf_size	nfex/src/confl.c	/^	yy_size_t yy_buf_size;$/;"	m	struct:yy_buffer_state	file:
+yy_buffer_stack	nfex/src/confl.c	/^static YY_BUFFER_STATE * yy_buffer_stack = 0; \/**< Stack as an array. *\/$/;"	v	file:
+yy_buffer_stack_max	nfex/src/confl.c	/^static size_t yy_buffer_stack_max = 0; \/**< capacity of stack. *\/$/;"	v	file:
+yy_buffer_stack_top	nfex/src/confl.c	/^static size_t yy_buffer_stack_top = 0; \/**< index of top of stack. *\/$/;"	v	file:
+yy_buffer_state	nfex/src/confl.c	/^struct yy_buffer_state$/;"	s	file:
+yy_buffer_status	nfex/src/confl.c	/^	int yy_buffer_status;$/;"	m	struct:yy_buffer_state	file:
+yy_c_buf_p	nfex/src/confl.c	/^static char *yy_c_buf_p = (char *) 0;$/;"	v	file:
+yy_ch_buf	nfex/src/confl.c	/^	char *yy_ch_buf;		\/* input buffer *\/$/;"	m	struct:yy_buffer_state	file:
+yy_chk	nfex/src/confl.c	/^static yyconst flex_int16_t yy_chk[30] =$/;"	v	file:
+yy_create_buffer	nfex/src/confl.c	/^    YY_BUFFER_STATE yy_create_buffer  (FILE * file, int  size )$/;"	f
+yy_def	nfex/src/confl.c	/^static yyconst flex_int16_t yy_def[21] =$/;"	v	file:
+yy_delete_buffer	nfex/src/confl.c	/^    void yy_delete_buffer (YY_BUFFER_STATE  b )$/;"	f
+yy_did_buffer_switch_on_eof	nfex/src/confl.c	/^static int yy_did_buffer_switch_on_eof;$/;"	v	file:
+yy_ec	nfex/src/confl.c	/^static yyconst flex_int32_t yy_ec[256] =$/;"	v	file:
+yy_fatal_error	nfex/src/confl.c	/^static void yy_fatal_error (yyconst char* msg )$/;"	f	file:
+yy_fill_buffer	nfex/src/confl.c	/^	int yy_fill_buffer;$/;"	m	struct:yy_buffer_state	file:
+yy_flex_debug	nfex/src/confl.c	/^int yy_flex_debug = 0;$/;"	v
+yy_flex_strlen	nfex/src/confl.c	/^static int yy_flex_strlen (yyconst char * s )$/;"	f	file:
+yy_flex_strncpy	nfex/src/confl.c	/^static void yy_flex_strncpy (char* s1, yyconst char * s2, int n )$/;"	f	file:
+yy_flush_buffer	nfex/src/confl.c	/^    void yy_flush_buffer (YY_BUFFER_STATE  b )$/;"	f
+yy_get_next_buffer	nfex/src/confl.c	/^static int yy_get_next_buffer (void)$/;"	f	file:
+yy_get_previous_state	nfex/src/confl.c	/^    static yy_state_type yy_get_previous_state (void)$/;"	f	file:
+yy_hold_char	nfex/src/confl.c	/^static char yy_hold_char;$/;"	v	file:
+yy_init	nfex/src/confl.c	/^static int yy_init = 0;		\/* whether we need to initialize *\/$/;"	v	file:
+yy_init_buffer	nfex/src/confl.c	/^    static void yy_init_buffer  (YY_BUFFER_STATE  b, FILE * file )$/;"	f	file:
+yy_init_globals	nfex/src/confl.c	/^static int yy_init_globals (void)$/;"	f	file:
+yy_input_file	nfex/src/confl.c	/^	FILE *yy_input_file;$/;"	m	struct:yy_buffer_state	file:
+yy_is_interactive	nfex/src/confl.c	/^	int yy_is_interactive;$/;"	m	struct:yy_buffer_state	file:
+yy_is_our_buffer	nfex/src/confl.c	/^	int yy_is_our_buffer;$/;"	m	struct:yy_buffer_state	file:
+yy_last_accepting_cpos	nfex/src/confl.c	/^static char *yy_last_accepting_cpos;$/;"	v	file:
+yy_last_accepting_state	nfex/src/confl.c	/^static yy_state_type yy_last_accepting_state;$/;"	v	file:
+yy_load_buffer_state	nfex/src/confl.c	/^static void yy_load_buffer_state  (void)$/;"	f	file:
+yy_meta	nfex/src/confl.c	/^static yyconst flex_int32_t yy_meta[10] =$/;"	v	file:
+yy_n_chars	nfex/src/confl.c	/^	int yy_n_chars;$/;"	m	struct:yy_buffer_state	file:
+yy_n_chars	nfex/src/confl.c	/^static int yy_n_chars;		\/* number of characters read into yy_ch_buf *\/$/;"	v	file:
+yy_new_buffer	nfex/src/confl.c	308;"	d	file:
+yy_nxt	nfex/src/confl.c	/^	flex_int32_t yy_nxt;$/;"	m	struct:yy_trans_info	file:
+yy_nxt	nfex/src/confl.c	/^static yyconst flex_int16_t yy_nxt[30] =$/;"	v	file:
+yy_reduce_print	nfex/src/confy.c	/^yy_reduce_print (YYSTYPE *yyvsp, int yyrule, void *a)$/;"	f	file:
+yy_scan_buffer	nfex/src/confl.c	/^YY_BUFFER_STATE yy_scan_buffer  (char * base, yy_size_t  size )$/;"	f
+yy_scan_bytes	nfex/src/confl.c	/^YY_BUFFER_STATE yy_scan_bytes  (yyconst char * yybytes, int  _yybytes_len )$/;"	f
+yy_scan_string	nfex/src/confl.c	/^YY_BUFFER_STATE yy_scan_string (yyconst char * yystr )$/;"	f
+yy_set_bol	nfex/src/confl.c	320;"	d	file:
+yy_set_interactive	nfex/src/confl.c	310;"	d	file:
+yy_size_t	nfex/src/confl.c	/^typedef size_t yy_size_t;$/;"	t	file:
+yy_stack_print	nfex/src/confy.c	/^yy_stack_print (yytype_int16 *yybottom, yytype_int16 *yytop)$/;"	f	file:
+yy_start	nfex/src/confl.c	/^static int yy_start = 0;	\/* start state number *\/$/;"	v	file:
+yy_state_type	nfex/src/confl.c	/^typedef int yy_state_type;$/;"	t	file:
+yy_switch_to_buffer	nfex/src/confl.c	/^    void yy_switch_to_buffer  (YY_BUFFER_STATE  new_buffer )$/;"	f
+yy_symbol_print	nfex/src/confy.c	/^yy_symbol_print (FILE *yyoutput, int yytype, YYSTYPE const * const yyvaluep, void *a)$/;"	f	file:
+yy_symbol_value_print	nfex/src/confy.c	/^yy_symbol_value_print (FILE *yyoutput, int yytype, YYSTYPE const * const yyvaluep, void *a)$/;"	f	file:
+yy_trans_info	nfex/src/confl.c	/^struct yy_trans_info$/;"	s	file:
+yy_try_NUL_trans	nfex/src/confl.c	/^    static yy_state_type yy_try_NUL_trans  (yy_state_type yy_current_state )$/;"	f	file:
+yy_verify	nfex/src/confl.c	/^	flex_int32_t yy_verify;$/;"	m	struct:yy_trans_info	file:
+yyalloc	nfex/src/confl.c	/^void *yyalloc (yy_size_t  size )$/;"	f
+yyalloc	nfex/src/confy.c	/^union yyalloc$/;"	u	file:
+yychar	nfex/src/confy.c	/^int yychar;$/;"	v
+yycheck	nfex/src/confy.c	/^static const yytype_int8 yycheck[] =$/;"	v	file:
+yyclearin	nfex/src/confy.c	570;"	d	file:
+yyconst	nfex/src/confl.c	105;"	d	file:
+yyconst	nfex/src/confl.c	107;"	d	file:
+yydebug	nfex/src/confy.c	/^int yydebug;$/;"	v
+yydefact	nfex/src/confy.c	/^static const yytype_uint8 yydefact[] =$/;"	v	file:
+yydefgoto	nfex/src/confy.c	/^static const yytype_int8 yydefgoto[] =$/;"	v	file:
+yydestruct	nfex/src/confy.c	/^yydestruct (const char *yymsg, int yytype, YYSTYPE *yyvaluep, void *a)$/;"	f	file:
+yyensure_buffer_stack	nfex/src/confl.c	/^static void yyensure_buffer_stack (void)$/;"	f	file:
+yyerrok	nfex/src/confy.c	569;"	d	file:
+yyerror	nfex/src/confy.c	/^yyerror(char *s)$/;"	f
+yyfree	nfex/src/confl.c	/^void yyfree (void * ptr )$/;"	f
+yyget_debug	nfex/src/confl.c	/^int yyget_debug  (void)$/;"	f
+yyget_in	nfex/src/confl.c	/^FILE *yyget_in  (void)$/;"	f
+yyget_leng	nfex/src/confl.c	/^int yyget_leng  (void)$/;"	f
+yyget_lineno	nfex/src/confl.c	/^int yyget_lineno  (void)$/;"	f
+yyget_out	nfex/src/confl.c	/^FILE *yyget_out  (void)$/;"	f
+yyget_text	nfex/src/confl.c	/^char *yyget_text  (void)$/;"	f
+yyin	nfex/src/confl.c	/^FILE *yyin = (FILE *) 0, *yyout = (FILE *) 0;$/;"	v
+yyinfname	nfex/include/nfex.h	/^    char yyinfname[128];$/;"	m	struct:nfex_control_context
+yyinput	nfex/src/confl.c	/^    static int yyinput (void)$/;"	f	file:
+yyleng	nfex/src/confl.c	/^int yyleng;$/;"	v
+yyless	nfex/src/confl.c	1609;"	d	file:
+yyless	nfex/src/confl.c	1610;"	d	file:
+yyless	nfex/src/confl.c	166;"	d	file:
+yylex_destroy	nfex/src/confl.c	/^int yylex_destroy  (void)$/;"	f
+yylineno	nfex/src/confl.c	/^int yylineno = 1;$/;"	v
+yylval	nfex/src/confy.c	/^YYSTYPE yylval;$/;"	v
+yymore	nfex/src/confl.c	450;"	d	file:
+yynerrs	nfex/src/confy.c	/^int yynerrs;$/;"	v
+yyout	nfex/src/confl.c	/^FILE *yyin = (FILE *) 0, *yyout = (FILE *) 0;$/;"	v
+yypact	nfex/src/confy.c	/^static const yytype_int8 yypact[] =$/;"	v	file:
+yyparse	nfex/src/confy.c	/^yyparse (void *YYPARSE_PARAM)$/;"	f
+yypgoto	nfex/src/confy.c	/^static const yytype_int8 yypgoto[] =$/;"	v	file:
+yypop_buffer_state	nfex/src/confl.c	/^void yypop_buffer_state (void)$/;"	f
+yyprhs	nfex/src/confy.c	/^static const yytype_uint8 yyprhs[] =$/;"	v	file:
+yypush_buffer_state	nfex/src/confl.c	/^void yypush_buffer_state (YY_BUFFER_STATE new_buffer )$/;"	f
+yyr1	nfex/src/confy.c	/^static const yytype_uint8 yyr1[] =$/;"	v	file:
+yyr2	nfex/src/confy.c	/^static const yytype_uint8 yyr2[] =$/;"	v	file:
+yyrealloc	nfex/src/confl.c	/^void *yyrealloc  (void * ptr, yy_size_t  size )$/;"	f
+yyrestart	nfex/src/confl.c	/^    void yyrestart  (FILE * input_file )$/;"	f
+yyrhs	nfex/src/confy.c	/^static const yytype_int8 yyrhs[] =$/;"	v	file:
+yyrline	nfex/src/confy.c	/^static const yytype_uint8 yyrline[] =$/;"	v	file:
+yyset_debug	nfex/src/confl.c	/^void yyset_debug (int  bdebug )$/;"	f
+yyset_in	nfex/src/confl.c	/^void yyset_in (FILE *  in_str )$/;"	f
+yyset_lineno	nfex/src/confl.c	/^void yyset_lineno (int  line_number )$/;"	f
+yyset_out	nfex/src/confl.c	/^void yyset_out (FILE *  out_str )$/;"	f
+yyss_alloc	nfex/src/confy.c	/^  yytype_int16 yyss_alloc;$/;"	m	union:yyalloc	file:
+yystos	nfex/src/confy.c	/^static const yytype_uint8 yystos[] =$/;"	v	file:
+yystpcpy	nfex/src/confy.c	/^yystpcpy (char *yydest, const char *yysrc)$/;"	f	file:
+yystpcpy	nfex/src/confy.c	872;"	d	file:
+yystrlen	nfex/src/confy.c	/^yystrlen (const char *yystr)$/;"	f	file:
+yystrlen	nfex/src/confy.c	849;"	d	file:
+yystype	nfex/include/confy.h	55;"	d
+yystype	nfex/src/confy.c	157;"	d	file:
+yystype	nfex/src/confy.h	72;"	d
+yysyntax_error	nfex/src/confy.c	/^yysyntax_error (char *yyresult, int yystate, int yychar)$/;"	f	file:
+yytable	nfex/src/confy.c	/^static const yytype_uint8 yytable[] =$/;"	v	file:
+yyterminate	nfex/src/confl.c	611;"	d	file:
+yytext	nfex/src/confl.c	/^char *yytext;$/;"	v
+yytext_ptr	nfex/src/confl.c	345;"	d	file:
+yytname	nfex/src/confy.c	/^static const char *const yytname[] =$/;"	v	file:
+yytnamerr	nfex/src/confy.c	/^yytnamerr (char *yyres, const char *yystr)$/;"	f	file:
+yytokentype	nfex/include/confy.h	/^   enum yytokentype {$/;"	g
+yytokentype	nfex/src/confy.c	/^   enum yytokentype {$/;"	g	file:
+yytokentype	nfex/src/confy.h	/^   enum yytokentype {$/;"	g
+yytoknum	nfex/src/confy.c	/^static const yytype_uint16 yytoknum[] =$/;"	v	file:
+yytranslate	nfex/src/confy.c	/^static const yytype_uint8 yytranslate[] =$/;"	v	file:
+yytype_int16	nfex/src/confy.c	/^typedef YYTYPE_INT16 yytype_int16;$/;"	t	file:
+yytype_int16	nfex/src/confy.c	/^typedef short int yytype_int16;$/;"	t	file:
+yytype_int8	nfex/src/confy.c	/^typedef YYTYPE_INT8 yytype_int8;$/;"	t	file:
+yytype_int8	nfex/src/confy.c	/^typedef short int yytype_int8;$/;"	t	file:
+yytype_int8	nfex/src/confy.c	/^typedef signed char yytype_int8;$/;"	t	file:
+yytype_uint16	nfex/src/confy.c	/^typedef YYTYPE_UINT16 yytype_uint16;$/;"	t	file:
+yytype_uint16	nfex/src/confy.c	/^typedef unsigned short int yytype_uint16;$/;"	t	file:
+yytype_uint8	nfex/src/confy.c	/^typedef YYTYPE_UINT8 yytype_uint8;$/;"	t	file:
+yytype_uint8	nfex/src/confy.c	/^typedef unsigned char yytype_uint8;$/;"	t	file:
+yyunput	nfex/src/confl.c	/^    static void yyunput (int c, register char * yy_bp )$/;"	f	file:
+yyvs_alloc	nfex/src/confy.c	/^  YYSTYPE yyvs_alloc;$/;"	m	union:yyalloc	file:

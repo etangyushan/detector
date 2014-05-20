@@ -1,0 +1,77 @@
+/*
+ * Copyright (c) 2009-2013 Petri Lehtinen <petri@digip.org>
+ *
+ * Jansson is free software; you can redistribute it and/or modify
+ * it under the terms of the MIT license. See LICENSE for details.
+ */
+
+#include <jansson.h>
+#include <string.h>
+
+/* 获取每个元素的值, 返回元素的结构体 */
+static void test_iterators()
+{
+    int i;
+    json_t *object, *foo, *bar, *baz;
+    const char *iter_keys[3];
+    int have_key[3] = { 0, 0, 0 };
+    json_t *iter_values[3];
+    void *iter;
+
+    if(json_object_iter(NULL))
+	{
+        printf("iterate NULL\n");
+	}
+
+    if(json_object_iter_next(NULL, NULL))
+	{
+        printf("iterator a NULL object\n");
+	}
+
+    object = json_object();
+    foo = json_string("foo");
+    bar = json_string("bar");
+    baz = json_string("baz");
+    if(!object || !foo || !bar || !bar)
+	{
+        printf("unable to create values\n");
+	}
+
+    if(json_object_iter_next(object, NULL))
+	{
+        printf("a NULL iterator\n");
+	}
+
+    if(json_object_set(object, "a", foo) ||
+       json_object_set(object, "b", bar) ||
+       json_object_set(object, "c", baz))
+	{
+        printf("unable to populate object\n");
+	}
+    iter = json_object_iter(object);
+	i = 0;
+	while(1)
+	{
+		iter_keys[i] = json_object_iter_key(iter);
+		iter_values[i] = json_object_iter_value(iter);
+
+		printf("values[%d]=%s\n", i,json_string_value(iter_values[i]));
+		if((iter = json_object_iter_next(object, iter)) == NULL)
+		{
+			 printf("iterate end\n");
+			 break;
+		}
+		i++;
+	}
+
+    json_decref(object);
+    json_decref(foo);
+    json_decref(bar);
+    json_decref(baz);
+}
+
+int main()
+{
+    test_iterators();
+	return 0;
+}

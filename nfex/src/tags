@@ -1,0 +1,538 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
+!_TAG_PROGRAM_VERSION	5.8	//
+ACLOCAL	Makefile	/^ACLOCAL = ${SHELL} \/home\/weixz\/nfex\/nfex-read-only\/missing --run aclocal-1.11$/;"	m
+ACLOCAL_M4	Makefile	/^ACLOCAL_M4 = $(top_srcdir)\/aclocal.m4$/;"	m
+AMTAR	Makefile	/^AMTAR = ${SHELL} \/home\/weixz\/nfex\/nfex-read-only\/missing --run tar$/;"	m
+AM_CFLAGS	Makefile	/^AM_CFLAGS = -D_OFFSET_BITS=64 -D_LARGEFILE_SOURCE$/;"	m
+AM_YFLAGS	Makefile	/^AM_YFLAGS = -d$/;"	m
+AUTOCONF	Makefile	/^AUTOCONF = ${SHELL} \/home\/weixz\/nfex\/nfex-read-only\/missing --run autoconf$/;"	m
+AUTOHEADER	Makefile	/^AUTOHEADER = ${SHELL} \/home\/weixz\/nfex\/nfex-read-only\/missing --run autoheader$/;"	m
+AUTOMAKE	Makefile	/^AUTOMAKE = ${SHELL} \/home\/weixz\/nfex\/nfex-read-only\/missing --run automake-1.11$/;"	m
+AWK	Makefile	/^AWK = gawk$/;"	m
+BEGIN	confl.c	124;"	d	file:
+CC	Makefile	/^CC = gcc$/;"	m
+CCDEPMODE	Makefile	/^CCDEPMODE = depmode=gcc3$/;"	m
+CCLD	Makefile	/^CCLD = $(CC)$/;"	m
+CFLAGS	Makefile	/^CFLAGS =  -ggdb$/;"	m
+COMPILE	Makefile	/^COMPILE = $(CC) $(DEFS) $(DEFAULT_INCLUDES) $(INCLUDES) $(AM_CPPFLAGS) \\$/;"	m
+CONFIG_CLEAN_FILES	Makefile	/^CONFIG_CLEAN_FILES =$/;"	m
+CONFIG_CLEAN_VPATH_FILES	Makefile	/^CONFIG_CLEAN_VPATH_FILES =$/;"	m
+CONFIG_HEADER	Makefile	/^CONFIG_HEADER = $(top_builddir)\/include\/config.h$/;"	m
+CPP	Makefile	/^CPP = gcc -E$/;"	m
+CPPFLAGS	Makefile	/^CPPFLAGS = $/;"	m
+CTAGS	Makefile	/^CTAGS = ctags$/;"	m
+CYGPATH_W	Makefile	/^CYGPATH_W = echo$/;"	m
+DATA	Makefile	/^DATA = $(sysconf_DATA)$/;"	m
+DEFAULT_INCLUDES	Makefile	/^DEFAULT_INCLUDES = -I. -I$(top_builddir)\/include$/;"	m
+DEFS	Makefile	/^DEFS = -DHAVE_CONFIG_H$/;"	m
+DEPDIR	Makefile	/^DEPDIR = .deps$/;"	m
+DISTFILES	Makefile	/^DISTFILES = $(DIST_COMMON) $(DIST_SOURCES) $(TEXINFOS) $(EXTRA_DIST)$/;"	m
+DIST_COMMON	Makefile	/^DIST_COMMON = $(srcdir)\/Makefile.am $(srcdir)\/Makefile.in confl.c \\$/;"	m
+DIST_SOURCES	Makefile	/^DIST_SOURCES = $(nfex_SOURCES)$/;"	m
+ECHO	confl.c	567;"	d	file:
+ECHO_C	Makefile	/^ECHO_C = $/;"	m
+ECHO_N	Makefile	/^ECHO_N = -n$/;"	m
+ECHO_T	Makefile	/^ECHO_T = $/;"	m
+EGREP	Makefile	/^EGREP = \/bin\/grep -E$/;"	m
+ENDLINE	confy.c	/^     ENDLINE = 261$/;"	e	enum:yytokentype	file:
+ENDLINE	confy.c	79;"	d	file:
+ENDLINE	confy.h	/^     ENDLINE = 261$/;"	e	enum:yytokentype
+ENDLINE	confy.h	52;"	d
+EOB_ACT_CONTINUE_SCAN	confl.c	159;"	d	file:
+EOB_ACT_END_OF_FILE	confl.c	160;"	d	file:
+EOB_ACT_LAST_MATCH	confl.c	161;"	d	file:
+ETAGS	Makefile	/^ETAGS = etags$/;"	m
+EXEEXT	Makefile	/^EXEEXT = $/;"	m
+FLEXINT_H	confl.c	29;"	d	file:
+FLEX_BETA	confl.c	13;"	d	file:
+FLEX_SCANNER	confl.c	8;"	d	file:
+GREP	Makefile	/^GREP = \/bin\/grep$/;"	m
+INITIAL	confl.c	480;"	d	file:
+INSTALL	Makefile	/^INSTALL = \/usr\/bin\/install -c$/;"	m
+INSTALL_DATA	Makefile	/^INSTALL_DATA = ${INSTALL} -m 644$/;"	m
+INSTALL_HEADER	Makefile	/^INSTALL_HEADER = $(INSTALL_DATA)$/;"	m
+INSTALL_PROGRAM	Makefile	/^INSTALL_PROGRAM = ${INSTALL}$/;"	m
+INSTALL_SCRIPT	Makefile	/^INSTALL_SCRIPT = ${INSTALL}$/;"	m
+INSTALL_STRIP_PROGRAM	Makefile	/^INSTALL_STRIP_PROGRAM = $(install_sh) -c -s$/;"	m
+INT16_MAX	confl.c	72;"	d	file:
+INT16_MIN	confl.c	63;"	d	file:
+INT32_MAX	confl.c	75;"	d	file:
+INT32_MIN	confl.c	66;"	d	file:
+INT8_MAX	confl.c	69;"	d	file:
+INT8_MIN	confl.c	60;"	d	file:
+LDFLAGS	Makefile	/^LDFLAGS = $/;"	m
+LEX	Makefile	/^LEX = flex$/;"	m
+LEXCOMPILE	Makefile	/^LEXCOMPILE = $(LEX) $(LFLAGS) $(AM_LFLAGS)$/;"	m
+LEXLIB	Makefile	/^LEXLIB = -lfl$/;"	m
+LEX_OUTPUT_ROOT	Makefile	/^LEX_OUTPUT_ROOT = lex.yy$/;"	m
+LIBOBJS	Makefile	/^LIBOBJS = $/;"	m
+LIBS	Makefile	/^LIBS = -lpcap -lm -lfl $/;"	m
+LINK	Makefile	/^LINK = $(CCLD) $(AM_CFLAGS) $(CFLAGS) $(AM_LDFLAGS) $(LDFLAGS) -o $@$/;"	m
+LTLIBOBJS	Makefile	/^LTLIBOBJS = $/;"	m
+MAKEINFO	Makefile	/^MAKEINFO = ${SHELL} \/home\/weixz\/nfex\/nfex-read-only\/missing --run makeinfo$/;"	m
+MKDIR_P	Makefile	/^MKDIR_P = \/bin\/mkdir -p$/;"	m
+NORMAL_INSTALL	Makefile	/^NORMAL_INSTALL = :$/;"	m
+NORMAL_UNINSTALL	Makefile	/^NORMAL_UNINSTALL = :$/;"	m
+NUMBER	confy.c	/^     NUMBER = 258,$/;"	e	enum:yytokentype	file:
+NUMBER	confy.c	76;"	d	file:
+NUMBER	confy.h	/^     NUMBER = 258,$/;"	e	enum:yytokentype
+NUMBER	confy.h	49;"	d
+OBJEXT	Makefile	/^OBJEXT = o$/;"	m
+PACKAGE	Makefile	/^PACKAGE = nfex$/;"	m
+PACKAGE_BUGREPORT	Makefile	/^PACKAGE_BUGREPORT = $/;"	m
+PACKAGE_NAME	Makefile	/^PACKAGE_NAME = $/;"	m
+PACKAGE_STRING	Makefile	/^PACKAGE_STRING = $/;"	m
+PACKAGE_TARNAME	Makefile	/^PACKAGE_TARNAME = $/;"	m
+PACKAGE_VERSION	Makefile	/^PACKAGE_VERSION = $/;"	m
+PATH_SEPARATOR	Makefile	/^PATH_SEPARATOR = :$/;"	m
+POST_INSTALL	Makefile	/^POST_INSTALL = :$/;"	m
+POST_UNINSTALL	Makefile	/^POST_UNINSTALL = :$/;"	m
+PRE_INSTALL	Makefile	/^PRE_INSTALL = :$/;"	m
+PRE_UNINSTALL	Makefile	/^PRE_UNINSTALL = :$/;"	m
+PROGRAMS	Makefile	/^PROGRAMS = $(bin_PROGRAMS)$/;"	m
+RANLIB	Makefile	/^RANLIB = ranlib$/;"	m
+REJECT	confl.c	449;"	d	file:
+SET_MAKE	Makefile	/^SET_MAKE = $/;"	m
+SHELL	Makefile	/^SHELL = \/bin\/sh$/;"	m
+SOURCES	Makefile	/^SOURCES = $(nfex_SOURCES)$/;"	m
+SPECIFIER	confy.c	/^     SPECIFIER = 260,$/;"	e	enum:yytokentype	file:
+SPECIFIER	confy.c	78;"	d	file:
+SPECIFIER	confy.h	/^     SPECIFIER = 260,$/;"	e	enum:yytokentype
+SPECIFIER	confy.h	51;"	d
+STRIP	Makefile	/^STRIP = $/;"	m
+UINT16_MAX	confl.c	81;"	d	file:
+UINT32_MAX	confl.c	84;"	d	file:
+UINT8_MAX	confl.c	78;"	d	file:
+VERSION	Makefile	/^VERSION = 2.5$/;"	m
+WORD	confy.c	/^     WORD = 259,$/;"	e	enum:yytokentype	file:
+WORD	confy.c	77;"	d	file:
+WORD	confy.h	/^     WORD = 259,$/;"	e	enum:yytokentype
+WORD	confy.h	50;"	d
+YACC	Makefile	/^YACC = bison -y$/;"	m
+YACCCOMPILE	Makefile	/^YACCCOMPILE = $(YACC) $(YFLAGS) $(AM_YFLAGS)$/;"	m
+YFLAGS	Makefile	/^YFLAGS = $/;"	m
+YLWRAP	Makefile	/^YLWRAP = $(top_srcdir)\/ylwrap$/;"	m
+YYABORT	confy.c	560;"	d	file:
+YYACCEPT	confy.c	559;"	d	file:
+YYBACKUP	confy.c	572;"	d	file:
+YYBISON	confy.c	47;"	d	file:
+YYBISON_VERSION	confy.c	50;"	d	file:
+YYCOPY	confy.c	331;"	d	file:
+YYCOPY	confy.c	334;"	d	file:
+YYDEBUG	confy.c	115;"	d	file:
+YYDPRINTF	confy.c	652;"	d	file:
+YYDPRINTF	confy.c	802;"	d	file:
+YYEMPTY	confy.c	556;"	d	file:
+YYEOF	confy.c	557;"	d	file:
+YYERRCODE	confy.c	591;"	d	file:
+YYERROR	confy.c	561;"	d	file:
+YYERROR_VERBOSE	confy.c	120;"	d	file:
+YYERROR_VERBOSE	confy.c	121;"	d	file:
+YYERROR_VERBOSE	confy.c	123;"	d	file:
+YYFAIL	confy.c	568;"	d	file:
+YYFINAL	confy.c	364;"	d	file:
+YYFPRINTF	confy.c	649;"	d	file:
+YYFREE	confy.c	297;"	d	file:
+YYID	confy.c	/^YYID (int i)$/;"	f	file:
+YYID	confy.c	221;"	d	file:
+YYINITDEPTH	confy.c	811;"	d	file:
+YYLAST	confy.c	366;"	d	file:
+YYLEX	confy.c	639;"	d	file:
+YYLEX	confy.c	641;"	d	file:
+YYLLOC_DEFAULT	confy.c	600;"	d	file:
+YYLSP_NEEDED	confy.c	59;"	d	file:
+YYMALLOC	confy.c	290;"	d	file:
+YYMAXDEPTH	confy.c	822;"	d	file:
+YYMAXUTOK	confy.c	379;"	d	file:
+YYNNTS	confy.c	371;"	d	file:
+YYNRULES	confy.c	373;"	d	file:
+YYNSTATES	confy.c	375;"	d	file:
+YYNTOKENS	confy.c	369;"	d	file:
+YYPACT_NINF	confy.c	504;"	d	file:
+YYPOPSTACK	confy.c	1162;"	d	file:
+YYPURE	confy.c	56;"	d	file:
+YYRECOVERING	confy.c	570;"	d	file:
+YYRHSLOC	confy.c	598;"	d	file:
+YYSIZE_MAXIMUM	confy.c	198;"	d	file:
+YYSIZE_T	confy.c	186;"	d	file:
+YYSIZE_T	confy.c	188;"	d	file:
+YYSIZE_T	confy.c	192;"	d	file:
+YYSIZE_T	confy.c	194;"	d	file:
+YYSKELETON_NAME	confy.c	53;"	d	file:
+YYSTACK_ALLOC	confy.c	244;"	d	file:
+YYSTACK_ALLOC	confy.c	248;"	d	file:
+YYSTACK_ALLOC	confy.c	253;"	d	file:
+YYSTACK_ALLOC	confy.c	276;"	d	file:
+YYSTACK_ALLOC_MAXIMUM	confy.c	273;"	d	file:
+YYSTACK_ALLOC_MAXIMUM	confy.c	279;"	d	file:
+YYSTACK_BYTES	confy.c	323;"	d	file:
+YYSTACK_FREE	confy.c	267;"	d	file:
+YYSTACK_FREE	confy.c	277;"	d	file:
+YYSTACK_GAP_MAXIMUM	confy.c	319;"	d	file:
+YYSTACK_RELOCATE	confy.c	350;"	d	file:
+YYSTATE	confl.c	131;"	d	file:
+YYSTYPE	confy.c	/^	YYSTYPE;$/;"	t	typeref:union:YYSTYPE	file:
+YYSTYPE	confy.c	/^typedef union YYSTYPE$/;"	u	file:
+YYSTYPE	confy.h	/^	YYSTYPE;$/;"	t	typeref:union:YYSTYPE
+YYSTYPE	confy.h	/^typedef union YYSTYPE$/;"	u
+YYSTYPE_IS_DECLARED	confy.c	141;"	d	file:
+YYSTYPE_IS_DECLARED	confy.h	67;"	d
+YYSTYPE_IS_TRIVIAL	confy.c	142;"	d	file:
+YYSTYPE_IS_TRIVIAL	confy.h	68;"	d
+YYTABLES_NAME	confl.c	1800;"	d	file:
+YYTABLE_NINF	confy.c	524;"	d	file:
+YYTERROR	confy.c	590;"	d	file:
+YYTOKENTYPE	confy.c	65;"	d	file:
+YYTOKENTYPE	confy.h	38;"	d
+YYTOKEN_TABLE	confy.c	128;"	d	file:
+YYTRANSLATE	confy.c	381;"	d	file:
+YYUNDEFTOK	confy.c	378;"	d	file:
+YYUSE	confy.c	214;"	d	file:
+YYUSE	confy.c	216;"	d	file:
+YY_	confy.c	204;"	d	file:
+YY_	confy.c	208;"	d	file:
+YY_AT_BOL	confl.c	330;"	d	file:
+YY_BREAK	confl.c	646;"	d	file:
+YY_BUFFER_EOF_PENDING	confl.c	246;"	d	file:
+YY_BUFFER_NEW	confl.c	234;"	d	file:
+YY_BUFFER_NORMAL	confl.c	235;"	d	file:
+YY_BUFFER_STATE	confl.c	/^typedef struct yy_buffer_state *YY_BUFFER_STATE;$/;"	t	typeref:struct:yy_buffer_state	file:
+YY_BUF_SIZE	confl.c	143;"	d	file:
+YY_CHAR	confl.c	/^typedef unsigned char YY_CHAR;$/;"	t	file:
+YY_CURRENT_BUFFER	confl.c	262;"	d	file:
+YY_CURRENT_BUFFER_LVALUE	confl.c	269;"	d	file:
+YY_DECL	confl.c	634;"	d	file:
+YY_DECL_IS_OURS	confl.c	630;"	d	file:
+YY_DO_BEFORE_ACTION	confl.c	355;"	d	file:
+YY_END_OF_BUFFER	confl.c	363;"	d	file:
+YY_END_OF_BUFFER_CHAR	confl.c	139;"	d	file:
+YY_EXIT_FAILURE	confl.c	1598;"	d	file:
+YY_EXTRA_TYPE	confl.c	491;"	d	file:
+YY_FATAL_ERROR	confl.c	621;"	d	file:
+YY_FLEX_MAJOR_VERSION	confl.c	9;"	d	file:
+YY_FLEX_MINOR_VERSION	confl.c	10;"	d	file:
+YY_FLEX_SUBMINOR_VERSION	confl.c	11;"	d	file:
+YY_FLUSH_BUFFER	confl.c	298;"	d	file:
+YY_INPUT	confl.c	574;"	d	file:
+YY_INT_ALIGNED	confl.c	4;"	d	file:
+YY_LESS_LINENO	confl.c	163;"	d	file:
+YY_LOCATION_PRINT	confy.c	626;"	d	file:
+YY_LOCATION_PRINT	confy.c	631;"	d	file:
+YY_MORE_ADJ	confl.c	451;"	d	file:
+YY_NEW_FILE	confl.c	137;"	d	file:
+YY_NULL	confl.c	111;"	d	file:
+YY_NUM_RULES	confl.c	362;"	d	file:
+YY_READ_BUF_SIZE	confl.c	559;"	d	file:
+YY_REDUCE_PRINT	confy.c	792;"	d	file:
+YY_REDUCE_PRINT	confy.c	805;"	d	file:
+YY_RESTORE_YY_MORE_OFFSET	confl.c	452;"	d	file:
+YY_RULE_SETUP	confl.c	649;"	d	file:
+YY_SC_TO_UI	confl.c	118;"	d	file:
+YY_STACK_PRINT	confy.c	753;"	d	file:
+YY_STACK_PRINT	confy.c	804;"	d	file:
+YY_START	confl.c	130;"	d	file:
+YY_START_STACK_INCR	confl.c	616;"	d	file:
+YY_STATE_BUF_SIZE	confl.c	148;"	d	file:
+YY_STATE_EOF	confl.c	134;"	d	file:
+YY_STRUCT_YY_BUFFER_STATE	confl.c	187;"	d	file:
+YY_SYMBOL_PRINT	confy.c	658;"	d	file:
+YY_SYMBOL_PRINT	confy.c	803;"	d	file:
+YY_TYPEDEF_YY_BUFFER_STATE	confl.c	151;"	d	file:
+YY_TYPEDEF_YY_SIZE_T	confl.c	182;"	d	file:
+YY_USER_ACTION	confl.c	641;"	d	file:
+YY_USE_CONST	confl.c	92;"	d	file:
+YY_USE_CONST	confl.c	99;"	d	file:
+_STDLIB_H	confy.c	258;"	d	file:
+_STDLIB_H	confy.c	286;"	d	file:
+__STDC_LIMIT_MACROS	confl.c	39;"	d	file:
+abs_builddir	Makefile	/^abs_builddir = \/home\/weixz\/nfex\/nfex-read-only\/src$/;"	m
+abs_srcdir	Makefile	/^abs_srcdir = \/home\/weixz\/nfex\/nfex-read-only\/src$/;"	m
+abs_top_builddir	Makefile	/^abs_top_builddir = \/home\/weixz\/nfex\/nfex-read-only$/;"	m
+abs_top_srcdir	Makefile	/^abs_top_srcdir = \/home\/weixz\/nfex\/nfex-read-only$/;"	m
+ac_ct_CC	Makefile	/^ac_ct_CC = gcc$/;"	m
+add_extract	extract.c	/^add_extract(extract_list_t **elist, fileid_t *fileid, ht_node_t *session, $/;"	f	file:
+add_result	search.c	/^add_result(srch_results_t **results, fileid_t *fileid, spectype_t spectype, $/;"	f	file:
+add_simple	search.c	/^add_simple(srch_node_t *node, uint8_t c, int remaining, int id, char *ext, $/;"	f	file:
+add_srchptr	search.c	/^add_srchptr(srchptr_list_t **srchptr_list, srch_node_t *node)$/;"	f	file:
+add_wildcard	search.c	/^add_wildcard(srch_node_t *node, int remaining, int id, char *ext, unsigned long maxlen, spectype_t type)$/;"	f	file:
+alloca	confy.c	251;"	d	file:
+am__aclocal_m4_deps	Makefile	/^am__aclocal_m4_deps = $(top_srcdir)\/configure.in$/;"	m
+am__base_list	Makefile	/^am__base_list = \\$/;"	m
+am__cd	Makefile	/^am__cd = CDPATH="$${ZSH_VERSION+.}$(PATH_SEPARATOR)" && cd$/;"	m
+am__configure_deps	Makefile	/^am__configure_deps = $(am__aclocal_m4_deps) $(CONFIGURE_DEPENDENCIES) \\$/;"	m
+am__depfiles_maybe	Makefile	/^am__depfiles_maybe = depfiles$/;"	m
+am__include	Makefile	/^am__include = include$/;"	m
+am__install_max	Makefile	/^am__install_max = 40$/;"	m
+am__installdirs	Makefile	/^am__installdirs = "$(DESTDIR)$(bindir)" "$(DESTDIR)$(sysconfdir)"$/;"	m
+am__leading_dot	Makefile	/^am__leading_dot = .$/;"	m
+am__mv	Makefile	/^am__mv = mv -f$/;"	m
+am__nobase_list	Makefile	/^am__nobase_list = $(am__nobase_strip_setup); \\$/;"	m
+am__nobase_strip	Makefile	/^am__nobase_strip = \\$/;"	m
+am__nobase_strip_setup	Makefile	/^am__nobase_strip_setup = \\$/;"	m
+am__quote	Makefile	/^am__quote = $/;"	m
+am__strip_dir	Makefile	/^am__strip_dir = f=`echo $$p | sed -e 's|^.*\/||'`;$/;"	m
+am__tar	Makefile	/^am__tar = ${AMTAR} chof - "$$tardir"$/;"	m
+am__untar	Makefile	/^am__untar = ${AMTAR} xf -$/;"	m
+am__vpath_adj	Makefile	/^am__vpath_adj = case $$p in \\$/;"	m
+am__vpath_adj_setup	Makefile	/^am__vpath_adj_setup = srcdirstrip=`echo "$(srcdir)" | sed 's|.|.|g'`;$/;"	m
+am_nfex_OBJECTS	Makefile	/^am_nfex_OBJECTS = main.$(OBJEXT) packet.$(OBJEXT) init.$(OBJEXT) \\$/;"	m
+bin_PROGRAMS	Makefile	/^bin_PROGRAMS = nfex$(EXEEXT)$/;"	m
+bindir	Makefile	/^bindir = ${exec_prefix}\/bin$/;"	m
+build	Makefile	/^build = x86_64-unknown-linux-gnu$/;"	m
+build_alias	Makefile	/^build_alias = $/;"	m
+build_bpf_filter	util.c	/^build_bpf_filter(register char **argv, char **buf)$/;"	f
+build_cpu	Makefile	/^build_cpu = x86_64$/;"	m
+build_os	Makefile	/^build_os = linux-gnu$/;"	m
+build_triplet	Makefile	/^build_triplet = x86_64-unknown-linux-gnu$/;"	m
+build_vendor	Makefile	/^build_vendor = unknown$/;"	m
+builddir	Makefile	/^builddir = .$/;"	m
+config_type	conf.c	/^config_type(char *extension, char *maxlength, char *hspec, char *fspec, void *a)$/;"	f
+control_context_destroy	init.c	/^control_context_destroy(ncc_t *ncc)$/;"	f
+control_context_init	init.c	/^control_context_init(char *output_dir, char *yyinfname, char *device, $/;"	f
+convert_seconds	util.c	/^convert_seconds(u_int32_t seconds, u_int32_t *d, u_int32_t *h, u_int32_t *m,$/;"	f
+currlen	search.c	/^static size_t currlen;$/;"	v	file:
+datadir	Makefile	/^datadir = ${datarootdir}$/;"	m
+datarootdir	Makefile	/^datarootdir = ${prefix}\/share$/;"	m
+depcomp	Makefile	/^depcomp = $(SHELL) $(top_srcdir)\/depcomp$/;"	m
+docdir	Makefile	/^docdir = ${datarootdir}\/doc\/${PACKAGE}$/;"	m
+dvidir	Makefile	/^dvidir = ${docdir}$/;"	m
+ecalloc	util.c	/^ecalloc(size_t nmemb, size_t size)$/;"	f
+emalloc	util.c	/^emalloc(size_t size)$/;"	f
+error	util.c	/^error(char *msg)$/;"	f
+exec_prefix	Makefile	/^exec_prefix = ${prefix}$/;"	m
+expression	confy.y	/^expression: WORD '(' NUMBER ',' SPECIFIER ')' ENDLINE			{config_type($1, $3, $5, NULL, a);}$/;"	l
+expressionlist	confy.y	/^expressionlist: expression$/;"	l
+extract	extract.c	/^extract(extract_list_t **elist, srch_results_t *results, ht_node_t *session, $/;"	f
+extract_segment	extract.c	/^extract_segment(extract_list_t *p, const uint8_t *data, ncc_t *ncc)$/;"	f	file:
+flex_int16_t	confl.c	/^typedef int16_t flex_int16_t;$/;"	t	file:
+flex_int16_t	confl.c	/^typedef short int flex_int16_t;$/;"	t	file:
+flex_int32_t	confl.c	/^typedef int flex_int32_t;$/;"	t	file:
+flex_int32_t	confl.c	/^typedef int32_t flex_int32_t;$/;"	t	file:
+flex_int8_t	confl.c	/^typedef int8_t flex_int8_t;$/;"	t	file:
+flex_int8_t	confl.c	/^typedef signed char flex_int8_t;$/;"	t	file:
+flex_uint16_t	confl.c	/^typedef uint16_t flex_uint16_t;$/;"	t	file:
+flex_uint16_t	confl.c	/^typedef unsigned short int flex_uint16_t;$/;"	t	file:
+flex_uint32_t	confl.c	/^typedef uint32_t flex_uint32_t;$/;"	t	file:
+flex_uint32_t	confl.c	/^typedef unsigned int flex_uint32_t;$/;"	t	file:
+flex_uint8_t	confl.c	/^typedef uint8_t flex_uint8_t;$/;"	t	file:
+flex_uint8_t	confl.c	/^typedef unsigned char flex_uint8_t; $/;"	t	file:
+fprintip	util.c	/^fprintip(FILE *stream, uint32_t ip, ncc_t *ncc)$/;"	f
+free_results_list	search.c	/^free_results_list(srch_results_t **results)$/;"	f
+host	Makefile	/^host = x86_64-unknown-linux-gnu$/;"	m
+host_alias	Makefile	/^host_alias = $/;"	m
+host_cpu	Makefile	/^host_cpu = x86_64$/;"	m
+host_os	Makefile	/^host_os = linux-gnu$/;"	m
+host_triplet	Makefile	/^host_triplet = x86_64-unknown-linux-gnu$/;"	m
+host_vendor	Makefile	/^host_vendor = unknown$/;"	m
+ht_count_extracts	hash.c	/^ht_count_extracts(ncc_t *ncc)$/;"	f
+ht_dump	hash.c	/^ht_dump(ncc_t *ncc)$/;"	f
+ht_expire_session	hash.c	/^ht_expire_session(ncc_t *ncc)$/;"	f
+ht_find	hash.c	/^ht_find(four_tuple_t *ft, ncc_t *ncc)$/;"	f
+ht_hash	hash.c	/^ht_hash(four_tuple_t *ft)$/;"	f
+ht_insert	hash.c	/^ht_insert(four_tuple_t *ft, ncc_t *ncc)$/;"	f
+ht_shutitdown	hash.c	/^ht_shutitdown(ncc_t *ncc)$/;"	f
+ht_status	hash.c	/^ht_status(ncc_t *ncc)$/;"	f
+htmldir	Makefile	/^htmldir = ${docdir}$/;"	m
+id	conf.c	/^static int id;$/;"	v	file:
+includedir	Makefile	/^includedir = ${prefix}\/include$/;"	m
+infodir	Makefile	/^infodir = ${datarootdir}\/info$/;"	m
+install_sh	Makefile	/^install_sh = ${SHELL} \/home\/weixz\/nfex\/nfex-read-only\/install-sh$/;"	m
+install_sh_DATA	Makefile	/^install_sh_DATA = $(install_sh) -c -m 644$/;"	m
+install_sh_PROGRAM	Makefile	/^install_sh_PROGRAM = $(install_sh) -c$/;"	m
+install_sh_SCRIPT	Makefile	/^install_sh_SCRIPT = $(install_sh) -c$/;"	m
+libdir	Makefile	/^libdir = ${exec_prefix}\/lib$/;"	m
+libexecdir	Makefile	/^libexecdir = ${exec_prefix}\/libexec$/;"	m
+localedir	Makefile	/^localedir = ${datarootdir}\/locale$/;"	m
+localstatedir	Makefile	/^localstatedir = ${prefix}\/var$/;"	m
+log_close	log.c	/^log_close(mmpd_t *m)$/;"	f
+log_init	log.c	/^log_init(char *logfile, mmpd_t *m)$/;"	f
+log_msg	log.c	/^log_msg(u_int8_t priority, mmpd_t *m, char *fmt, ...)$/;"	f
+main	main.c	/^main(int argc, char *argv[])$/;"	f
+mandir	Makefile	/^mandir = ${datarootdir}\/man$/;"	m
+mark_footer	extract.c	/^mark_footer(extract_list_t *elist, srch_results_t *footer)$/;"	f	file:
+mkdir_p	Makefile	/^mkdir_p = \/bin\/mkdir -p$/;"	m
+mkinstalldirs	Makefile	/^mkinstalldirs = $(install_sh) -d$/;"	m
+new_srch_node	search.c	/^new_srch_node(srch_nodetype_t nodetype)$/;"	f	file:
+nfex_LDADD	Makefile	/^nfex_LDADD = $(LDADD)$/;"	m
+nfex_OBJECTS	Makefile	/^nfex_OBJECTS = $(am_nfex_OBJECTS)$/;"	m
+nfex_SOURCES	Makefile	/^nfex_SOURCES = main.c \\$/;"	m
+oldincludedir	Makefile	/^oldincludedir = \/usr\/include$/;"	m
+open_extract	extract.c	/^open_extract(char *ext, uint32_t src_ip, uint16_t src_prt, uint32_t dst_ip, $/;"	f	file:
+pdfdir	Makefile	/^pdfdir = ${docdir}$/;"	m
+pkgdatadir	Makefile	/^pkgdatadir = $(datadir)\/nfex$/;"	m
+pkgincludedir	Makefile	/^pkgincludedir = $(includedir)\/nfex$/;"	m
+pkglibdir	Makefile	/^pkglibdir = $(libdir)\/nfex$/;"	m
+pkglibexecdir	Makefile	/^pkglibexecdir = $(libexecdir)\/nfex$/;"	m
+prefix	Makefile	/^prefix = \/usr\/local$/;"	m
+process_keypress	asynch.c	/^process_keypress(ncc_t *ncc)$/;"	f
+process_packet	packet.c	/^process_packet(u_char *user, const struct pcap_pkthdr *header, $/;"	f
+program_transform_name	Makefile	/^program_transform_name = s,x,x,$/;"	m
+psdir	Makefile	/^psdir = ${docdir}$/;"	m
+remv_srchptr	search.c	/^remv_srchptr(srchptr_list_t **srchptr_list, srchptr_list_t *p)$/;"	f	file:
+sbindir	Makefile	/^sbindir = ${exec_prefix}\/sbin$/;"	m
+search	search.c	/^search(srch_node_t *tree, srchptr_list_t **srchptr_list, uint8_t *buf, $/;"	f
+search_compile	search.c	/^search_compile(srch_node_t **srch_tree, int id, char *ext, u_long maxlen, $/;"	f
+set_segment_marks	extract.c	/^set_segment_marks(extract_list_t *elist, size_t size)$/;"	f	file:
+sharedstatedir	Makefile	/^sharedstatedir = ${prefix}\/com$/;"	m
+short	confy.c	154;"	d	file:
+srcdir	Makefile	/^srcdir = .$/;"	m
+stats	asynch.c	/^stats(ncc_t *ncc, int mode)$/;"	f
+string	confy.c	/^     char *string;$/;"	m	union:YYSTYPE	file:
+string	confy.h	/^     char *string;$/;"	m	union:YYSTYPE
+subdir	Makefile	/^subdir = src$/;"	m
+sweep_extract_list	extract.c	/^sweep_extract_list(extract_list_t **elist)$/;"	f	file:
+sysconf_DATA	Makefile	/^sysconf_DATA = ..\/conf\/nfex.conf$/;"	m
+sysconfdir	Makefile	/^sysconfdir = ${prefix}\/etc$/;"	m
+target_alias	Makefile	/^target_alias = $/;"	m
+the_game	asynch.c	/^the_game(ncc_t *ncc)$/;"	f
+top_build_prefix	Makefile	/^top_build_prefix = ..\/$/;"	m
+top_builddir	Makefile	/^top_builddir = ..$/;"	m
+top_srcdir	Makefile	/^top_srcdir = ..$/;"	m
+transform	Makefile	/^transform = $(program_transform_name)$/;"	m
+unput	confl.c	179;"	d	file:
+update_search	search.c	/^update_search(srch_node_t *tree, srchptr_list_t **srchptr_list, $/;"	f	file:
+update_search2	search.c	/^update_search2(srch_node_t *tree, srchptr_list_t **srchptr_list, $/;"	f	file:
+usage	main.c	/^usage(char *progname)$/;"	f
+yy_accept	confl.c	/^static yyconst flex_int16_t yy_accept[18] =$/;"	v	file:
+yy_at_bol	confl.c	/^	int yy_at_bol;$/;"	m	struct:yy_buffer_state	file:
+yy_base	confl.c	/^static yyconst flex_int16_t yy_base[21] =$/;"	v	file:
+yy_bs_column	confl.c	/^    int yy_bs_column; \/**< The column count. *\/$/;"	m	struct:yy_buffer_state	file:
+yy_bs_lineno	confl.c	/^    int yy_bs_lineno; \/**< The line count. *\/$/;"	m	struct:yy_buffer_state	file:
+yy_buf_pos	confl.c	/^	char *yy_buf_pos;		\/* current position in input buffer *\/$/;"	m	struct:yy_buffer_state	file:
+yy_buf_size	confl.c	/^	yy_size_t yy_buf_size;$/;"	m	struct:yy_buffer_state	file:
+yy_buffer_stack	confl.c	/^static YY_BUFFER_STATE * yy_buffer_stack = 0; \/**< Stack as an array. *\/$/;"	v	file:
+yy_buffer_stack_max	confl.c	/^static size_t yy_buffer_stack_max = 0; \/**< capacity of stack. *\/$/;"	v	file:
+yy_buffer_stack_top	confl.c	/^static size_t yy_buffer_stack_top = 0; \/**< index of top of stack. *\/$/;"	v	file:
+yy_buffer_state	confl.c	/^struct yy_buffer_state$/;"	s	file:
+yy_buffer_status	confl.c	/^	int yy_buffer_status;$/;"	m	struct:yy_buffer_state	file:
+yy_c_buf_p	confl.c	/^static char *yy_c_buf_p = (char *) 0;$/;"	v	file:
+yy_ch_buf	confl.c	/^	char *yy_ch_buf;		\/* input buffer *\/$/;"	m	struct:yy_buffer_state	file:
+yy_chk	confl.c	/^static yyconst flex_int16_t yy_chk[30] =$/;"	v	file:
+yy_create_buffer	confl.c	/^    YY_BUFFER_STATE yy_create_buffer  (FILE * file, int  size )$/;"	f
+yy_def	confl.c	/^static yyconst flex_int16_t yy_def[21] =$/;"	v	file:
+yy_delete_buffer	confl.c	/^    void yy_delete_buffer (YY_BUFFER_STATE  b )$/;"	f
+yy_did_buffer_switch_on_eof	confl.c	/^static int yy_did_buffer_switch_on_eof;$/;"	v	file:
+yy_ec	confl.c	/^static yyconst flex_int32_t yy_ec[256] =$/;"	v	file:
+yy_fatal_error	confl.c	/^static void yy_fatal_error (yyconst char* msg )$/;"	f	file:
+yy_fill_buffer	confl.c	/^	int yy_fill_buffer;$/;"	m	struct:yy_buffer_state	file:
+yy_flex_debug	confl.c	/^int yy_flex_debug = 0;$/;"	v
+yy_flex_strlen	confl.c	/^static int yy_flex_strlen (yyconst char * s )$/;"	f	file:
+yy_flex_strncpy	confl.c	/^static void yy_flex_strncpy (char* s1, yyconst char * s2, int n )$/;"	f	file:
+yy_flush_buffer	confl.c	/^    void yy_flush_buffer (YY_BUFFER_STATE  b )$/;"	f
+yy_get_next_buffer	confl.c	/^static int yy_get_next_buffer (void)$/;"	f	file:
+yy_get_previous_state	confl.c	/^    static yy_state_type yy_get_previous_state (void)$/;"	f	file:
+yy_hold_char	confl.c	/^static char yy_hold_char;$/;"	v	file:
+yy_init	confl.c	/^static int yy_init = 0;		\/* whether we need to initialize *\/$/;"	v	file:
+yy_init_buffer	confl.c	/^    static void yy_init_buffer  (YY_BUFFER_STATE  b, FILE * file )$/;"	f	file:
+yy_init_globals	confl.c	/^static int yy_init_globals (void)$/;"	f	file:
+yy_input_file	confl.c	/^	FILE *yy_input_file;$/;"	m	struct:yy_buffer_state	file:
+yy_is_interactive	confl.c	/^	int yy_is_interactive;$/;"	m	struct:yy_buffer_state	file:
+yy_is_our_buffer	confl.c	/^	int yy_is_our_buffer;$/;"	m	struct:yy_buffer_state	file:
+yy_last_accepting_cpos	confl.c	/^static char *yy_last_accepting_cpos;$/;"	v	file:
+yy_last_accepting_state	confl.c	/^static yy_state_type yy_last_accepting_state;$/;"	v	file:
+yy_load_buffer_state	confl.c	/^static void yy_load_buffer_state  (void)$/;"	f	file:
+yy_meta	confl.c	/^static yyconst flex_int32_t yy_meta[10] =$/;"	v	file:
+yy_n_chars	confl.c	/^	int yy_n_chars;$/;"	m	struct:yy_buffer_state	file:
+yy_n_chars	confl.c	/^static int yy_n_chars;		\/* number of characters read into yy_ch_buf *\/$/;"	v	file:
+yy_new_buffer	confl.c	308;"	d	file:
+yy_nxt	confl.c	/^	flex_int32_t yy_nxt;$/;"	m	struct:yy_trans_info	file:
+yy_nxt	confl.c	/^static yyconst flex_int16_t yy_nxt[30] =$/;"	v	file:
+yy_reduce_print	confy.c	/^yy_reduce_print (YYSTYPE *yyvsp, int yyrule, void *a)$/;"	f	file:
+yy_scan_buffer	confl.c	/^YY_BUFFER_STATE yy_scan_buffer  (char * base, yy_size_t  size )$/;"	f
+yy_scan_bytes	confl.c	/^YY_BUFFER_STATE yy_scan_bytes  (yyconst char * yybytes, int  _yybytes_len )$/;"	f
+yy_scan_string	confl.c	/^YY_BUFFER_STATE yy_scan_string (yyconst char * yystr )$/;"	f
+yy_set_bol	confl.c	320;"	d	file:
+yy_set_interactive	confl.c	310;"	d	file:
+yy_size_t	confl.c	/^typedef size_t yy_size_t;$/;"	t	file:
+yy_stack_print	confy.c	/^yy_stack_print (yytype_int16 *bottom, yytype_int16 *top)$/;"	f	file:
+yy_start	confl.c	/^static int yy_start = 0;	\/* start state number *\/$/;"	v	file:
+yy_state_type	confl.c	/^typedef int yy_state_type;$/;"	t	file:
+yy_switch_to_buffer	confl.c	/^    void yy_switch_to_buffer  (YY_BUFFER_STATE  new_buffer )$/;"	f
+yy_symbol_print	confy.c	/^yy_symbol_print (FILE *yyoutput, int yytype, YYSTYPE const * const yyvaluep, void *a)$/;"	f	file:
+yy_symbol_value_print	confy.c	/^yy_symbol_value_print (FILE *yyoutput, int yytype, YYSTYPE const * const yyvaluep, void *a)$/;"	f	file:
+yy_trans_info	confl.c	/^struct yy_trans_info$/;"	s	file:
+yy_try_NUL_trans	confl.c	/^    static yy_state_type yy_try_NUL_trans  (yy_state_type yy_current_state )$/;"	f	file:
+yy_verify	confl.c	/^	flex_int32_t yy_verify;$/;"	m	struct:yy_trans_info	file:
+yyalloc	confl.c	/^void *yyalloc (yy_size_t  size )$/;"	f
+yyalloc	confy.c	/^union yyalloc$/;"	u	file:
+yychar	confy.c	/^int yychar;$/;"	v
+yycheck	confy.c	/^static const yytype_int8 yycheck[] =$/;"	v	file:
+yyclearin	confy.c	555;"	d	file:
+yyconst	confl.c	105;"	d	file:
+yyconst	confl.c	107;"	d	file:
+yydebug	confy.c	/^int yydebug;$/;"	v
+yydefact	confy.c	/^static const yytype_uint8 yydefact[] =$/;"	v	file:
+yydefgoto	confy.c	/^static const yytype_int8 yydefgoto[] =$/;"	v	file:
+yydestruct	confy.c	/^yydestruct (const char *yymsg, int yytype, YYSTYPE *yyvaluep, void *a)$/;"	f	file:
+yyensure_buffer_stack	confl.c	/^static void yyensure_buffer_stack (void)$/;"	f	file:
+yyerrok	confy.c	554;"	d	file:
+yyerror	confy.c	/^yyerror(char *s)$/;"	f
+yyfree	confl.c	/^void yyfree (void * ptr )$/;"	f
+yyget_debug	confl.c	/^int yyget_debug  (void)$/;"	f
+yyget_in	confl.c	/^FILE *yyget_in  (void)$/;"	f
+yyget_leng	confl.c	/^int yyget_leng  (void)$/;"	f
+yyget_lineno	confl.c	/^int yyget_lineno  (void)$/;"	f
+yyget_out	confl.c	/^FILE *yyget_out  (void)$/;"	f
+yyget_text	confl.c	/^char *yyget_text  (void)$/;"	f
+yyin	confl.c	/^FILE *yyin = (FILE *) 0, *yyout = (FILE *) 0;$/;"	v
+yyinput	confl.c	/^    static int yyinput (void)$/;"	f	file:
+yyleng	confl.c	/^int yyleng;$/;"	v
+yyless	confl.c	1609;"	d	file:
+yyless	confl.c	1610;"	d	file:
+yyless	confl.c	166;"	d	file:
+yylex_destroy	confl.c	/^int yylex_destroy  (void)$/;"	f
+yylineno	confl.c	/^int yylineno = 1;$/;"	v
+yylval	confy.c	/^YYSTYPE yylval;$/;"	v
+yymore	confl.c	450;"	d	file:
+yynerrs	confy.c	/^int yynerrs;$/;"	v
+yyout	confl.c	/^FILE *yyin = (FILE *) 0, *yyout = (FILE *) 0;$/;"	v
+yypact	confy.c	/^static const yytype_int8 yypact[] =$/;"	v	file:
+yyparse	confy.c	/^yyparse (void *YYPARSE_PARAM)$/;"	f
+yypgoto	confy.c	/^static const yytype_int8 yypgoto[] =$/;"	v	file:
+yypop_buffer_state	confl.c	/^void yypop_buffer_state (void)$/;"	f
+yyprhs	confy.c	/^static const yytype_uint8 yyprhs[] =$/;"	v	file:
+yypush_buffer_state	confl.c	/^void yypush_buffer_state (YY_BUFFER_STATE new_buffer )$/;"	f
+yyr1	confy.c	/^static const yytype_uint8 yyr1[] =$/;"	v	file:
+yyr2	confy.c	/^static const yytype_uint8 yyr2[] =$/;"	v	file:
+yyrealloc	confl.c	/^void *yyrealloc  (void * ptr, yy_size_t  size )$/;"	f
+yyrestart	confl.c	/^    void yyrestart  (FILE * input_file )$/;"	f
+yyrhs	confy.c	/^static const yytype_int8 yyrhs[] =$/;"	v	file:
+yyrline	confy.c	/^static const yytype_uint8 yyrline[] =$/;"	v	file:
+yyset_debug	confl.c	/^void yyset_debug (int  bdebug )$/;"	f
+yyset_in	confl.c	/^void yyset_in (FILE *  in_str )$/;"	f
+yyset_lineno	confl.c	/^void yyset_lineno (int  line_number )$/;"	f
+yyset_out	confl.c	/^void yyset_out (FILE *  out_str )$/;"	f
+yyss	confy.c	/^  yytype_int16 yyss;$/;"	m	union:yyalloc	file:
+yystos	confy.c	/^static const yytype_uint8 yystos[] =$/;"	v	file:
+yystpcpy	confy.c	/^yystpcpy (char *yydest, const char *yysrc)$/;"	f	file:
+yystpcpy	confy.c	854;"	d	file:
+yystrlen	confy.c	/^yystrlen (const char *yystr)$/;"	f	file:
+yystrlen	confy.c	831;"	d	file:
+yystype	confy.c	140;"	d	file:
+yystype	confy.h	66;"	d
+yysyntax_error	confy.c	/^yysyntax_error (char *yyresult, int yystate, int yychar)$/;"	f	file:
+yytable	confy.c	/^static const yytype_uint8 yytable[] =$/;"	v	file:
+yyterminate	confl.c	611;"	d	file:
+yytext	confl.c	/^char *yytext;$/;"	v
+yytext_ptr	confl.c	345;"	d	file:
+yytname	confy.c	/^static const char *const yytname[] =$/;"	v	file:
+yytnamerr	confy.c	/^yytnamerr (char *yyres, const char *yystr)$/;"	f	file:
+yytokentype	confy.c	/^   enum yytokentype {$/;"	g	file:
+yytokentype	confy.h	/^   enum yytokentype {$/;"	g
+yytoknum	confy.c	/^static const yytype_uint16 yytoknum[] =$/;"	v	file:
+yytranslate	confy.c	/^static const yytype_uint8 yytranslate[] =$/;"	v	file:
+yytype_int16	confy.c	/^typedef YYTYPE_INT16 yytype_int16;$/;"	t	file:
+yytype_int16	confy.c	/^typedef short int yytype_int16;$/;"	t	file:
+yytype_int8	confy.c	/^typedef YYTYPE_INT8 yytype_int8;$/;"	t	file:
+yytype_int8	confy.c	/^typedef short int yytype_int8;$/;"	t	file:
+yytype_int8	confy.c	/^typedef signed char yytype_int8;$/;"	t	file:
+yytype_uint16	confy.c	/^typedef YYTYPE_UINT16 yytype_uint16;$/;"	t	file:
+yytype_uint16	confy.c	/^typedef unsigned short int yytype_uint16;$/;"	t	file:
+yytype_uint8	confy.c	/^typedef YYTYPE_UINT8 yytype_uint8;$/;"	t	file:
+yytype_uint8	confy.c	/^typedef unsigned char yytype_uint8;$/;"	t	file:
+yyunput	confl.c	/^    static void yyunput (int c, register char * yy_bp )$/;"	f	file:
+yyvs	confy.c	/^  YYSTYPE yyvs;$/;"	m	union:yyalloc	file:
